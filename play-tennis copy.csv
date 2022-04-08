@@ -1,0 +1,15 @@
+outlook,temperature,humidity,wind,class
+sunny,85,85,weak,0
+sunny,80,90,strong,0
+overcast,83,78,weak,1
+rain,70,96,weak,1
+rain,68,80,weak,1
+rain,65,70,strong,0
+overcast,64,65,strong,1
+sunny,72,95,weak,0
+sunny,69,70,weak,1
+rain,75,80,weak,1
+sunny,75,70,strong,1
+overcast,72,90,strong,1
+overcast,81,75,weak,1
+rain,71,80,strong,0
