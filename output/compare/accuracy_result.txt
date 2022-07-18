@@ -1,0 +1,60 @@
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+ACCURACY for data drst in model RandomForestClassifier with split ration 20-80 === 0.7625
+ACCURACY for data chi in model RandomForestClassifier with split ration 20-80 === 0.7875
+ACCURACY for data ent in model RandomForestClassifier with split ration 20-80 === 0.785
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 30-70 === 0.7783333333333333
+ACCURACY for data chi in model RandomForestClassifier with split ration 30-70 === 0.79
+ACCURACY for data ent in model RandomForestClassifier with split ration 30-70 === 0.7766666666666666
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 40-60 === 0.77
+ACCURACY for data chi in model RandomForestClassifier with split ration 40-60 === 0.78375
+ACCURACY for data ent in model RandomForestClassifier with split ration 40-60 === 0.77875
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+ACCURACY for data drst in model RandomForestClassifier with split ration 20-80 === 0.745
+ACCURACY for data chi in model RandomForestClassifier with split ration 20-80 === 0.7875
+ACCURACY for data ent in model RandomForestClassifier with split ration 20-80 === 0.785
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 30-70 === 0.775
+ACCURACY for data chi in model RandomForestClassifier with split ration 30-70 === 0.79
+ACCURACY for data ent in model RandomForestClassifier with split ration 30-70 === 0.7766666666666666
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 40-60 === 0.76625
+ACCURACY for data chi in model RandomForestClassifier with split ration 40-60 === 0.78375
+ACCURACY for data ent in model RandomForestClassifier with split ration 40-60 === 0.77875
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+ACCURACY for data drst in model RandomForestClassifier with split ration 20-80 === 0.775
+ACCURACY for data chi in model RandomForestClassifier with split ration 20-80 === 0.735
+ACCURACY for data ent in model RandomForestClassifier with split ration 20-80 === 0.735
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 30-70 === 0.78
+ACCURACY for data chi in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+ACCURACY for data ent in model RandomForestClassifier with split ration 30-70 === 0.7433333333333333
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 40-60 === 0.7725
+ACCURACY for data chi in model RandomForestClassifier with split ration 40-60 === 0.7575
+ACCURACY for data ent in model RandomForestClassifier with split ration 40-60 === 0.7775
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+ACCURACY for data drst in model RandomForestClassifier with split ration 20-80 === 0.775
+ACCURACY for data chi in model RandomForestClassifier with split ration 20-80 === 0.735
+ACCURACY for data ent in model RandomForestClassifier with split ration 20-80 === 0.735
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 30-70 === 0.7766666666666666
+ACCURACY for data chi in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+ACCURACY for data ent in model RandomForestClassifier with split ration 30-70 === 0.7433333333333333
+
+ACCURACY for data drst in model RandomForestClassifier with split ration 40-60 === 0.7675
+ACCURACY for data chi in model RandomForestClassifier with split ration 40-60 === 0.7575
+ACCURACY for data ent in model RandomForestClassifier with split ration 40-60 === 0.7775
+
