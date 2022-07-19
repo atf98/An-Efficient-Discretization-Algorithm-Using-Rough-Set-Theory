@@ -55,11 +55,13 @@ class DRST:
 
     def __init__(
         self,
-        checker_type: str = 'topN',
         comb_max_depth: int = None,
         decision_column_name: str = 'class',
         output_loction=None,
-        save_output=True
+        save_output=True,
+        checker_type: str = 'topN',
+        topN_thrshold: str = 0.5,
+        ratio_thrshold: str = 0.5,
     ):
 
         # Primary Data Information
@@ -81,6 +83,8 @@ class DRST:
         # check_discrete
         self.dis_check_threshold = 0.5
         self.dis_checker = checker_type  # ratio
+        self.topN_thrshold = topN_thrshold  # topN_thrshold
+        self.ratio_thrshold = ratio_thrshold  # ratio_thrshold
         self.checker_top_n = 10  # defult number of top N for topN checker
 
         # Config Tools
@@ -294,17 +298,17 @@ class DRST:
     def _check_continuous(self, continous_columns: list = []):
         top_n = self.checker_top_n
         likely = []
-
         # check if attribute is continuous or discrete dataframe
         for var in self.data.columns:
-            if self.dis_checker == 'topN':
-                # Check if the top n unique values account for more than a certain proportion of all values
-                if 1.*self.data[var].value_counts(normalize=True).head(top_n).sum() < 0.5:
-                    likely.append(var)
-            elif self.dis_checker == 'ratio':
-                # Find the ratio of number of unique values to the total number of unique values. Something like the following
-                if 1.*self.data[var].nunique()/self.data[var].count() > 0.5:
-                    likely.append(var)
+            if self.data[var].dtype in [np.int64, np.float64]:
+                if self.dis_checker == 'topN':
+                    # Check if the top n unique values account for more than a certain proportion of all values
+                    if 1.*self.data[var].value_counts(normalize=True).head(top_n).sum() < self.topN_thrshold:
+                        likely.append(var)
+                elif self.dis_checker == 'ratio':
+                    # Find the ratio of number of unique values to the total number of unique values. Something like the following
+                    if 1.*self.data[var].nunique()/self.data[var].count() > self.ratio_thrshold:
+                        likely.append(var)
 
         common_names = ['id']
 
@@ -322,7 +326,6 @@ class DRST:
         return data_endocded
 
     def _scaling_continuous(self):
-
         data_cluster = self.data[self.continuous_columns].copy()
         scaled_columns = self.scaler.fit_transform(data_cluster)
         self.scaled_data = self.data.copy()
