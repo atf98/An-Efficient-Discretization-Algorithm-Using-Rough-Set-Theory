@@ -1,4 +1,3 @@
-months_as_customer,age,policy_state,policy_csl,policy_deductable,policy_annual_premium,insured_sex,insured_education_level,insured_occupation,insured_hobbies,insured_relationship,incident_type,incident_severity,authorities_contacted,incident_hour_of_the_day,number_of_vehicles_involved,bodily_injuries,witnesses,total_claim_amount,auto_make,auto_year,fraud_reported
 328,48,OH,250/500,1000,1406.91,MALE,MD,craft-repair,sleeping,husband,Single Vehicle Collision,Major Damage,Police,5,1,1,2,71610,Saab,2004,Y
 228,42,IN,250/500,2000,1197.22,MALE,MD,machine-op-inspct,reading,other-relative,Vehicle Theft,Minor Damage,Police,8,1,0,0,5070,Mercedes,2007,Y
 134,29,OH,100/300,2000,1413.14,FEMALE,PhD,sales,board-games,own-child,Multi-vehicle Collision,Minor Damage,Police,7,3,2,3,34650,Dodge,2007,N

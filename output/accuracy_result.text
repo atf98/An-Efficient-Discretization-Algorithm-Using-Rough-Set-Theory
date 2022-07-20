@@ -124,3 +124,156 @@ data Health Insurance:ACCURACY for data data_drst in model XGBRFClassifier with 
 data D2:ACCURACY for data data_original in model XGBRFClassifier with split ration 40-60 === 0.83
 data D2:ACCURACY for data data_drst in model XGBRFClassifier with split ration 40-60 === 0.85
 
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.72
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.775
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.72
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.775
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.77
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.74
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7633333333333333
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.78
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7633333333333333
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7525
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7725
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.79
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7725
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.72
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.775
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.77
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.74
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7633333333333333
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.78
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7633333333333333
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7525
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7725
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.79
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7725
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.735
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.79
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.735
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.735
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.76
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.78
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7733333333333333
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.75
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7625
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.76
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7925
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.75
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.73
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.78
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.75
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.74
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7466666666666667
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.7833333333333333
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7633333333333333
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.755
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7675
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7825
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7625
+
+___________________________________________________
+All DecisionTrees Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model DecisionTrees with split ration 20-80 === 0.7
+data Health Insurance:ACCURACY for data data_drst in model DecisionTrees with split ration 20-80 === 0.725
+
+data D2:ACCURACY for data data_original in model DecisionTrees with split ration 20-80 === 0.765
+data D2:ACCURACY for data data_drst in model DecisionTrees with split ration 20-80 === 0.765
+
+data Health Insurance:ACCURACY for data data_original in model DecisionTrees with split ration 30-70 === 0.7233333333333334
+data Health Insurance:ACCURACY for data data_drst in model DecisionTrees with split ration 30-70 === 0.7266666666666667
+
+data D2:ACCURACY for data data_original in model DecisionTrees with split ration 30-70 === 0.71
+data D2:ACCURACY for data data_drst in model DecisionTrees with split ration 30-70 === 0.7866666666666666
+
+data Health Insurance:ACCURACY for data data_original in model DecisionTrees with split ration 40-60 === 0.75
+data Health Insurance:ACCURACY for data data_drst in model DecisionTrees with split ration 40-60 === 0.7325
+
+data D2:ACCURACY for data data_original in model DecisionTrees with split ration 40-60 === 0.78
+data D2:ACCURACY for data data_drst in model DecisionTrees with split ration 40-60 === 0.7525
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.7566666666666667
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.8333333333333334
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.765
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.74
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7511111111111111
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.78
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7533333333333333
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.75
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7466666666666667
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7816666666666666
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7825
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.775
+
+___________________________________________________
+All RandomForestClassifier Results
+___________________________________________________
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.7566666666666667
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.76
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 20-80 === 0.72
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 20-80 === 0.77
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.7466666666666667
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.7666666666666667
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 30-70 === 0.75
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 30-70 === 0.76
+
+data Health Insurance:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.76
+data Health Insurance:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.7483333333333333
+
+data D2:ACCURACY for data data_original in model RandomForestClassifier with split ration 40-60 === 0.7775
+data D2:ACCURACY for data data_drst in model RandomForestClassifier with split ration 40-60 === 0.755
+
