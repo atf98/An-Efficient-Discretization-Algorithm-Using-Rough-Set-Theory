@@ -1,1 +1,26 @@
-Number of objects = 680Number of features = 16
+Number of objects = 680
+Number of features = 16
+0:20-80 RandomForestClassifier accuracy === 0.8970588235294118
+0:20-80 Number of rules === 12724
+1:20-80 RandomForestClassifier accuracy === 0.9117647058823529
+1:20-80 Number of rules === 12703
+0:30-70 RandomForestClassifier accuracy === 0.8676470588235294
+0:30-70 Number of rules === 10121
+1:30-70 RandomForestClassifier accuracy === 0.8627450980392157
+1:30-70 Number of rules === 10280
+0:40-60 RandomForestClassifier accuracy === 0.8823529411764706
+0:40-60 Number of rules === 10178
+1:40-60 RandomForestClassifier accuracy === 0.8602941176470589
+1:40-60 Number of rules === 9664
+0:20-80 RandomForestClassifier accuracy === 0.8978102189781022
+0:20-80 Number of rules === 17660
+1:20-80 RandomForestClassifier accuracy === 0.8833333333333333
+1:20-80 Number of rules === 3544
+0:30-70 RandomForestClassifier accuracy === 0.8731707317073171
+0:30-70 Number of rules === 10757
+1:30-70 RandomForestClassifier accuracy === 0.9
+1:30-70 Number of rules === 3626
+0:40-60 RandomForestClassifier accuracy === 0.8864468864468864
+0:40-60 Number of rules === 9545
+1:40-60 RandomForestClassifier accuracy === 0.8583333333333333
+1:40-60 Number of rules === 3686
