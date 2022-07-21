@@ -1,2 +1,0 @@
-Number of objects = 507
-Number of features = 27

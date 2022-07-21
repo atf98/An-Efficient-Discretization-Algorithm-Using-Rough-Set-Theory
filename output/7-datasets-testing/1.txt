@@ -1,0 +1,28 @@
+bands:20-80:RandomForestClassifier accuracy === 0.8333333333333334
+bands:30-70:RandomForestClassifier accuracy === 0.8366013071895425
+bands:40-60:RandomForestClassifier accuracy === 0.7980295566502463
+-------------------------------------------------------
+crx:20-80:RandomForestClassifier accuracy === 0.8823529411764706
+crx:30-70:RandomForestClassifier accuracy === 0.8921568627450981
+crx:40-60:RandomForestClassifier accuracy === 0.8860294117647058
+-------------------------------------------------------
+d2:20-80:RandomForestClassifier accuracy === 0.82
+d2:30-70:RandomForestClassifier accuracy === 0.8066666666666666
+d2:40-60:RandomForestClassifier accuracy === 0.785
+-------------------------------------------------------
+hepatitis:20-80:RandomForestClassifier accuracy === 0.8666666666666667
+hepatitis:30-70:RandomForestClassifier accuracy === 0.8444444444444444
+hepatitis:40-60:RandomForestClassifier accuracy === 0.8666666666666667
+-------------------------------------------------------
+health_insurance1:20-80:RandomForestClassifier accuracy === 0.83
+health_insurance1:30-70:RandomForestClassifier accuracy === 0.8166666666666667
+health_insurance1:40-60:RandomForestClassifier accuracy === 0.78
+-------------------------------------------------------
+horse-colic:20-80:RandomForestClassifier accuracy === 0.8833333333333333
+horse-colic:30-70:RandomForestClassifier accuracy === 0.8666666666666667
+horse-colic:40-60:RandomForestClassifier accuracy === 0.8583333333333333
+-------------------------------------------------------
+play_tennis_three:20-80:RandomForestClassifier accuracy === 0.6666666666666666
+play_tennis_three:30-70:RandomForestClassifier accuracy === 1.0
+play_tennis_three:40-60:RandomForestClassifier accuracy === 0.5
+-------------------------------------------------------

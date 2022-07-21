@@ -246,6 +246,11 @@ class DRST:
                     if upper_flag:
                         is_upper = len(self.all_combinations)*self.ensamble_theshold <= dependency_dict[value_dict]['upper'][True]
 
+                    if lower_flag:
+                        is_lower = len(self.all_combinations)/1.5 <= dependency_dict[value_dict]['lower'][True]
+                    if upper_flag:
+                        is_upper = len(self.all_combinations)/1.5 <= dependency_dict[value_dict]['upper'][True]
+
                     if is_lower or is_upper:
                         lower_flag=is_lower
                         upper_flag=is_upper

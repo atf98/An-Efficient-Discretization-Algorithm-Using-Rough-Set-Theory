@@ -1,0 +1,15 @@
+class attruite blanceing bands [312, 227, 1]
+Number of objects = 507
+Number of features = 27
+0:20-80 RandomForestClassifier accuracy === 0.7745098039215687
+1:20-80 RandomForestClassifier accuracy === 0.8333333333333334
+0:20-80 Number of rules === 7114
+1:20-80 Number of rules === 7683
+0:30-70 RandomForestClassifier accuracy === 0.7712418300653595
+1:30-70 RandomForestClassifier accuracy === 0.8366013071895425
+0:30-70 Number of rules === 5679
+1:30-70 Number of rules === 6747
+0:40-60 RandomForestClassifier accuracy === 0.7635467980295566
+1:40-60 RandomForestClassifier accuracy === 0.7980295566502463
+0:40-60 Number of rules === 6947
+1:40-60 Number of rules === 6043
