@@ -311,7 +311,7 @@ class DRST:
                     if 1.*self.data[var].value_counts(normalize=True).head(top_n).sum() < self.topN_thrshold:
                         likely.append(var)
                 elif self.dis_checker == 'ratio':
-                    # Find the ratio of number of unique values to the total number of unique values. Something like the following
+                    # Find the ratio of number of unique values to the total number of unique values
                     if 1.*self.data[var].nunique()/self.data[var].count() > self.ratio_thrshold:
                         likely.append(var)
 

@@ -1,0 +1,410 @@
+Number of objects = 148
+Number of features = 16
+0:20-80 RandomForestClassifier accuracy === 0.7333333333333333
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667
+0:20-80 Number of rules === 958
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444
+0:30-70 Number of rules === 1834
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667
+0:40-60 Number of rules === 1310
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.128678560256958
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.11870503425598145
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.12466645240783691
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.1366112232208252
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.14261865615844727
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.12466669082641602
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.2293870449066162
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.21741795539855957
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.12663865089416504
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.1466076374053955
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.11768436431884766
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.11469268798828125
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.1874995231628418
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.13663554191589355
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.13962602615356445
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.1127007007598877
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.118682861328125
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.11469340324401855
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.12566399574279785
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.13862919807434082
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.1765270233154297
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.14960026741027832
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.126662015914917
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.1186833381652832
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.11771440505981445
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.1266622543334961
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.2782559394836426
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.15957307815551758
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.16455936431884766
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.14860272407531738
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.11871051788330078
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.3151564598083496
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.1296529769897461
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.11768627166748047
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.10968351364135742
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.16895818710327148
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.1241304874420166
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.12916183471679688
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.13416743278503418
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.13224148750305176
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.13029050827026367
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.11911177635192871
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.16256451606750488
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.2065584659576416
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.18440032005310059
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.25297093391418457
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.2066206932067871
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.15491127967834473
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.17453265190124512
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.1406233310699463
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.12169718742370605
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.18647289276123047
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.11770844459533691
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.1336195468902588
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.11665797233581543
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.11967945098876953
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.12067699432373047
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.11967921257019043
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.18149113655090332
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.13164758682250977
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.13364267349243164
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.14960002899169922
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.13786816596984863
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.13202595710754395
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.15124773979187012
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.12686824798583984
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.14696264266967773
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.12479972839355469
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.13590097427368164
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.12389945983886719
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.1449892520904541
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.14096570014953613
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8 with time === 0.12619733810424805
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.14316010475158691
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.15013504028320312
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.1397545337677002
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.11797523498535156
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.12912464141845703
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.9 with time === 0.013962745666503906
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.013962984085083008
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.012964725494384766
+0:30-70 Number of rules === 1956
+1:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.013962507247924805
+1:30-70 Number of rules === 1414
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.013962507247924805
+0:40-60 Number of rules === 964
+1:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.014960527420043945
+1:40-60 Number of rules === 1514
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.03989267349243164
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.016954660415649414
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.035903215408325195
+0:30-70 Number of rules === 1996
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.03641152381896973
+1:30-70 Number of rules === 1706
+0:40-60 RandomForestClassifier accuracy === 0.75 with time === 0.03490591049194336
+0:40-60 Number of rules === 1442
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.013962984085083008
+1:40-60 Number of rules === 1370
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.01296544075012207
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.013962268829345703
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.013963937759399414
+0:30-70 Number of rules === 1996
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.012964963912963867
+1:30-70 Number of rules === 1706
+0:40-60 RandomForestClassifier accuracy === 0.75 with time === 0.02692723274230957
+0:40-60 Number of rules === 1442
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.015957117080688477
+1:40-60 Number of rules === 1370
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.013986825942993164
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.015957117080688477
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.014960050582885742
+0:30-70 Number of rules === 1996
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.014960289001464844
+1:30-70 Number of rules === 1706
+0:40-60 RandomForestClassifier accuracy === 0.75 with time === 0.013964176177978516
+0:40-60 Number of rules === 1442
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.01294255256652832
+1:40-60 Number of rules === 1370
+0:20-80 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.06285429000854492
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.06085920333862305
+1:20-80 Number of rules === 2503
+0:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.05984616279602051
+0:30-70 Number of rules === 1996
+1:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.06485676765441895
+1:30-70 Number of rules === 1706
+0:40-60 RandomForestClassifier accuracy === 0.8166666666666667 with time === 0.06284165382385254
+0:40-60 Number of rules === 1442
+1:40-60 RandomForestClassifier accuracy === 0.85 with time === 0.06283116340637207
+1:40-60 Number of rules === 1370
+0:20-80 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.07579827308654785
+0:20-80 Number of rules === 1602
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.06383132934570312
+1:20-80 Number of rules === 2098
+0:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.060837507247924805
+0:30-70 Number of rules === 1996
+1:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.06981444358825684
+1:30-70 Number of rules === 1706
+0:40-60 RandomForestClassifier accuracy === 0.8166666666666667 with time === 0.06283211708068848
+0:40-60 Number of rules === 1442
+1:40-60 RandomForestClassifier accuracy === 0.85 with time === 0.06382894515991211
+1:40-60 Number of rules === 1370
+0:20-80 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.09474802017211914
+0:20-80 Number of rules === 260
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.06582331657409668
+1:20-80 Number of rules === 260
+0:30-70 RandomForestClassifier accuracy === 0.7777777777777778 with time === 0.05585074424743652
+0:30-70 Number of rules === 260
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.09275293350219727
+1:30-70 Number of rules === 260
+0:40-60 RandomForestClassifier accuracy === 0.7833333333333333 with time === 0.05884265899658203
+0:40-60 Number of rules === 260
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.0578455924987793
+1:40-60 Number of rules === 260
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.0648036003112793
+0:20-80 Number of rules === 450
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.14261841773986816
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8 with time === 0.08676743507385254
+0:30-70 Number of rules === 546
+1:30-70 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.07180905342102051
+1:30-70 Number of rules === 450
+0:40-60 RandomForestClassifier accuracy === 0.8 with time === 0.0718085765838623
+0:40-60 Number of rules === 546
+1:40-60 RandomForestClassifier accuracy === 0.8166666666666667 with time === 0.06383061408996582
+1:40-60 Number of rules === 546
+0:20-80 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.06682062149047852
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.05884218215942383
+1:20-80 Number of rules === 858
+0:30-70 RandomForestClassifier accuracy === 0.8 with time === 0.08876252174377441
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.05884194374084473
+1:30-70 Number of rules === 866
+0:40-60 RandomForestClassifier accuracy === 0.8 with time === 0.061834096908569336
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.85 with time === 0.06482625007629395
+1:40-60 Number of rules === 764
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.015956878662109375
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.014958620071411133
+1:20-80 Number of rules === 858
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.021941661834716797
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8222222222222222 with time === 0.019946575164794922
+1:30-70 Number of rules === 866
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.018948793411254883
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8833333333333333 with time === 0.01695418357849121
+1:40-60 Number of rules === 764
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.012964963912963867
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.012964963912963867
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.011968135833740234
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.01196742057800293
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.012970447540283203
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.012995004653930664
+1:40-60 Number of rules === 548
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.01695537567138672
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.013963699340820312
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.012989044189453125
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.014960765838623047
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.013962507247924805
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.013962030410766602
+1:40-60 Number of rules === 548
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.012965679168701172
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 0.012965679168701172
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.012964725494384766
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 0.012964725494384766
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 0.012964487075805664
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 0.012964963912963867
+1:40-60 Number of rules === 548
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 20ms
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 15ms
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 13ms
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 17ms
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 14ms
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 12ms
+1:40-60 Number of rules === 548
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 15ms
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 13ms
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 12ms
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 13ms
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 15ms
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 15ms
+1:40-60 Number of rules === 548
+0:20-80 RandomForestClassifier accuracy === 0.8333333333333334 with time === 14ms
+0:20-80 Number of rules === 660
+1:20-80 RandomForestClassifier accuracy === 0.8666666666666667 with time === 13ms
+1:20-80 Number of rules === 450
+0:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 12ms
+0:30-70 Number of rules === 968
+1:30-70 RandomForestClassifier accuracy === 0.8444444444444444 with time === 15ms
+1:30-70 Number of rules === 542
+0:40-60 RandomForestClassifier accuracy === 0.7666666666666667 with time === 14ms
+0:40-60 Number of rules === 462
+1:40-60 RandomForestClassifier accuracy === 0.8333333333333334 with time === 13ms
+1:40-60 Number of rules === 548

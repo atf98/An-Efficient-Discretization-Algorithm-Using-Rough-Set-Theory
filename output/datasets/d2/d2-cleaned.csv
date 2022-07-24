@@ -1,0 +1,1001 @@
+0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21
+328,48,OH,250/500,1000,1406.91,MALE,MD,craft-repair,sleeping,husband,Single Vehicle Collision,Major Damage,Police,5,1,1,2,71610,Saab,2004,Y
+228,42,IN,250/500,2000,1197.22,MALE,MD,machine-op-inspct,reading,other-relative,Vehicle Theft,Minor Damage,Police,8,1,0,0,5070,Mercedes,2007,Y
+134,29,OH,100/300,2000,1413.14,FEMALE,PhD,sales,board-games,own-child,Multi-vehicle Collision,Minor Damage,Police,7,3,2,3,34650,Dodge,2007,N
+256,41,IL,250/500,2000,1415.74,FEMALE,PhD,armed-forces,board-games,unmarried,Single Vehicle Collision,Major Damage,Police,5,1,1,2,63400,Chevrolet,2014,Y
+228,44,IL,500/1000,1000,1583.91,MALE,Associate,sales,board-games,unmarried,Vehicle Theft,Minor Damage,None,20,1,0,1,6500,Accura,2009,N
+256,39,OH,250/500,1000,1351.1,FEMALE,PhD,tech-support,bungie-jumping,unmarried,Multi-vehicle Collision,Major Damage,Fire,19,3,0,2,64100,Saab,2003,Y
+137,34,IN,250/500,1000,1333.35,MALE,PhD,prof-specialty,board-games,husband,Multi-vehicle Collision,Minor Damage,Police,0,3,0,0,78650,Nissan,2012,N
+165,37,IL,100/300,1000,1137.03,MALE,Associate,tech-support,base-jumping,unmarried,Multi-vehicle Collision,Total Loss,Police,23,3,2,2,51590,Audi,2015,N
+27,33,IL,100/300,500,1442.99,FEMALE,PhD,other-service,golf,own-child,Single Vehicle Collision,Total Loss,Police,21,1,1,1,27700,Toyota,2012,N
+212,42,IL,100/300,500,1315.68,MALE,PhD,priv-house-serv,camping,wife,Single Vehicle Collision,Total Loss,Other,14,1,2,1,42300,Saab,1996,N
+235,42,OH,100/300,500,1253.12,FEMALE,Masters,exec-managerial,dancing,other-relative,Single Vehicle Collision,Total Loss,Police,22,1,2,2,87010,Ford,2002,N
+447,61,OH,100/300,2000,1137.16,FEMALE,High School,exec-managerial,skydiving,other-relative,Multi-vehicle Collision,Major Damage,Fire,21,3,1,2,114920,Audi,2006,N
+60,23,OH,500/1000,500,1215.36,MALE,MD,protective-serv,reading,wife,Single Vehicle Collision,Total Loss,Ambulance,9,1,1,0,56520,Saab,2000,N
+121,34,OH,100/300,1000,936.61,FEMALE,MD,armed-forces,bungie-jumping,wife,Parked Car,Minor Damage,None,5,1,1,1,7280,Toyota,2010,N
+180,38,OH,250/500,2000,1301.13,FEMALE,College,machine-op-inspct,board-games,not-in-family,Single Vehicle Collision,Total Loss,Police,12,1,0,2,46200,Dodge,2003,Y
+473,58,IN,100/300,2000,1131.4,FEMALE,MD,transport-moving,movies,other-relative,Multi-vehicle Collision,Major Damage,Other,12,4,0,0,63120,Accura,1999,Y
+70,26,OH,500/1000,1000,1199.44,MALE,College,machine-op-inspct,hiking,own-child,Multi-vehicle Collision,Major Damage,Other,0,3,1,2,52110,Nissan,2012,N
+140,31,IN,500/1000,500,708.64,MALE,High School,machine-op-inspct,reading,unmarried,Single Vehicle Collision,Total Loss,Police,9,1,0,2,77880,Suburu,2015,N
+160,37,OH,500/1000,500,1374.22,FEMALE,MD,craft-repair,yachting,other-relative,Single Vehicle Collision,Total Loss,Other,19,1,1,0,72930,Accura,2015,N
+196,39,IN,500/1000,2000,1475.73,FEMALE,High School,handlers-cleaners,camping,own-child,Multi-vehicle Collision,Major Damage,Police,8,3,2,0,60400,Nissan,2014,N
+460,62,IN,250/500,1000,1187.96,MALE,JD,other-service,bungie-jumping,own-child,Multi-vehicle Collision,Minor Damage,Police,20,3,1,0,47160,Suburu,2011,N
+217,41,IL,500/1000,2000,875.15,FEMALE,Associate,machine-op-inspct,skydiving,own-child,Multi-vehicle Collision,Total Loss,Police,15,3,1,2,37840,Accura,1996,N
+370,55,IL,100/300,2000,972.18,MALE,High School,prof-specialty,paintball,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,20,3,0,0,71520,Suburu,2000,Y
+413,55,IN,100/300,2000,1268.79,MALE,MD,priv-house-serv,chess,own-child,Single Vehicle Collision,Total Loss,Ambulance,15,1,2,2,98160,Dodge,2011,Y
+237,40,IN,100/300,1000,883.31,MALE,College,craft-repair,kayaking,husband,Single Vehicle Collision,Minor Damage,Other,6,1,1,3,77880,Ford,2005,N
+8,35,OH,100/300,2000,1266.92,MALE,Masters,sales,polo,own-child,Multi-vehicle Collision,Major Damage,Other,16,3,1,3,71500,Ford,2006,Y
+257,43,IN,100/300,2000,1322.1,MALE,High School,prof-specialty,golf,own-child,Parked Car,Minor Damage,Police,4,1,1,3,9020,Toyota,2005,N
+202,34,IN,100/300,500,848.07,MALE,JD,exec-managerial,chess,not-in-family,Vehicle Theft,Minor Damage,None,5,1,2,1,5720,Suburu,2003,Y
+224,40,OH,100/300,2000,1291.7,FEMALE,JD,sales,kayaking,not-in-family,Single Vehicle Collision,Minor Damage,Other,21,1,1,0,69840,Dodge,2009,N
+241,45,IL,500/1000,2000,1104.5,FEMALE,PhD,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Minor Damage,Police,5,1,2,2,91650,Accura,2011,N
+64,25,IL,250/500,1000,954.16,MALE,Masters,prof-specialty,video-games,husband,Multi-vehicle Collision,Major Damage,Ambulance,22,4,0,0,75600,Toyota,2005,N
+166,37,IL,100/300,2000,1337.28,MALE,JD,craft-repair,reading,husband,Multi-vehicle Collision,Major Damage,Police,10,3,2,2,67140,Ford,2006,Y
+155,35,IL,500/1000,1000,1088.34,FEMALE,Associate,adm-clerical,yachting,other-relative,Multi-vehicle Collision,Total Loss,Police,16,3,2,3,29790,BMW,2008,N
+114,30,IL,100/300,1000,1558.29,MALE,High School,farming-fishing,video-games,wife,Multi-vehicle Collision,Major Damage,Ambulance,1,3,1,2,77110,Suburu,2015,N
+149,37,IL,500/1000,500,1415.68,MALE,PhD,prof-specialty,yachting,own-child,Single Vehicle Collision,Total Loss,Fire,17,1,0,1,64800,Audi,1999,N
+147,33,OH,100/300,1000,1334.15,MALE,High School,craft-repair,reading,not-in-family,Single Vehicle Collision,Major Damage,Other,15,1,2,0,53100,Mercedes,1995,Y
+62,28,IL,100/300,1000,988.45,FEMALE,Masters,protective-serv,camping,unmarried,Single Vehicle Collision,Total Loss,Police,3,1,1,1,60200,Suburu,2004,Y
+289,49,IL,500/1000,2000,1222.48,FEMALE,JD,priv-house-serv,golf,unmarried,Parked Car,Minor Damage,None,16,1,1,1,5330,Suburu,2001,N
+431,54,IN,500/1000,2000,1155.55,FEMALE,MD,craft-repair,bungie-jumping,unmarried,Multi-vehicle Collision,Major Damage,Police,4,3,2,0,62300,Jeep,2007,N
+199,37,IN,250/500,500,1262.08,MALE,JD,tech-support,video-games,wife,Single Vehicle Collision,Major Damage,Ambulance,4,1,0,3,60170,Nissan,2011,Y
+79,26,IL,100/300,500,1451.62,MALE,Associate,tech-support,kayaking,not-in-family,Single Vehicle Collision,Minor Damage,Ambulance,19,1,2,2,40000,BMW,2010,N
+116,34,IN,250/500,500,1737.66,MALE,Associate,transport-moving,chess,unmarried,Single Vehicle Collision,Major Damage,Police,1,1,1,1,97080,BMW,2001,Y
+37,23,IL,500/1000,500,1475.93,FEMALE,College,prof-specialty,hiking,husband,Multi-vehicle Collision,Minor Damage,Other,17,3,1,0,51660,Dodge,2010,N
+106,30,OH,250/500,500,538.17,FEMALE,PhD,transport-moving,reading,own-child,Single Vehicle Collision,Total Loss,Other,23,1,2,2,51120,Mercedes,2005,N
+269,44,IL,100/300,2000,1081.08,MALE,JD,priv-house-serv,reading,unmarried,Single Vehicle Collision,Minor Damage,Other,14,1,0,2,56400,Toyota,2014,N
+265,40,IL,250/500,1000,1454.43,FEMALE,MD,protective-serv,yachting,husband,Multi-vehicle Collision,Total Loss,Other,17,3,2,3,55120,Accura,2002,N
+163,33,IN,100/300,500,1240.47,FEMALE,Associate,other-service,polo,husband,Multi-vehicle Collision,Total Loss,Fire,11,3,1,1,77110,Honda,2014,N
+355,47,OH,500/1000,2000,1273.7,MALE,College,other-service,kayaking,husband,Multi-vehicle Collision,Major Damage,Fire,19,3,2,1,62800,Audi,2003,Y
+175,34,IN,500/1000,1000,1123.87,FEMALE,PhD,protective-serv,dancing,other-relative,Vehicle Theft,Trivial Damage,Police,5,1,2,0,7290,Volkswagen,1995,N
+192,35,IL,100/300,1000,1245.89,FEMALE,Masters,exec-managerial,movies,wife,Single Vehicle Collision,Total Loss,Other,19,1,0,0,76600,Mercedes,2000,N
+430,59,OH,250/500,2000,1326.62,MALE,MD,other-service,bungie-jumping,own-child,Multi-vehicle Collision,Minor Damage,Fire,19,3,0,3,81800,Nissan,1998,N
+91,27,IL,100/300,2000,1073.83,FEMALE,JD,farming-fishing,polo,husband,Vehicle Theft,Trivial Damage,None,4,1,1,2,7260,BMW,2008,N
+217,39,IN,100/300,1000,1530.52,MALE,College,armed-forces,basketball,not-in-family,Vehicle Theft,Minor Damage,None,8,1,2,1,4300,Toyota,2000,N
+223,40,IN,100/300,500,1201.41,FEMALE,JD,priv-house-serv,movies,husband,Multi-vehicle Collision,Major Damage,Police,7,3,1,0,70510,Suburu,1999,N
+195,39,OH,250/500,1000,1393.57,MALE,PhD,machine-op-inspct,movies,not-in-family,Parked Car,Minor Damage,Police,5,1,0,1,2640,Ford,2009,N
+22,26,OH,100/300,1000,1276.57,MALE,PhD,craft-repair,skydiving,not-in-family,Single Vehicle Collision,Minor Damage,Fire,3,1,1,2,78900,Chevrolet,1995,N
+439,56,IN,250/500,500,1082.49,FEMALE,PhD,prof-specialty,chess,unmarried,Multi-vehicle Collision,Major Damage,Fire,12,3,2,3,56430,Honda,2014,N
+94,32,IN,500/1000,1000,1414.74,FEMALE,Masters,adm-clerical,hiking,own-child,Parked Car,Minor Damage,None,19,1,1,3,2400,Chevrolet,2014,N
+11,39,IL,250/500,2000,1470.06,MALE,PhD,other-service,yachting,husband,Single Vehicle Collision,Total Loss,Ambulance,22,1,0,1,65790,Saab,2007,N
+151,36,OH,250/500,2000,870.63,FEMALE,MD,adm-clerical,kayaking,own-child,Multi-vehicle Collision,Minor Damage,Police,12,3,1,1,62920,Ford,2000,N
+154,34,IN,100/300,500,795.23,MALE,PhD,machine-op-inspct,base-jumping,other-relative,Multi-vehicle Collision,Major Damage,Police,15,3,2,1,69480,Nissan,2014,Y
+245,44,IL,500/1000,1000,1168.2,MALE,JD,handlers-cleaners,basketball,husband,Multi-vehicle Collision,Total Loss,Other,23,3,0,3,44280,Honda,1997,N
+119,32,IL,500/1000,1000,993.51,MALE,High School,armed-forces,bungie-jumping,unmarried,Single Vehicle Collision,Minor Damage,Other,12,1,0,3,56300,BMW,2011,N
+215,42,OH,500/1000,500,1848.81,MALE,JD,transport-moving,video-games,own-child,Multi-vehicle Collision,Major Damage,Fire,20,3,2,2,68520,Suburu,2003,Y
+295,42,OH,250/500,2000,1641.73,MALE,PhD,sales,chess,not-in-family,Multi-vehicle Collision,Total Loss,Fire,16,3,0,0,59130,Ford,2006,Y
+254,39,IN,100/300,500,1362.87,FEMALE,MD,exec-managerial,chess,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,6,3,2,2,82320,Dodge,1995,Y
+107,31,IN,250/500,500,1239.22,FEMALE,High School,tech-support,paintball,not-in-family,Single Vehicle Collision,Minor Damage,Fire,12,1,0,1,89700,Audi,2009,Y
+478,64,OH,250/500,500,835.02,FEMALE,Associate,adm-clerical,reading,unmarried,Multi-vehicle Collision,Minor Damage,Fire,17,3,1,1,33930,BMW,1998,N
+128,30,OH,100/300,1000,1061.33,MALE,MD,machine-op-inspct,movies,own-child,Single Vehicle Collision,Major Damage,Ambulance,8,1,0,3,68530,Audi,1997,N
+338,49,IN,500/1000,1000,1279.08,MALE,MD,other-service,kayaking,own-child,Parked Car,Minor Damage,None,13,1,0,1,4300,Ford,2004,N
+271,42,OH,100/300,500,1105.49,FEMALE,Associate,prof-specialty,sleeping,own-child,Multi-vehicle Collision,Major Damage,Other,12,2,2,3,68310,Audi,2003,Y
+222,41,OH,100/300,2000,1055.53,FEMALE,MD,armed-forces,cross-fit,not-in-family,Single Vehicle Collision,Total Loss,Other,7,1,0,2,61290,Honda,1995,Y
+199,41,OH,250/500,1000,895.83,FEMALE,Associate,sales,paintball,husband,Single Vehicle Collision,Minor Damage,Ambulance,10,1,1,2,30100,Chevrolet,1999,N
+215,37,IN,100/300,500,1632.93,FEMALE,College,transport-moving,golf,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,7,3,2,0,57120,Mercedes,2002,N
+192,40,IL,100/300,1000,1405.99,FEMALE,Associate,sales,yachting,wife,Multi-vehicle Collision,Minor Damage,Ambulance,18,3,1,0,42930,BMW,2005,N
+120,35,OH,100/300,1000,1425.54,FEMALE,High School,transport-moving,bungie-jumping,other-relative,Multi-vehicle Collision,Total Loss,Ambulance,22,3,2,0,51210,Ford,2010,N
+270,45,OH,500/1000,1000,1038.09,FEMALE,College,handlers-cleaners,golf,husband,Multi-vehicle Collision,Minor Damage,Fire,18,3,1,1,89400,Suburu,1998,N
+319,47,IN,250/500,500,1307.11,MALE,College,transport-moving,dancing,not-in-family,Multi-vehicle Collision,Total Loss,Police,22,3,0,2,59730,Audi,2005,N
+194,39,OH,500/1000,1000,1489.24,FEMALE,JD,other-service,kayaking,wife,Vehicle Theft,Minor Damage,None,15,1,2,2,8060,Saab,2004,N
+227,38,OH,500/1000,500,976.67,FEMALE,PhD,handlers-cleaners,polo,unmarried,Single Vehicle Collision,Major Damage,Fire,16,1,1,2,72200,BMW,2013,Y
+137,31,OH,250/500,2000,1340.43,MALE,High School,exec-managerial,paintball,husband,Multi-vehicle Collision,Minor Damage,Ambulance,6,3,1,2,50800,Accura,2005,N
+244,40,OH,500/1000,2000,1267.81,FEMALE,Masters,exec-managerial,video-games,wife,Vehicle Theft,Trivial Damage,None,10,1,2,1,6600,Accura,2005,N
+78,29,IL,250/500,1000,1234.2,MALE,Masters,other-service,bungie-jumping,other-relative,Vehicle Theft,Minor Damage,Police,3,1,2,2,7500,Nissan,2002,N
+200,35,IN,250/500,2000,1318.06,MALE,High School,exec-managerial,video-games,wife,Vehicle Theft,Trivial Damage,None,13,1,0,3,6490,Volkswagen,2002,N
+284,48,IN,500/1000,2000,769.95,MALE,Masters,prof-specialty,movies,not-in-family,Multi-vehicle Collision,Major Damage,Ambulance,16,2,2,3,60940,Audi,2013,Y
+275,41,OH,100/300,2000,1514.72,MALE,High School,transport-moving,board-games,own-child,Multi-vehicle Collision,Major Damage,Fire,13,3,0,1,58300,Suburu,2007,N
+153,34,IL,500/1000,1000,873.64,FEMALE,Associate,priv-house-serv,yachting,husband,Multi-vehicle Collision,Minor Damage,Other,9,3,2,1,68400,Ford,2007,N
+134,32,IL,500/1000,500,1612.43,FEMALE,MD,other-service,yachting,own-child,Single Vehicle Collision,Total Loss,Fire,2,1,2,1,64240,BMW,2015,N
+31,36,IL,500/1000,2000,1318.24,FEMALE,College,prof-specialty,kayaking,not-in-family,Parked Car,Trivial Damage,None,9,1,0,1,4700,Dodge,2002,N
+41,25,IN,100/300,1000,1226.83,FEMALE,College,exec-managerial,exercise,not-in-family,Multi-vehicle Collision,Major Damage,Other,12,3,2,0,45120,Accura,2011,Y
+127,29,OH,250/500,2000,1326.44,FEMALE,High School,sales,board-games,own-child,Multi-vehicle Collision,Total Loss,Fire,12,2,1,1,66950,Saab,1995,N
+61,23,IL,250/500,2000,1136.83,FEMALE,Associate,tech-support,exercise,own-child,Single Vehicle Collision,Major Damage,Police,14,1,0,3,98340,Honda,2004,Y
+207,42,IL,250/500,2000,1322.78,MALE,PhD,farming-fishing,yachting,own-child,Parked Car,Trivial Damage,None,9,1,0,1,5900,BMW,2007,N
+219,43,IN,100/300,1000,1483.25,FEMALE,MD,exec-managerial,exercise,not-in-family,Multi-vehicle Collision,Major Damage,Ambulance,3,3,1,1,70680,Ford,2009,N
+271,42,IL,100/300,500,1515.3,FEMALE,High School,machine-op-inspct,hiking,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,21,3,1,0,93720,Mercedes,2005,N
+80,25,IL,100/300,2000,1075.18,FEMALE,PhD,armed-forces,exercise,husband,Vehicle Theft,Minor Damage,None,5,1,2,0,6930,Toyota,2001,N
+325,47,IN,500/1000,1000,1690.27,FEMALE,Associate,protective-serv,hiking,not-in-family,Single Vehicle Collision,Major Damage,Fire,11,1,0,3,72930,Dodge,2006,Y
+29,25,IL,250/500,2000,1352.83,MALE,Masters,farming-fishing,skydiving,own-child,Multi-vehicle Collision,Minor Damage,Other,4,4,1,2,64890,Nissan,2013,Y
+295,48,OH,250/500,1000,1148.73,FEMALE,College,machine-op-inspct,kayaking,wife,Parked Car,Trivial Damage,None,6,1,1,2,5400,Saab,1999,N
+239,42,IL,100/300,1000,969.5,MALE,College,exec-managerial,reading,not-in-family,Vehicle Theft,Trivial Damage,None,10,1,0,0,5600,Audi,2007,N
+269,41,IN,100/300,500,1463.82,FEMALE,College,protective-serv,yachting,not-in-family,Single Vehicle Collision,Minor Damage,Police,23,1,0,0,79300,Saab,2007,N
+80,27,IL,100/300,1000,1474.17,FEMALE,College,tech-support,exercise,unmarried,Single Vehicle Collision,Major Damage,Police,13,1,1,0,52800,Saab,2004,N
+279,41,IL,250/500,500,1497.35,FEMALE,JD,prof-specialty,bungie-jumping,husband,Multi-vehicle Collision,Minor Damage,Fire,16,3,2,3,28800,Ford,2013,N
+165,33,OH,100/300,1000,1427.14,FEMALE,Associate,tech-support,kayaking,other-relative,Parked Car,Minor Damage,Police,3,1,1,1,2970,Toyota,2008,N
+350,54,OH,500/1000,500,1495.1,MALE,College,other-service,basketball,wife,Multi-vehicle Collision,Total Loss,Police,15,3,0,0,93480,Chevrolet,2014,N
+295,49,IL,100/300,500,1141.62,MALE,College,prof-specialty,kayaking,husband,Vehicle Theft,Minor Damage,None,4,1,1,3,4320,Mercedes,2002,N
+464,61,OH,500/1000,1000,1125.37,FEMALE,Associate,prof-specialty,basketball,husband,Multi-vehicle Collision,Major Damage,Police,6,3,0,2,79800,Saab,2000,Y
+118,28,IN,500/1000,2000,1207.36,FEMALE,High School,handlers-cleaners,camping,own-child,Multi-vehicle Collision,Major Damage,Ambulance,22,2,1,0,74200,Volkswagen,1997,N
+298,47,IL,500/1000,2000,1338.5,FEMALE,PhD,machine-op-inspct,basketball,other-relative,Single Vehicle Collision,Major Damage,Fire,1,1,0,0,70590,Saab,2000,Y
+87,31,IN,500/1000,1000,1074.07,FEMALE,Masters,sales,chess,husband,Multi-vehicle Collision,Major Damage,Fire,16,3,0,3,60940,Nissan,2006,Y
+261,42,OH,250/500,500,1337.56,FEMALE,College,prof-specialty,video-games,unmarried,Single Vehicle Collision,Minor Damage,Police,18,1,1,2,74700,Dodge,2010,N
+453,60,IN,100/300,500,1298.91,MALE,PhD,craft-repair,dancing,unmarried,Single Vehicle Collision,Major Damage,Fire,0,1,0,0,70000,Ford,2015,Y
+210,41,IL,500/1000,500,1222.75,MALE,High School,exec-managerial,polo,other-relative,Multi-vehicle Collision,Total Loss,Other,12,3,2,0,81070,BMW,2001,N
+168,32,IN,100/300,1000,1059.52,MALE,MD,protective-serv,camping,own-child,Multi-vehicle Collision,Major Damage,Other,13,2,1,1,57720,Saab,2007,N
+390,51,OH,250/500,2000,1124.38,MALE,Associate,armed-forces,reading,other-relative,Vehicle Theft,Minor Damage,None,9,1,1,1,7080,Ford,2001,N
+258,46,IN,100/300,1000,1110.37,MALE,MD,machine-op-inspct,hiking,other-relative,Multi-vehicle Collision,Total Loss,Other,14,3,0,1,47700,Accura,1997,Y
+107,31,IL,500/1000,2000,1374.22,FEMALE,PhD,machine-op-inspct,bungie-jumping,other-relative,Single Vehicle Collision,Minor Damage,Police,16,1,0,3,51260,Suburu,2002,N
+225,41,OH,500/1000,2000,1103.58,MALE,High School,exec-managerial,exercise,unmarried,Multi-vehicle Collision,Major Damage,Police,20,3,2,2,70400,Toyota,2011,Y
+164,38,IL,250/500,2000,1269.76,FEMALE,PhD,transport-moving,yachting,not-in-family,Single Vehicle Collision,Minor Damage,Fire,4,1,1,3,90000,Ford,2015,N
+245,39,OH,250/500,500,964.79,FEMALE,Associate,adm-clerical,camping,husband,Multi-vehicle Collision,Minor Damage,Police,7,3,0,1,72820,BMW,2010,N
+255,41,IL,500/1000,2000,1167.3,MALE,High School,priv-house-serv,board-games,other-relative,Single Vehicle Collision,Minor Damage,Fire,22,1,2,0,69300,Volkswagen,2000,N
+206,36,IL,500/1000,500,1625.45,FEMALE,MD,other-service,video-games,other-relative,Single Vehicle Collision,Major Damage,Ambulance,11,1,2,1,76560,Ford,2008,Y
+203,38,IL,250/500,500,1394.43,FEMALE,Masters,other-service,skydiving,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,7,1,0,1,55440,Nissan,1999,Y
+22,25,OH,250/500,2000,1053.24,FEMALE,College,prof-specialty,movies,other-relative,Multi-vehicle Collision,Total Loss,Other,0,4,1,0,77130,Accura,1995,N
+211,35,IL,100/300,500,1040.75,FEMALE,JD,prof-specialty,paintball,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,1,1,1,1,42000,BMW,2011,N
+206,39,IN,250/500,1000,1302.4,MALE,JD,craft-repair,dancing,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,12,3,2,3,36300,Ford,2013,N
+166,38,IL,100/300,2000,1588.55,MALE,MD,protective-serv,video-games,unmarried,Single Vehicle Collision,Total Loss,Other,8,1,0,0,40320,Suburu,2001,N
+165,32,IN,500/1000,500,1399.26,FEMALE,High School,tech-support,exercise,own-child,Parked Car,Minor Damage,Police,9,1,2,0,3960,BMW,1998,N
+274,43,OH,100/300,2000,1352.31,MALE,College,farming-fishing,basketball,wife,Single Vehicle Collision,Major Damage,Fire,22,1,0,3,63840,BMW,2006,Y
+81,28,IL,250/500,1000,1139.0,FEMALE,Masters,sales,sleeping,husband,Multi-vehicle Collision,Major Damage,Fire,0,3,1,2,44730,Saab,2000,Y
+280,45,IN,250/500,1000,1397.67,MALE,JD,machine-op-inspct,camping,wife,Multi-vehicle Collision,Minor Damage,Other,0,3,1,2,84720,Ford,1999,N
+194,39,IN,250/500,500,823.17,MALE,Masters,adm-clerical,paintball,own-child,Multi-vehicle Collision,Major Damage,Other,3,3,2,2,61500,Dodge,2012,N
+112,27,OH,100/300,500,965.13,FEMALE,Masters,tech-support,exercise,unmarried,Multi-vehicle Collision,Major Damage,Ambulance,21,3,0,1,51000,Nissan,2013,N
+24,33,IL,500/1000,1000,1922.84,FEMALE,High School,machine-op-inspct,skydiving,wife,Single Vehicle Collision,Total Loss,Police,0,1,2,1,46800,Jeep,2002,N
+93,32,OH,250/500,2000,1624.82,MALE,PhD,exec-managerial,basketball,unmarried,Single Vehicle Collision,Minor Damage,Ambulance,16,1,1,1,78120,BMW,2006,N
+171,34,IN,250/500,2000,1277.25,FEMALE,College,exec-managerial,yachting,other-relative,Single Vehicle Collision,Major Damage,Police,14,1,1,2,69200,Volkswagen,1996,Y
+200,40,IL,100/300,1000,1439.34,FEMALE,High School,sales,exercise,other-relative,Vehicle Theft,Minor Damage,Police,9,1,0,0,3690,Ford,2015,N
+120,28,IL,250/500,1000,1281.27,FEMALE,PhD,tech-support,golf,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,9,3,0,3,65500,BMW,2010,N
+325,46,IL,500/1000,500,1348.83,FEMALE,High School,prof-specialty,basketball,wife,Multi-vehicle Collision,Minor Damage,Fire,21,3,1,2,76120,Toyota,1999,N
+124,32,IL,250/500,1000,1198.15,FEMALE,MD,other-service,hiking,not-in-family,Multi-vehicle Collision,Total Loss,Other,19,3,0,2,73560,BMW,1995,N
+211,35,OH,100/300,2000,1221.22,MALE,Masters,machine-op-inspct,camping,other-relative,Single Vehicle Collision,Total Loss,Police,2,1,0,1,52030,Mercedes,2008,N
+287,41,IL,500/1000,2000,968.74,MALE,Masters,transport-moving,video-games,wife,Vehicle Theft,Trivial Damage,None,9,1,2,3,5170,Suburu,2001,N
+122,34,IN,250/500,1000,1220.71,MALE,PhD,machine-op-inspct,video-games,own-child,Parked Car,Minor Damage,None,5,1,2,1,8190,Chevrolet,2013,N
+22,29,IN,250/500,2000,1238.62,MALE,MD,exec-managerial,yachting,other-relative,Single Vehicle Collision,Major Damage,Ambulance,14,1,2,3,70800,Accura,2012,Y
+106,31,IL,500/1000,2000,1320.75,FEMALE,JD,farming-fishing,video-games,wife,Multi-vehicle Collision,Total Loss,Police,20,3,0,3,45630,Accura,2011,N
+398,58,OH,100/300,500,990.98,FEMALE,Associate,exec-managerial,cross-fit,wife,Single Vehicle Collision,Major Damage,Police,18,1,2,1,99320,Accura,2002,Y
+214,41,IL,500/1000,500,1398.51,MALE,Masters,tech-support,polo,not-in-family,Multi-vehicle Collision,Major Damage,Fire,13,3,2,0,64000,BMW,1996,Y
+209,38,OH,100/300,500,1355.08,FEMALE,MD,other-service,golf,other-relative,Single Vehicle Collision,Minor Damage,Fire,21,1,1,1,47300,Nissan,2014,N
+82,27,IL,100/300,1000,1384.51,MALE,PhD,adm-clerical,reading,not-in-family,Single Vehicle Collision,Major Damage,Other,14,1,2,3,71680,Volkswagen,2007,Y
+193,41,OH,250/500,500,847.03,FEMALE,JD,craft-repair,skydiving,not-in-family,Single Vehicle Collision,Major Damage,Other,1,1,1,0,112320,Suburu,2011,Y
+134,32,OH,100/300,1000,1000.06,FEMALE,PhD,farming-fishing,base-jumping,wife,Single Vehicle Collision,Total Loss,Other,17,1,1,0,82720,Audi,2014,N
+288,45,IL,100/300,1000,1046.71,MALE,Masters,priv-house-serv,polo,husband,Multi-vehicle Collision,Major Damage,Fire,4,3,2,1,48060,Mercedes,2009,N
+104,32,IN,250/500,500,1158.03,MALE,High School,exec-managerial,kayaking,own-child,Multi-vehicle Collision,Total Loss,Police,23,3,1,3,63570,Volkswagen,2006,Y
+431,54,OH,100/300,1000,1372.27,FEMALE,Masters,craft-repair,paintball,own-child,Multi-vehicle Collision,Total Loss,Fire,13,3,2,3,63240,Suburu,1997,N
+101,33,OH,100/300,1000,1053.04,FEMALE,Masters,other-service,reading,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,20,3,1,3,54240,Saab,2013,Y
+375,50,OH,100/300,1000,1275.39,MALE,Associate,sales,bungie-jumping,other-relative,Single Vehicle Collision,Major Damage,Police,16,1,2,3,37280,Audi,1996,Y
+461,61,OH,100/300,2000,1402.75,MALE,JD,exec-managerial,exercise,husband,Multi-vehicle Collision,Minor Damage,Police,10,3,2,1,72100,Jeep,2006,N
+428,59,IN,250/500,500,1344.36,FEMALE,JD,prof-specialty,hiking,other-relative,Parked Car,Minor Damage,None,8,1,2,3,6500,Saab,2013,N
+45,38,IN,100/300,1000,1197.71,MALE,Masters,machine-op-inspct,movies,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,17,3,2,0,78240,Suburu,2013,N
+136,29,OH,100/300,500,1203.24,FEMALE,JD,transport-moving,video-games,other-relative,Vehicle Theft,Minor Damage,Police,9,1,2,0,6200,Honda,1999,N
+216,36,IN,500/1000,1000,1152.4,FEMALE,Associate,priv-house-serv,reading,unmarried,Parked Car,Minor Damage,Police,0,1,2,3,6160,Mercedes,2014,N
+278,48,IN,500/1000,2000,1142.62,FEMALE,MD,farming-fishing,dancing,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,12,1,2,0,76050,Chevrolet,1997,N
+295,48,OH,500/1000,1000,1332.07,FEMALE,MD,exec-managerial,polo,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,20,2,2,1,86060,Volkswagen,2002,N
+112,30,OH,500/1000,1000,1166.54,FEMALE,Masters,prof-specialty,sleeping,not-in-family,Single Vehicle Collision,Major Damage,Fire,3,1,2,0,107900,Dodge,1997,Y
+122,34,IL,250/500,500,1495.06,FEMALE,Masters,prof-specialty,polo,unmarried,Multi-vehicle Collision,Total Loss,Fire,18,3,2,0,99990,Mercedes,2011,N
+108,29,IN,500/1000,1000,1337.92,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,Multi-vehicle Collision,Minor Damage,Ambulance,4,3,2,2,61380,Suburu,2012,N
+14,28,OH,250/500,2000,1587.96,FEMALE,Associate,craft-repair,board-games,unmarried,Single Vehicle Collision,Major Damage,Fire,18,1,2,1,71280,Audi,2012,Y
+298,45,IL,500/1000,1000,1362.29,MALE,High School,farming-fishing,yachting,unmarried,Multi-vehicle Collision,Minor Damage,Ambulance,18,3,0,0,64000,Saab,1999,N
+276,46,IL,250/500,500,1448.84,FEMALE,Masters,machine-op-inspct,bungie-jumping,husband,Parked Car,Trivial Damage,Police,7,1,0,1,5940,Toyota,2015,N
+47,37,IN,250/500,2000,1241.97,MALE,High School,other-service,movies,not-in-family,Parked Car,Minor Damage,None,18,1,1,0,6700,Jeep,2011,N
+222,42,IL,250/500,500,1124.6,MALE,Associate,armed-forces,hiking,not-in-family,Multi-vehicle Collision,Minor Damage,Police,23,3,0,0,51740,Jeep,2006,N
+119,28,OH,250/500,2000,1079.92,MALE,High School,machine-op-inspct,hiking,husband,Single Vehicle Collision,Total Loss,Ambulance,1,1,0,1,53600,Volkswagen,2007,Y
+73,29,IL,250/500,1000,1447.78,MALE,College,protective-serv,board-games,wife,Multi-vehicle Collision,Total Loss,Other,15,3,1,0,44910,Dodge,2001,N
+8,31,IN,250/500,500,1229.16,FEMALE,MD,transport-moving,kayaking,wife,Multi-vehicle Collision,Major Damage,Fire,2,3,0,2,48100,Volkswagen,2014,N
+294,44,IL,100/300,1000,1226.49,FEMALE,PhD,farming-fishing,kayaking,unmarried,Vehicle Theft,Trivial Damage,None,3,1,0,1,6100,Ford,2002,N
+324,46,IN,100/300,2000,897.89,MALE,MD,tech-support,board-games,wife,Single Vehicle Collision,Minor Damage,Other,13,1,1,0,79600,Jeep,2011,N
+155,34,IN,100/300,500,1706.79,MALE,Masters,protective-serv,dancing,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,1,1,1,1,77040,Honda,1998,N
+261,45,IL,250/500,1000,1254.18,FEMALE,PhD,prof-specialty,kayaking,other-relative,Single Vehicle Collision,Minor Damage,Fire,16,1,0,1,62590,Volkswagen,2003,N
+245,40,IN,500/1000,500,885.08,FEMALE,Masters,armed-forces,skydiving,other-relative,Single Vehicle Collision,Total Loss,Other,0,1,0,1,85150,Chevrolet,1998,N
+235,39,IL,100/300,500,1046.58,MALE,MD,tech-support,exercise,wife,Vehicle Theft,Trivial Damage,None,1,1,2,1,4950,Chevrolet,2010,N
+53,36,OH,500/1000,2000,1712.68,MALE,Associate,handlers-cleaners,basketball,not-in-family,Multi-vehicle Collision,Major Damage,Fire,17,3,2,0,51100,Audi,2006,N
+426,54,IL,500/1000,2000,1097.71,FEMALE,Masters,adm-clerical,reading,not-in-family,Single Vehicle Collision,Minor Damage,Police,13,1,2,3,100800,Dodge,1997,N
+111,27,IN,250/500,500,1363.77,FEMALE,Masters,tech-support,exercise,husband,Single Vehicle Collision,Total Loss,Police,12,1,2,3,90970,Accura,2009,N
+86,26,OH,100/300,500,1382.88,MALE,JD,tech-support,cross-fit,other-relative,Single Vehicle Collision,Minor Damage,Police,11,1,1,1,81840,Chevrolet,2011,Y
+296,46,OH,100/300,1000,1141.35,MALE,Masters,craft-repair,sleeping,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,18,1,0,2,54900,Mercedes,2013,N
+125,35,OH,500/1000,500,1054.83,MALE,JD,tech-support,cross-fit,husband,Single Vehicle Collision,Total Loss,Fire,17,1,2,3,88660,Mercedes,2007,Y
+177,34,IL,100/300,2000,1057.77,FEMALE,JD,tech-support,bungie-jumping,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,22,3,1,1,18000,Audi,2009,N
+238,39,IN,250/500,2000,1488.02,FEMALE,JD,protective-serv,exercise,other-relative,Vehicle Theft,Minor Damage,Police,9,1,1,3,5500,Chevrolet,2010,N
+81,25,IN,100/300,500,920.3,FEMALE,High School,tech-support,hiking,own-child,Multi-vehicle Collision,Major Damage,Other,11,3,1,0,73920,Honda,2003,Y
+128,28,OH,500/1000,1000,986.53,FEMALE,High School,adm-clerical,polo,other-relative,Single Vehicle Collision,Total Loss,Ambulance,11,1,0,2,101860,Honda,2007,N
+449,57,OH,250/500,2000,1440.68,MALE,Associate,tech-support,movies,own-child,Parked Car,Minor Damage,None,8,1,0,1,5390,Volkswagen,2008,N
+252,39,IN,250/500,1000,1086.21,MALE,JD,farming-fishing,hiking,unmarried,Single Vehicle Collision,Minor Damage,Police,18,1,1,2,50490,Nissan,2001,N
+359,47,OH,100/300,2000,1367.68,FEMALE,MD,handlers-cleaners,basketball,unmarried,Single Vehicle Collision,Total Loss,Police,13,1,0,3,55500,Mercedes,2012,N
+19,32,OH,500/1000,1000,1215.85,MALE,High School,other-service,hiking,husband,Vehicle Theft,Minor Damage,Police,8,1,1,1,7040,Nissan,2015,N
+73,26,IL,250/500,2000,1191.19,MALE,MD,farming-fishing,basketball,not-in-family,Multi-vehicle Collision,Total Loss,Other,9,3,0,1,40160,Chevrolet,2003,N
+285,44,IL,500/1000,1000,1594.45,MALE,High School,handlers-cleaners,bungie-jumping,husband,Multi-vehicle Collision,Total Loss,Fire,17,2,2,3,55680,Saab,2006,N
+196,36,IN,250/500,2000,1463.07,MALE,MD,armed-forces,skydiving,own-child,Vehicle Theft,Trivial Damage,Police,3,1,1,1,5300,Jeep,2001,Y
+223,43,OH,250/500,500,1734.09,FEMALE,MD,adm-clerical,camping,not-in-family,Parked Car,Trivial Damage,None,6,1,0,3,5200,Accura,2006,N
+328,48,IL,250/500,500,1411.43,MALE,Masters,armed-forces,bungie-jumping,own-child,Single Vehicle Collision,Major Damage,Ambulance,17,1,2,1,59400,Honda,2014,N
+285,43,OH,100/300,2000,1512.58,FEMALE,College,sales,paintball,other-relative,Vehicle Theft,Minor Damage,Police,7,1,1,1,2520,BMW,1997,N
+30,31,IL,250/500,2000,1153.35,MALE,PhD,craft-repair,golf,not-in-family,Vehicle Theft,Trivial Damage,Police,9,1,2,1,5760,Suburu,2011,N
+342,49,OH,250/500,500,1722.95,MALE,PhD,transport-moving,base-jumping,not-in-family,Single Vehicle Collision,Minor Damage,Fire,3,1,2,0,76700,Suburu,2006,N
+219,39,IN,250/500,2000,1281.07,FEMALE,High School,protective-serv,board-games,unmarried,Parked Car,Trivial Damage,Police,6,1,0,2,5920,Chevrolet,2015,N
+468,62,IL,100/300,500,1011.92,MALE,PhD,machine-op-inspct,paintball,wife,Multi-vehicle Collision,Major Damage,Fire,7,3,0,3,64350,Chevrolet,2009,N
+241,39,IL,250/500,2000,1042.26,MALE,JD,sales,kayaking,husband,Multi-vehicle Collision,Total Loss,Ambulance,21,3,1,2,19080,Saab,1995,N
+223,43,OH,500/1000,500,1235.1,FEMALE,Masters,tech-support,exercise,not-in-family,Single Vehicle Collision,Minor Damage,Police,14,1,2,1,54400,BMW,2011,N
+128,32,OH,100/300,2000,768.91,FEMALE,College,sales,chess,other-relative,Single Vehicle Collision,Total Loss,Fire,0,1,1,0,59800,Ford,1999,Y
+124,29,OH,500/1000,500,1301.72,MALE,Masters,handlers-cleaners,golf,husband,Multi-vehicle Collision,Major Damage,Police,14,3,0,3,72000,Audi,2005,N
+343,48,IN,250/500,500,1451.54,MALE,JD,adm-clerical,hiking,husband,Multi-vehicle Collision,Total Loss,Police,13,4,2,3,65070,Mercedes,2003,N
+404,53,IN,250/500,500,767.14,MALE,Associate,sales,reading,not-in-family,Parked Car,Trivial Damage,Police,8,1,0,1,8800,Suburu,2002,N
+63,24,OH,250/500,2000,1620.89,FEMALE,High School,handlers-cleaners,movies,other-relative,Vehicle Theft,Minor Damage,Police,7,1,2,0,6120,Toyota,2015,N
+210,37,IN,500/1000,2000,1048.46,MALE,High School,priv-house-serv,skydiving,not-in-family,Vehicle Theft,Trivial Damage,None,9,1,1,2,7080,Dodge,1999,N
+335,50,OH,100/300,1000,1538.26,MALE,High School,sales,yachting,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,12,3,2,3,34320,Volkswagen,2009,N
+11,40,OH,500/1000,2000,1217.69,FEMALE,MD,prof-specialty,reading,wife,Multi-vehicle Collision,Major Damage,Other,6,3,1,0,53460,Dodge,2004,Y
+142,33,IN,100/300,2000,1362.64,FEMALE,JD,exec-managerial,cross-fit,wife,Single Vehicle Collision,Total Loss,Other,11,1,1,3,81360,Suburu,2009,Y
+272,43,OH,100/300,1000,1279.13,MALE,PhD,craft-repair,bungie-jumping,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,5,3,1,2,81070,Audi,2006,Y
+69,26,IL,100/300,2000,924.72,FEMALE,High School,machine-op-inspct,base-jumping,unmarried,Single Vehicle Collision,Minor Damage,Fire,14,1,2,2,63120,Audi,2008,N
+38,28,OH,250/500,1000,1019.44,MALE,Masters,transport-moving,yachting,not-in-family,Vehicle Theft,Trivial Damage,None,17,1,2,1,7200,BMW,2004,N
+328,46,IL,500/1000,500,1314.6,FEMALE,MD,prof-specialty,exercise,not-in-family,Single Vehicle Collision,Total Loss,Other,0,1,2,3,70290,Saab,1998,Y
+281,43,OH,100/300,1000,1515.18,MALE,College,priv-house-serv,camping,other-relative,Multi-vehicle Collision,Minor Damage,Fire,21,3,1,0,60190,BMW,1999,N
+246,44,OH,250/500,2000,1649.18,MALE,College,farming-fishing,base-jumping,other-relative,Single Vehicle Collision,Major Damage,Other,18,1,1,2,61380,Honda,2009,Y
+298,49,OH,250/500,500,1451.01,FEMALE,College,other-service,exercise,own-child,Single Vehicle Collision,Minor Damage,Ambulance,17,1,2,2,28100,Jeep,2012,N
+330,50,IL,500/1000,1000,978.46,FEMALE,High School,sales,yachting,husband,Single Vehicle Collision,Total Loss,Fire,19,1,0,0,49060,Chevrolet,1995,N
+362,50,IL,250/500,500,1198.34,MALE,Associate,sales,board-games,wife,Multi-vehicle Collision,Total Loss,Fire,17,3,1,1,57060,Mercedes,1995,N
+241,38,IN,100/300,2000,1003.23,FEMALE,Associate,tech-support,kayaking,not-in-family,Multi-vehicle Collision,Major Damage,Fire,23,3,0,3,77880,Accura,2008,N
+245,41,IN,500/1000,2000,1212.0,MALE,Masters,exec-managerial,basketball,unmarried,Single Vehicle Collision,Total Loss,Ambulance,4,1,0,1,73500,Jeep,1999,N
+371,52,IL,250/500,1000,1242.96,FEMALE,High School,other-service,paintball,own-child,Multi-vehicle Collision,Minor Damage,Other,2,2,2,0,88920,Accura,2010,N
+343,52,IL,500/1000,1000,1053.02,FEMALE,Associate,prof-specialty,bungie-jumping,not-in-family,Single Vehicle Collision,Major Damage,Other,2,1,0,2,47630,Toyota,2005,Y
+377,53,IL,100/300,500,1693.63,FEMALE,MD,craft-repair,kayaking,unmarried,Multi-vehicle Collision,Total Loss,Fire,10,3,1,3,59040,Saab,2015,N
+154,37,IL,250/500,1000,2047.59,FEMALE,MD,farming-fishing,dancing,other-relative,Single Vehicle Collision,Minor Damage,Other,2,1,0,3,79530,Accura,2000,N
+166,34,OH,100/300,1000,1083.72,FEMALE,High School,machine-op-inspct,base-jumping,wife,Single Vehicle Collision,Total Loss,Other,18,1,0,2,53680,Honda,2005,N
+298,46,OH,500/1000,1000,1138.42,MALE,JD,prof-specialty,dancing,own-child,Single Vehicle Collision,Minor Damage,Police,18,1,2,3,33550,Volkswagen,2005,N
+235,42,IN,250/500,500,1072.62,FEMALE,Masters,machine-op-inspct,exercise,husband,Multi-vehicle Collision,Total Loss,Other,7,4,2,1,69100,Toyota,2006,N
+172,35,IL,100/300,2000,1219.04,MALE,MD,handlers-cleaners,paintball,own-child,Multi-vehicle Collision,Major Damage,Police,19,3,2,0,79750,Nissan,1999,N
+27,28,IN,100/300,2000,1371.78,MALE,JD,farming-fishing,polo,other-relative,Multi-vehicle Collision,Major Damage,Other,10,3,0,2,53600,Audi,2015,Y
+428,54,IN,100/300,2000,1506.21,MALE,Masters,transport-moving,kayaking,unmarried,Multi-vehicle Collision,Minor Damage,Fire,16,3,1,0,76560,Nissan,2009,N
+99,32,IN,100/300,1000,1058.21,MALE,JD,craft-repair,golf,unmarried,Single Vehicle Collision,Total Loss,Fire,17,1,1,1,41130,Dodge,1999,N
+107,26,IL,500/1000,2000,932.14,MALE,MD,sales,cross-fit,own-child,Multi-vehicle Collision,Total Loss,Fire,2,3,2,3,78650,Audi,1996,Y
+272,41,OH,500/1000,2000,1608.34,FEMALE,Associate,farming-fishing,reading,own-child,Single Vehicle Collision,Major Damage,Other,19,1,1,1,71060,Saab,2010,N
+151,37,IN,500/1000,1000,1728.56,FEMALE,Masters,farming-fishing,dancing,own-child,Single Vehicle Collision,Minor Damage,Fire,0,1,1,1,38830,Suburu,1999,N
+249,43,IL,250/500,1000,1518.46,FEMALE,MD,armed-forces,cross-fit,own-child,Single Vehicle Collision,Major Damage,Fire,16,1,0,0,53500,Saab,2015,N
+177,38,IL,100/300,2000,1540.19,FEMALE,College,adm-clerical,skydiving,other-relative,Single Vehicle Collision,Major Damage,Other,20,1,2,0,73700,Chevrolet,2001,Y
+190,40,OH,500/1000,2000,965.21,FEMALE,JD,exec-managerial,camping,other-relative,Parked Car,Trivial Damage,None,10,1,2,1,6300,Nissan,2001,N
+174,36,IL,100/300,2000,1278.75,FEMALE,College,tech-support,paintball,own-child,Multi-vehicle Collision,Total Loss,Ambulance,21,3,2,2,65400,Dodge,2012,N
+95,28,OH,250/500,1000,773.99,MALE,Associate,armed-forces,board-games,other-relative,Vehicle Theft,Trivial Damage,None,3,1,1,2,3200,Mercedes,2014,N
+371,51,IN,500/1000,1000,1532.47,FEMALE,Associate,tech-support,golf,other-relative,Single Vehicle Collision,Major Damage,Fire,7,1,0,3,75400,Dodge,2012,Y
+2,28,IL,250/500,1000,1340.56,FEMALE,JD,machine-op-inspct,golf,not-in-family,Single Vehicle Collision,Minor Damage,Fire,19,1,0,2,58140,Saab,2008,N
+269,44,OH,100/300,500,1297.75,FEMALE,JD,other-service,chess,own-child,Multi-vehicle Collision,Total Loss,Ambulance,15,3,0,1,98670,Chevrolet,2010,Y
+101,27,IL,250/500,1000,433.33,MALE,Masters,machine-op-inspct,golf,other-relative,Parked Car,Minor Damage,None,7,1,0,3,5900,Mercedes,2009,N
+94,30,IN,250/500,2000,1025.54,FEMALE,High School,armed-forces,paintball,other-relative,Single Vehicle Collision,Major Damage,Fire,19,1,1,3,64100,Chevrolet,2001,N
+117,28,OH,250/500,500,1264.77,FEMALE,Associate,transport-moving,yachting,unmarried,Multi-vehicle Collision,Total Loss,Fire,13,2,0,1,55440,Suburu,2009,Y
+111,27,OH,250/500,500,1459.97,MALE,MD,sales,yachting,other-relative,Multi-vehicle Collision,Major Damage,Police,2,3,1,2,80850,Ford,2011,Y
+242,40,OH,100/300,500,1238.65,FEMALE,High School,transport-moving,bungie-jumping,husband,Vehicle Theft,Trivial Damage,Police,5,1,1,1,7480,Saab,1998,N
+440,61,OH,250/500,500,1050.76,MALE,PhD,transport-moving,movies,wife,Single Vehicle Collision,Major Damage,Fire,21,1,2,3,53640,Nissan,2004,Y
+20,23,OH,500/1000,1000,1711.72,FEMALE,JD,tech-support,base-jumping,wife,Multi-vehicle Collision,Major Damage,Fire,21,3,2,2,63250,Chevrolet,2002,Y
+461,57,IL,100/300,500,865.33,FEMALE,High School,farming-fishing,golf,own-child,Multi-vehicle Collision,Major Damage,Ambulance,7,3,0,1,59040,Dodge,1995,N
+208,36,IL,250/500,500,1153.49,MALE,Associate,craft-repair,base-jumping,other-relative,Multi-vehicle Collision,Total Loss,Other,16,3,1,0,50500,Accura,2004,N
+279,43,OH,500/1000,2000,1281.25,MALE,Associate,machine-op-inspct,cross-fit,other-relative,Single Vehicle Collision,Major Damage,Police,13,1,0,1,57690,Mercedes,2010,Y
+244,40,IL,100/300,500,1342.8,FEMALE,MD,sales,base-jumping,husband,Vehicle Theft,Trivial Damage,Police,2,1,1,3,5940,Toyota,2014,N
+134,30,OH,250/500,2000,1443.32,FEMALE,PhD,exec-managerial,dancing,unmarried,Multi-vehicle Collision,Major Damage,Fire,19,3,0,2,47790,Suburu,1995,Y
+122,29,OH,250/500,1000,1629.94,FEMALE,Masters,priv-house-serv,skydiving,other-relative,Parked Car,Trivial Damage,None,17,1,0,1,3850,Dodge,2014,N
+156,31,IL,100/300,2000,1134.08,MALE,PhD,other-service,reading,husband,Single Vehicle Collision,Major Damage,Police,3,1,2,0,59000,Ford,2013,Y
+232,43,OH,250/500,500,1483.91,MALE,College,machine-op-inspct,golf,husband,Multi-vehicle Collision,Major Damage,Ambulance,17,3,0,1,70600,Volkswagen,2013,Y
+244,40,IN,500/1000,2000,1304.67,MALE,Masters,armed-forces,base-jumping,other-relative,Multi-vehicle Collision,Minor Damage,Police,5,3,1,1,61490,Dodge,2001,N
+84,30,IL,500/1000,2000,1035.79,FEMALE,MD,protective-serv,kayaking,wife,Single Vehicle Collision,Minor Damage,Police,9,1,1,0,57640,Volkswagen,2010,N
+394,57,IL,250/500,500,1401.2,FEMALE,High School,craft-repair,movies,own-child,Vehicle Theft,Trivial Damage,Police,9,1,1,0,6890,Audi,1999,N
+246,45,IL,250/500,1000,1665.45,MALE,JD,machine-op-inspct,hiking,wife,Multi-vehicle Collision,Major Damage,Fire,9,3,2,2,53280,Toyota,2006,Y
+35,29,IN,500/1000,2000,653.66,FEMALE,JD,handlers-cleaners,video-games,unmarried,Multi-vehicle Collision,Minor Damage,Fire,22,3,0,0,78300,BMW,2009,N
+156,37,OH,100/300,500,1080.13,MALE,Associate,protective-serv,reading,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,15,3,0,3,41490,Nissan,2001,N
+195,36,IN,100/300,2000,1346.18,FEMALE,Associate,machine-op-inspct,camping,wife,Multi-vehicle Collision,Total Loss,Fire,14,3,2,3,68970,Chevrolet,2007,N
+369,55,OH,250/500,2000,1589.54,MALE,College,handlers-cleaners,camping,husband,Multi-vehicle Collision,Minor Damage,Police,6,3,2,0,85300,Toyota,2003,N
+271,40,IL,100/300,1000,1251.65,FEMALE,Associate,other-service,camping,wife,Parked Car,Minor Damage,None,6,1,0,0,3080,Audi,2012,N
+332,47,IL,100/300,2000,1083.01,MALE,MD,craft-repair,paintball,other-relative,Multi-vehicle Collision,Major Damage,Police,22,4,2,0,71760,Jeep,2010,Y
+107,26,OH,100/300,500,974.59,FEMALE,JD,armed-forces,skydiving,wife,Multi-vehicle Collision,Minor Damage,Ambulance,14,3,1,0,59700,Nissan,2002,N
+217,39,IL,500/1000,2000,1399.85,FEMALE,Masters,other-service,skydiving,other-relative,Multi-vehicle Collision,Minor Damage,Fire,16,3,0,2,64920,Ford,1997,N
+243,43,IN,500/1000,500,1307.74,FEMALE,Associate,machine-op-inspct,board-games,own-child,Multi-vehicle Collision,Major Damage,Ambulance,10,3,0,1,37530,Jeep,2008,N
+296,42,IN,250/500,2000,1219.27,MALE,Associate,tech-support,paintball,husband,Multi-vehicle Collision,Total Loss,Ambulance,9,3,1,2,64080,Saab,2012,N
+264,41,OH,100/300,500,1411.3,MALE,PhD,prof-specialty,cross-fit,unmarried,Single Vehicle Collision,Minor Damage,Other,4,1,1,0,60390,BMW,2004,Y
+108,33,IL,100/300,2000,694.45,FEMALE,JD,armed-forces,exercise,not-in-family,Multi-vehicle Collision,Major Damage,Police,6,3,0,1,64350,Nissan,2011,Y
+32,38,IL,100/300,500,1006.77,FEMALE,College,other-service,sleeping,own-child,Multi-vehicle Collision,Minor Damage,Police,15,3,2,1,70900,BMW,1997,N
+259,39,OH,250/500,1000,1422.36,FEMALE,JD,craft-repair,movies,unmarried,Multi-vehicle Collision,Minor Damage,Fire,12,3,1,3,46560,Nissan,2012,N
+186,33,IN,100/300,1000,1348.32,FEMALE,Associate,craft-repair,cross-fit,wife,Vehicle Theft,Trivial Damage,Police,3,1,2,1,4730,Chevrolet,2013,Y
+201,40,OH,250/500,2000,1315.56,FEMALE,PhD,transport-moving,video-games,not-in-family,Vehicle Theft,Minor Damage,Police,14,1,0,0,6820,Jeep,2003,N
+436,58,OH,250/500,2000,1407.01,MALE,PhD,tech-support,sleeping,other-relative,Single Vehicle Collision,Major Damage,Police,10,1,0,2,59900,BMW,1997,Y
+189,36,OH,250/500,2000,1388.58,FEMALE,MD,priv-house-serv,basketball,own-child,Multi-vehicle Collision,Major Damage,Police,17,3,1,3,79560,Ford,2009,N
+105,33,IL,500/1000,500,1310.76,FEMALE,High School,adm-clerical,kayaking,not-in-family,Single Vehicle Collision,Total Loss,Other,8,1,0,1,70290,Accura,2008,N
+163,31,IN,100/300,1000,1004.63,MALE,JD,priv-house-serv,hiking,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,14,3,2,0,63910,Suburu,1999,N
+219,40,OH,100/300,500,1134.91,FEMALE,Associate,transport-moving,golf,not-in-family,Vehicle Theft,Trivial Damage,None,6,1,1,0,6400,Toyota,1997,N
+88,25,IN,250/500,1000,1194.0,FEMALE,JD,handlers-cleaners,movies,husband,Single Vehicle Collision,Major Damage,Ambulance,6,1,1,2,66780,Ford,2013,Y
+40,39,IN,500/1000,1000,1248.25,FEMALE,College,sales,hiking,own-child,Parked Car,Minor Damage,Police,8,1,0,2,8760,BMW,2013,N
+284,42,OH,100/300,500,1338.54,MALE,Associate,machine-op-inspct,kayaking,wife,Single Vehicle Collision,Major Damage,Ambulance,13,1,0,1,94160,Chevrolet,1996,N
+59,40,IL,250/500,2000,782.23,MALE,College,protective-serv,golf,other-relative,Multi-vehicle Collision,Total Loss,Ambulance,0,3,0,2,51570,BMW,2010,N
+39,31,IL,250/500,2000,1366.9,FEMALE,High School,handlers-cleaners,polo,husband,Multi-vehicle Collision,Major Damage,Fire,14,3,1,0,52700,BMW,2014,Y
+147,34,IL,500/1000,1000,1275.81,MALE,High School,sales,dancing,wife,Single Vehicle Collision,Minor Damage,Fire,13,1,2,2,101010,Mercedes,1998,N
+156,37,IN,250/500,500,1090.65,MALE,High School,exec-managerial,golf,unmarried,Multi-vehicle Collision,Minor Damage,Police,16,4,1,2,53400,Honda,2010,Y
+123,31,IN,250/500,500,1326.0,FEMALE,Associate,prof-specialty,basketball,wife,Single Vehicle Collision,Total Loss,Fire,13,1,1,2,72120,Mercedes,2009,N
+231,43,IL,250/500,2000,972.47,MALE,College,protective-serv,reading,wife,Multi-vehicle Collision,Minor Damage,Police,15,3,2,2,77100,Audi,2010,N
+247,39,IL,100/300,500,806.31,FEMALE,College,handlers-cleaners,dancing,wife,Parked Car,Trivial Damage,Police,3,1,2,3,3300,Dodge,2003,N
+194,35,IL,500/1000,500,1416.24,FEMALE,MD,adm-clerical,golf,not-in-family,Parked Car,Minor Damage,None,7,1,1,0,5940,Nissan,2003,N
+119,27,IN,250/500,2000,1097.64,MALE,High School,transport-moving,video-games,other-relative,Multi-vehicle Collision,Major Damage,Other,16,2,1,0,63720,Accura,2006,N
+259,43,IL,100/300,500,947.75,FEMALE,Masters,farming-fishing,base-jumping,not-in-family,Vehicle Theft,Trivial Damage,Police,15,1,1,3,7680,Audi,2008,N
+107,31,IL,100/300,2000,1018.73,MALE,Associate,handlers-cleaners,yachting,own-child,Multi-vehicle Collision,Total Loss,Police,21,3,1,2,93730,Honda,2001,N
+48,44,IL,100/300,2000,1400.74,MALE,College,sales,base-jumping,other-relative,Multi-vehicle Collision,Major Damage,Police,23,3,0,2,87300,Jeep,2013,N
+267,40,IL,250/500,500,1155.53,MALE,JD,transport-moving,camping,wife,Parked Car,Trivial Damage,Police,5,1,0,2,5670,Ford,1997,N
+286,47,IN,250/500,500,1386.93,MALE,High School,priv-house-serv,bungie-jumping,husband,Multi-vehicle Collision,Minor Damage,Other,15,3,0,0,65800,Accura,2001,N
+175,34,OH,100/300,500,915.29,FEMALE,JD,handlers-cleaners,base-jumping,wife,Single Vehicle Collision,Major Damage,Other,14,1,2,1,36720,Honda,2009,Y
+111,29,IL,250/500,500,1239.55,FEMALE,PhD,farming-fishing,kayaking,own-child,Single Vehicle Collision,Major Damage,Fire,1,1,1,1,52800,Mercedes,1996,Y
+151,37,IN,250/500,500,1366.42,FEMALE,Associate,protective-serv,cross-fit,unmarried,Multi-vehicle Collision,Total Loss,Fire,14,3,1,2,59100,Nissan,1998,Y
+156,37,OH,500/1000,1000,1086.48,MALE,Associate,machine-op-inspct,hiking,unmarried,Multi-vehicle Collision,Total Loss,Other,17,3,1,1,77440,Suburu,1999,N
+165,36,IL,250/500,2000,1247.87,MALE,Masters,armed-forces,golf,husband,Multi-vehicle Collision,Total Loss,Fire,20,3,2,2,45700,BMW,2008,N
+253,41,OH,100/300,2000,1312.75,FEMALE,PhD,sales,dancing,other-relative,Multi-vehicle Collision,Major Damage,Other,10,3,2,2,80740,Toyota,2014,Y
+10,26,IN,100/300,2000,765.64,MALE,MD,sales,base-jumping,not-in-family,Multi-vehicle Collision,Major Damage,Ambulance,3,3,0,3,31350,Honda,2001,Y
+158,33,OH,100/300,2000,1327.41,FEMALE,Associate,handlers-cleaners,skydiving,other-relative,Single Vehicle Collision,Total Loss,Other,0,1,0,0,35000,Suburu,2012,N
+436,59,OH,500/1000,1000,1338.55,MALE,PhD,protective-serv,board-games,own-child,Multi-vehicle Collision,Total Loss,Police,10,3,2,2,68000,Toyota,2014,N
+91,30,IL,250/500,2000,1316.63,FEMALE,Masters,machine-op-inspct,golf,unmarried,Multi-vehicle Collision,Minor Damage,Other,13,3,2,0,84500,BMW,2009,N
+256,42,IL,500/1000,1000,1286.44,FEMALE,MD,transport-moving,bungie-jumping,wife,Single Vehicle Collision,Minor Damage,Police,14,1,2,1,75500,Nissan,1998,N
+274,46,OH,500/1000,1000,1372.18,MALE,High School,exec-managerial,bungie-jumping,not-in-family,Multi-vehicle Collision,Total Loss,Other,22,3,1,3,90600,BMW,2009,N
+275,45,IN,500/1000,2000,1447.77,FEMALE,Associate,adm-clerical,camping,wife,Multi-vehicle Collision,Total Loss,Ambulance,8,3,1,1,64320,Accura,1998,N
+1,33,IL,250/500,500,903.32,FEMALE,High School,transport-moving,yachting,not-in-family,Multi-vehicle Collision,Minor Damage,Police,1,3,1,0,31700,Toyota,2006,N
+85,30,IN,500/1000,1000,1454.42,MALE,Associate,protective-serv,reading,other-relative,Single Vehicle Collision,Major Damage,Other,19,1,0,1,74280,Suburu,2006,Y
+233,37,IL,100/300,2000,1603.42,FEMALE,High School,sales,video-games,wife,Single Vehicle Collision,Total Loss,Fire,17,1,0,2,80520,Toyota,2005,N
+142,30,IN,250/500,2000,1616.58,MALE,JD,adm-clerical,polo,husband,Multi-vehicle Collision,Major Damage,Other,13,3,0,3,63600,Dodge,2010,N
+266,44,IL,250/500,500,1611.83,MALE,High School,handlers-cleaners,movies,husband,Single Vehicle Collision,Total Loss,Police,4,1,1,2,32800,BMW,2012,N
+350,50,OH,500/1000,500,889.13,FEMALE,Masters,priv-house-serv,board-games,other-relative,Multi-vehicle Collision,Total Loss,Police,14,3,0,2,44190,Audi,2015,N
+97,26,IL,250/500,1000,1252.08,MALE,College,exec-managerial,sleeping,not-in-family,Multi-vehicle Collision,Major Damage,Other,4,2,2,2,50400,Honda,2000,Y
+399,55,IL,500/1000,2000,995.56,MALE,JD,tech-support,sleeping,not-in-family,Multi-vehicle Collision,Total Loss,Police,23,3,1,1,88400,Nissan,2010,N
+305,49,IL,100/300,2000,1347.92,FEMALE,High School,farming-fishing,bungie-jumping,own-child,Multi-vehicle Collision,Total Loss,Fire,21,3,0,2,66550,Volkswagen,2003,N
+276,47,IN,100/300,1000,1724.09,MALE,PhD,craft-repair,yachting,own-child,Multi-vehicle Collision,Minor Damage,Police,23,3,0,0,65780,Chevrolet,2014,N
+257,40,IN,250/500,500,1379.93,MALE,MD,armed-forces,base-jumping,husband,Multi-vehicle Collision,Major Damage,Other,6,3,0,2,51810,Audi,2002,Y
+78,31,IN,250/500,1000,1554.64,MALE,PhD,protective-serv,board-games,own-child,Single Vehicle Collision,Major Damage,Other,21,1,1,0,55660,Honda,2009,Y
+129,28,OH,500/1000,1000,1377.94,MALE,Masters,machine-op-inspct,base-jumping,not-in-family,Single Vehicle Collision,Major Damage,Fire,23,1,2,3,44640,Toyota,2005,N
+283,46,IL,500/1000,2000,1313.33,FEMALE,PhD,transport-moving,reading,husband,Multi-vehicle Collision,Major Damage,Ambulance,3,3,1,3,77660,Nissan,2004,Y
+85,25,IN,250/500,500,1259.02,FEMALE,JD,tech-support,base-jumping,unmarried,Parked Car,Trivial Damage,None,8,1,2,2,5640,Nissan,2005,N
+101,26,IL,500/1000,1000,1371.88,FEMALE,MD,prof-specialty,reading,husband,Parked Car,Trivial Damage,None,4,1,2,2,3190,Suburu,1995,N
+96,30,OH,100/300,500,1399.27,MALE,College,prof-specialty,hiking,wife,Single Vehicle Collision,Total Loss,Fire,22,1,0,0,53440,Ford,2004,N
+121,31,IL,500/1000,1000,1061.98,FEMALE,JD,armed-forces,camping,unmarried,Single Vehicle Collision,Minor Damage,Police,16,1,0,1,65250,BMW,2002,N
+176,39,OH,250/500,500,1365.46,MALE,College,armed-forces,sleeping,unmarried,Multi-vehicle Collision,Minor Damage,Fire,14,3,2,1,44280,Chevrolet,2008,N
+159,37,IL,500/1000,1000,894.4,MALE,Associate,tech-support,camping,wife,Single Vehicle Collision,Total Loss,Police,13,1,2,0,70290,Dodge,1999,N
+120,30,IN,250/500,500,956.69,FEMALE,Associate,priv-house-serv,movies,husband,Single Vehicle Collision,Minor Damage,Other,20,1,1,1,87100,Saab,2000,N
+212,35,IN,500/1000,2000,1123.89,MALE,MD,priv-house-serv,video-games,unmarried,Multi-vehicle Collision,Total Loss,Fire,0,3,1,3,50380,Suburu,1996,N
+290,45,IL,100/300,500,1085.03,FEMALE,JD,sales,cross-fit,wife,Multi-vehicle Collision,Total Loss,Police,23,3,2,2,64800,Audi,2014,Y
+299,42,OH,100/300,2000,1437.33,FEMALE,Associate,craft-repair,movies,wife,Single Vehicle Collision,Minor Damage,Other,13,1,1,3,70400,BMW,2000,N
+66,26,IL,250/500,1000,988.29,MALE,College,armed-forces,skydiving,own-child,Single Vehicle Collision,Major Damage,Police,8,1,2,2,57860,Suburu,2008,Y
+334,47,IL,500/1000,500,1238.89,MALE,Masters,protective-serv,sleeping,other-relative,Vehicle Theft,Minor Damage,None,3,1,0,3,6240,Ford,2011,N
+216,38,IN,100/300,1000,1384.64,FEMALE,Associate,tech-support,board-games,unmarried,Single Vehicle Collision,Total Loss,Police,16,1,2,3,66600,Jeep,2012,Y
+86,28,IN,100/300,2000,1595.07,MALE,PhD,transport-moving,hiking,unmarried,Single Vehicle Collision,Minor Damage,Police,19,1,0,2,70920,Jeep,2002,N
+429,56,OH,250/500,1000,1127.89,MALE,Associate,machine-op-inspct,skydiving,own-child,Single Vehicle Collision,Minor Damage,Ambulance,0,1,2,0,39480,Suburu,2002,N
+257,43,IN,500/1000,2000,929.7,FEMALE,PhD,handlers-cleaners,base-jumping,husband,Single Vehicle Collision,Total Loss,Other,12,1,2,2,63240,Mercedes,2005,N
+15,34,IL,100/300,1000,1829.63,MALE,JD,tech-support,cross-fit,not-in-family,Multi-vehicle Collision,Total Loss,Other,21,3,1,0,67650,Audi,2009,N
+230,39,IL,100/300,1000,904.7,FEMALE,MD,craft-repair,bungie-jumping,unmarried,Single Vehicle Collision,Major Damage,Fire,0,1,1,3,74200,Accura,2002,Y
+250,43,OH,500/1000,1000,1243.84,FEMALE,JD,tech-support,polo,own-child,Single Vehicle Collision,Minor Damage,Other,22,1,1,3,64900,Volkswagen,2011,N
+270,44,IL,500/1000,2000,1030.95,FEMALE,Associate,machine-op-inspct,paintball,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,20,3,1,0,35900,Audi,2007,Y
+65,26,IN,100/300,500,1285.03,FEMALE,High School,craft-repair,camping,unmarried,Single Vehicle Collision,Minor Damage,Fire,0,1,1,3,52200,Honda,2011,N
+475,57,OH,100/300,500,1216.56,MALE,Masters,adm-clerical,skydiving,own-child,Single Vehicle Collision,Minor Damage,Police,20,1,0,2,78000,Suburu,2000,N
+77,27,IN,500/1000,2000,966.26,FEMALE,High School,adm-clerical,base-jumping,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,1,3,0,0,67200,Volkswagen,1995,N
+256,43,OH,100/300,500,1203.17,FEMALE,MD,prof-specialty,golf,unmarried,Single Vehicle Collision,Total Loss,Fire,11,1,0,0,63250,Nissan,1997,N
+229,37,IL,250/500,2000,1212.12,FEMALE,MD,craft-repair,paintball,not-in-family,Multi-vehicle Collision,Major Damage,Other,14,3,1,1,68760,Ford,1995,N
+110,28,OH,250/500,1000,1573.93,MALE,College,other-service,movies,other-relative,Multi-vehicle Collision,Minor Damage,Police,20,3,0,2,65040,Suburu,2010,N
+177,33,IL,100/300,1000,1609.67,MALE,College,adm-clerical,yachting,wife,Single Vehicle Collision,Major Damage,Ambulance,22,1,1,3,82800,Jeep,2004,Y
+292,44,OH,500/1000,500,1097.57,MALE,PhD,priv-house-serv,basketball,unmarried,Single Vehicle Collision,Total Loss,Other,12,1,1,0,61700,Saab,2005,N
+451,61,IN,250/500,2000,1618.65,FEMALE,Associate,transport-moving,polo,unmarried,Multi-vehicle Collision,Major Damage,Ambulance,3,3,2,1,78100,Chevrolet,1997,Y
+61,24,IN,100/300,500,922.67,FEMALE,College,priv-house-serv,paintball,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,15,3,2,1,65520,Toyota,2011,Y
+150,30,IN,100/300,1000,1342.02,MALE,MD,prof-specialty,polo,own-child,Parked Car,Trivial Damage,None,8,1,0,2,4500,Saab,1999,N
+283,41,OH,100/300,500,1195.01,FEMALE,Associate,sales,reading,own-child,Multi-vehicle Collision,Major Damage,Other,13,3,0,2,42700,Mercedes,2011,Y
+291,46,OH,500/1000,1000,994.74,FEMALE,High School,adm-clerical,polo,own-child,Parked Car,Minor Damage,Police,8,1,2,2,5580,Volkswagen,2005,Y
+162,31,IN,100/300,1000,1050.24,FEMALE,Masters,adm-clerical,chess,wife,Parked Car,Minor Damage,None,7,1,0,0,3600,BMW,2013,Y
+154,36,IL,250/500,2000,1313.51,FEMALE,Masters,exec-managerial,dancing,own-child,Vehicle Theft,Trivial Damage,None,9,1,2,0,2800,Volkswagen,2015,N
+289,47,OH,500/1000,2000,1102.29,FEMALE,Associate,adm-clerical,hiking,own-child,Single Vehicle Collision,Minor Damage,Ambulance,15,1,1,0,54000,Toyota,1996,N
+10,19,IN,250/500,1000,1185.78,FEMALE,JD,craft-repair,yachting,wife,Single Vehicle Collision,Minor Damage,Police,5,1,0,2,48950,Accura,2011,Y
+309,47,IL,500/1000,500,1527.95,MALE,PhD,exec-managerial,hiking,other-relative,Multi-vehicle Collision,Major Damage,Other,15,4,0,1,77800,Dodge,2002,N
+396,57,IN,100/300,1000,1366.39,MALE,High School,protective-serv,exercise,other-relative,Multi-vehicle Collision,Major Damage,Other,22,3,2,1,52560,Saab,1995,N
+273,41,OH,500/1000,1000,1403.9,FEMALE,PhD,farming-fishing,dancing,own-child,Multi-vehicle Collision,Total Loss,Police,16,2,1,2,44110,Honda,2015,N
+129,30,IL,500/1000,2000,927.23,FEMALE,PhD,sales,video-games,husband,Single Vehicle Collision,Total Loss,Other,7,1,1,3,74360,Suburu,2009,N
+140,31,OH,250/500,2000,1554.86,FEMALE,JD,armed-forces,base-jumping,wife,Parked Car,Minor Damage,None,2,1,1,2,6120,Honda,2002,Y
+419,53,IL,500/1000,2000,736.07,MALE,College,transport-moving,chess,unmarried,Multi-vehicle Collision,Minor Damage,Police,17,4,0,0,62280,Suburu,2012,N
+315,44,IL,250/500,1000,974.16,FEMALE,Masters,sales,reading,other-relative,Multi-vehicle Collision,Total Loss,Other,12,3,1,0,26730,Volkswagen,2006,N
+72,29,OH,500/1000,500,973.8,FEMALE,Associate,craft-repair,exercise,own-child,Single Vehicle Collision,Major Damage,Ambulance,9,1,1,0,66200,Dodge,2013,N
+32,26,OH,100/300,2000,1260.32,MALE,JD,other-service,polo,not-in-family,Single Vehicle Collision,Total Loss,Fire,16,1,1,2,45500,Toyota,2009,N
+230,41,IN,100/300,1000,1464.03,MALE,JD,transport-moving,sleeping,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,19,3,2,0,53040,Audi,2006,N
+157,32,OH,100/300,2000,617.11,MALE,College,other-service,reading,other-relative,Multi-vehicle Collision,Major Damage,Other,14,3,1,2,50800,Mercedes,2013,Y
+265,41,IN,250/500,2000,1724.46,FEMALE,Associate,craft-repair,sleeping,own-child,Multi-vehicle Collision,Total Loss,Police,18,3,1,3,44200,Audi,2014,N
+47,34,IL,500/1000,500,1161.31,FEMALE,PhD,exec-managerial,base-jumping,other-relative,Single Vehicle Collision,Minor Damage,Police,23,1,1,3,62920,Chevrolet,2012,N
+113,29,OH,250/500,2000,1091.73,MALE,PhD,exec-managerial,golf,not-in-family,Multi-vehicle Collision,Minor Damage,Other,15,3,0,2,49950,Nissan,2004,Y
+289,46,IL,250/500,2000,1209.07,MALE,JD,armed-forces,chess,unmarried,Single Vehicle Collision,Minor Damage,Ambulance,18,1,0,1,56430,BMW,1995,Y
+254,41,IL,250/500,2000,1241.04,FEMALE,Masters,protective-serv,board-games,own-child,Single Vehicle Collision,Minor Damage,Police,16,1,2,2,100210,Audi,2014,N
+115,30,OH,500/1000,500,1757.21,MALE,High School,prof-specialty,base-jumping,wife,Multi-vehicle Collision,Minor Damage,Fire,12,3,1,0,49140,Ford,2007,N
+236,38,OH,250/500,1000,802.24,FEMALE,College,other-service,paintball,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,16,1,0,1,66840,Mercedes,2014,N
+7,21,IN,500/1000,1000,1342.72,MALE,Associate,machine-op-inspct,camping,wife,Single Vehicle Collision,Total Loss,Other,21,1,1,2,62460,Honda,2003,N
+208,36,OH,100/300,2000,1209.41,MALE,JD,machine-op-inspct,base-jumping,wife,Multi-vehicle Collision,Total Loss,Other,15,3,0,1,62810,Nissan,1999,N
+126,33,OH,500/1000,1000,1141.71,FEMALE,JD,priv-house-serv,sleeping,own-child,Single Vehicle Collision,Major Damage,Ambulance,21,1,1,2,54160,Suburu,2009,N
+48,35,IL,100/300,500,1090.03,FEMALE,JD,exec-managerial,golf,unmarried,Single Vehicle Collision,Major Damage,Ambulance,1,1,0,2,48400,Saab,2005,N
+297,48,IN,250/500,1000,1464.73,MALE,PhD,exec-managerial,golf,other-relative,Multi-vehicle Collision,Total Loss,Fire,17,3,0,0,51480,Toyota,2013,N
+160,36,OH,100/300,1000,1118.58,FEMALE,High School,prof-specialty,board-games,husband,Multi-vehicle Collision,Total Loss,Fire,5,3,2,1,51700,Saab,2003,N
+406,58,OH,250/500,2000,1117.04,MALE,MD,exec-managerial,video-games,own-child,Multi-vehicle Collision,Total Loss,Other,15,3,1,2,65520,Volkswagen,2009,N
+157,31,IN,500/1000,500,1257.83,MALE,High School,farming-fishing,reading,own-child,Multi-vehicle Collision,Major Damage,Other,2,4,2,2,47700,Accura,2011,Y
+146,31,OH,250/500,2000,1082.72,FEMALE,PhD,machine-op-inspct,video-games,not-in-family,Vehicle Theft,Minor Damage,None,3,1,2,0,5220,Accura,2015,N
+409,57,IN,100/300,1000,1191.8,MALE,High School,protective-serv,exercise,unmarried,Single Vehicle Collision,Major Damage,Other,19,1,1,0,73320,Ford,2012,N
+252,46,IN,100/300,1000,1242.02,MALE,Masters,adm-clerical,dancing,wife,Single Vehicle Collision,Minor Damage,Fire,17,1,0,2,74900,Jeep,2003,N
+6,27,OH,250/500,500,1075.71,FEMALE,High School,prof-specialty,dancing,unmarried,Vehicle Theft,Trivial Damage,Police,7,1,0,1,3190,Saab,2015,N
+103,33,IN,100/300,1000,969.88,MALE,MD,armed-forces,exercise,own-child,Single Vehicle Collision,Minor Damage,Ambulance,21,1,1,0,76920,Chevrolet,2002,N
+369,53,OH,250/500,2000,1459.93,FEMALE,Masters,priv-house-serv,video-games,not-in-family,Multi-vehicle Collision,Total Loss,Police,10,2,1,3,77990,Jeep,2012,N
+261,46,IL,500/1000,1000,1245.61,MALE,MD,transport-moving,base-jumping,own-child,Single Vehicle Collision,Total Loss,Fire,11,1,1,0,59670,Ford,2008,N
+159,33,IN,100/300,2000,1462.76,FEMALE,College,craft-repair,skydiving,husband,Multi-vehicle Collision,Major Damage,Ambulance,23,3,2,0,44880,Mercedes,2004,Y
+344,51,IN,100/300,2000,1398.46,MALE,Associate,sales,skydiving,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,14,1,0,2,82830,Audi,2004,N
+437,60,OH,500/1000,1000,1269.64,FEMALE,College,armed-forces,cross-fit,unmarried,Single Vehicle Collision,Minor Damage,Other,10,1,1,3,84480,Chevrolet,2012,Y
+65,30,IN,100/300,500,1455.65,FEMALE,College,transport-moving,skydiving,wife,Multi-vehicle Collision,Total Loss,Fire,6,3,2,3,79800,Honda,1999,N
+280,41,OH,500/1000,2000,1140.31,MALE,MD,adm-clerical,exercise,husband,Multi-vehicle Collision,Minor Damage,Police,10,3,0,3,53020,Toyota,1999,N
+269,45,IN,500/1000,500,1330.46,FEMALE,High School,machine-op-inspct,sleeping,wife,Multi-vehicle Collision,Total Loss,Police,5,3,0,0,24200,Suburu,2008,N
+275,40,OH,250/500,2000,1190.6,MALE,Masters,exec-managerial,camping,unmarried,Single Vehicle Collision,Minor Damage,Fire,17,1,1,3,43230,Chevrolet,2001,N
+265,45,OH,250/500,500,972.5,FEMALE,College,exec-managerial,cross-fit,unmarried,Vehicle Theft,Trivial Damage,None,3,1,2,3,3190,Ford,1995,N
+283,43,IN,100/300,2000,1161.91,FEMALE,Associate,adm-clerical,polo,not-in-family,Parked Car,Minor Damage,None,9,1,0,3,5850,BMW,2006,N
+84,29,OH,250/500,1000,1117.17,FEMALE,High School,machine-op-inspct,video-games,not-in-family,Parked Car,Trivial Damage,Police,6,1,2,0,6820,BMW,2005,N
+247,44,OH,250/500,2000,1101.51,FEMALE,College,farming-fishing,camping,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,22,3,2,2,69480,Chevrolet,2008,N
+56,29,IL,100/300,1000,1523.17,MALE,Masters,prof-specialty,movies,own-child,Multi-vehicle Collision,Major Damage,Fire,10,3,1,2,94560,Jeep,1995,N
+210,39,OH,500/1000,1000,984.45,MALE,Associate,armed-forces,paintball,unmarried,Vehicle Theft,Minor Damage,None,4,1,1,2,7800,Dodge,1997,N
+108,32,OH,500/1000,2000,1257.0,FEMALE,High School,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Total Loss,Other,23,1,1,3,61270,Suburu,1999,N
+328,49,OH,500/1000,500,1434.51,FEMALE,Masters,transport-moving,bungie-jumping,wife,Single Vehicle Collision,Total Loss,Police,19,1,0,2,71440,Mercedes,2005,N
+186,37,OH,250/500,2000,1628.0,FEMALE,JD,priv-house-serv,exercise,unmarried,Single Vehicle Collision,Total Loss,Ambulance,22,1,1,2,55600,Jeep,2009,N
+277,44,IN,500/1000,500,1412.31,MALE,High School,priv-house-serv,board-games,unmarried,Vehicle Theft,Trivial Damage,Police,6,1,1,3,5000,Jeep,2005,N
+138,33,IL,250/500,500,1362.87,FEMALE,JD,exec-managerial,paintball,own-child,Single Vehicle Collision,Minor Damage,Other,6,1,2,0,95810,BMW,2007,N
+208,41,IN,100/300,1000,1134.68,FEMALE,College,tech-support,chess,husband,Single Vehicle Collision,Major Damage,Ambulance,18,1,2,2,69300,Volkswagen,1996,N
+147,37,IN,250/500,1000,1306.78,MALE,MD,prof-specialty,video-games,other-relative,Single Vehicle Collision,Total Loss,Ambulance,22,1,1,0,81120,Toyota,1995,N
+8,21,IN,500/1000,500,1021.9,MALE,High School,handlers-cleaners,hiking,husband,Single Vehicle Collision,Major Damage,Other,21,1,0,0,91260,Toyota,2012,N
+297,48,IN,100/300,1000,1538.6,FEMALE,MD,other-service,kayaking,wife,Single Vehicle Collision,Minor Damage,Fire,12,1,0,0,60600,Ford,2004,N
+150,31,IN,500/1000,1000,1354.5,MALE,Masters,machine-op-inspct,base-jumping,husband,Multi-vehicle Collision,Major Damage,Ambulance,6,3,0,3,64800,Suburu,2000,Y
+4,34,OH,500/1000,500,1282.93,FEMALE,College,exec-managerial,basketball,other-relative,Multi-vehicle Collision,Major Damage,Police,0,4,0,0,66880,Chevrolet,1996,Y
+210,35,IL,500/1000,1000,1346.27,MALE,Masters,farming-fishing,cross-fit,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,11,1,0,2,58200,BMW,2013,N
+91,31,IN,100/300,1000,1338.4,FEMALE,High School,priv-house-serv,polo,own-child,Single Vehicle Collision,Minor Damage,Police,19,1,1,0,60570,Nissan,2011,N
+167,36,IL,100/300,1000,949.44,FEMALE,Masters,exec-managerial,camping,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,22,3,0,0,69680,Mercedes,2008,Y
+467,58,IN,500/1000,2000,977.4,MALE,Masters,transport-moving,bungie-jumping,own-child,Single Vehicle Collision,Total Loss,Fire,2,1,2,3,55700,Nissan,2014,N
+264,47,IN,250/500,2000,1181.46,FEMALE,JD,transport-moving,sleeping,other-relative,Multi-vehicle Collision,Total Loss,Ambulance,16,4,1,2,62370,Dodge,2001,N
+270,45,OH,500/1000,500,1187.53,FEMALE,PhD,priv-house-serv,yachting,not-in-family,Multi-vehicle Collision,Total Loss,Other,23,3,0,0,54340,Saab,2005,N
+310,48,OH,100/300,1000,845.16,FEMALE,Masters,priv-house-serv,base-jumping,other-relative,Single Vehicle Collision,Major Damage,Police,21,1,1,0,55170,Audi,2005,Y
+143,34,IL,100/300,500,1442.27,MALE,College,priv-house-serv,exercise,wife,Single Vehicle Collision,Minor Damage,Other,10,1,2,3,58500,Dodge,1999,N
+146,32,OH,100/300,2000,1276.43,MALE,Associate,priv-house-serv,skydiving,own-child,Single Vehicle Collision,Major Damage,Fire,12,1,0,3,59940,Honda,1995,N
+102,28,OH,250/500,500,1075.41,MALE,MD,machine-op-inspct,reading,wife,Single Vehicle Collision,Total Loss,Police,6,1,1,0,73400,Dodge,1996,N
+61,23,IL,100/300,500,1111.72,MALE,JD,exec-managerial,bungie-jumping,other-relative,Single Vehicle Collision,Major Damage,Fire,6,1,1,2,41850,Suburu,1997,N
+255,44,OH,500/1000,2000,814.96,FEMALE,PhD,priv-house-serv,chess,not-in-family,Parked Car,Trivial Damage,Police,7,1,2,2,6400,Mercedes,2005,Y
+211,40,IL,500/1000,1000,1575.86,FEMALE,PhD,other-service,sleeping,own-child,Vehicle Theft,Trivial Damage,Police,3,1,1,1,3190,Audi,2004,N
+61,29,IN,250/500,1000,1115.27,MALE,JD,handlers-cleaners,polo,unmarried,Parked Car,Trivial Damage,None,10,1,2,1,5900,Nissan,2010,N
+108,31,IN,500/1000,2000,1175.7,MALE,Masters,protective-serv,yachting,not-in-family,Single Vehicle Collision,Total Loss,Fire,14,1,0,2,57330,Dodge,2006,N
+303,50,OH,100/300,500,793.15,MALE,MD,tech-support,board-games,own-child,Multi-vehicle Collision,Total Loss,Other,17,3,0,3,81960,Dodge,2008,N
+152,33,IN,250/500,500,942.51,FEMALE,PhD,transport-moving,exercise,wife,Single Vehicle Collision,Major Damage,Fire,16,1,0,0,70400,Suburu,2001,Y
+120,34,IN,500/1000,1000,1056.71,FEMALE,JD,protective-serv,paintball,not-in-family,Parked Car,Minor Damage,None,3,1,2,1,3770,Jeep,2002,N
+144,36,IN,500/1000,2000,1255.68,FEMALE,Associate,sales,reading,other-relative,Parked Car,Minor Damage,None,7,1,0,0,7400,Dodge,2014,N
+414,52,IN,500/1000,500,1335.13,FEMALE,High School,farming-fishing,chess,unmarried,Single Vehicle Collision,Total Loss,Police,13,1,1,1,54810,Chevrolet,1999,Y
+163,37,IN,250/500,500,1178.95,FEMALE,JD,priv-house-serv,dancing,own-child,Single Vehicle Collision,Total Loss,Fire,20,1,2,3,49400,Jeep,2005,N
+352,53,IL,250/500,500,1793.16,MALE,Associate,tech-support,exercise,wife,Single Vehicle Collision,Minor Damage,Fire,23,1,2,2,68750,Chevrolet,2009,N
+27,32,OH,100/300,500,1008.38,FEMALE,PhD,adm-clerical,yachting,other-relative,Single Vehicle Collision,Total Loss,Ambulance,11,1,1,0,61500,Dodge,2013,N
+239,39,IL,100/300,500,1396.83,FEMALE,Masters,other-service,reading,husband,Multi-vehicle Collision,Major Damage,Ambulance,0,4,0,3,76890,BMW,2007,N
+33,32,OH,100/300,500,1402.78,FEMALE,PhD,other-service,base-jumping,husband,Single Vehicle Collision,Minor Damage,Ambulance,2,1,0,1,56070,Toyota,2012,N
+88,30,IN,100/300,1000,1437.88,FEMALE,College,transport-moving,reading,husband,Single Vehicle Collision,Total Loss,Fire,3,1,2,0,56000,Chevrolet,2003,N
+101,33,IL,500/1000,1000,1313.64,FEMALE,College,priv-house-serv,board-games,unmarried,Parked Car,Trivial Damage,None,3,1,1,0,4290,Audi,1997,N
+20,37,IL,250/500,500,1482.14,FEMALE,Associate,transport-moving,reading,husband,Multi-vehicle Collision,Total Loss,Other,15,3,2,1,60750,Suburu,2003,N
+126,30,IL,250/500,2000,1171.75,FEMALE,Associate,machine-op-inspct,board-games,not-in-family,Single Vehicle Collision,Minor Damage,Other,23,1,2,3,48730,Chevrolet,2011,N
+264,43,IL,500/1000,2000,1353.33,MALE,Associate,adm-clerical,video-games,not-in-family,Multi-vehicle Collision,Minor Damage,Police,9,3,2,0,95150,Ford,2007,N
+78,24,IN,100/300,500,1175.51,MALE,Masters,craft-repair,yachting,husband,Vehicle Theft,Minor Damage,Police,20,1,0,1,7480,Dodge,2003,N
+123,28,IL,100/300,2000,1836.02,MALE,Masters,transport-moving,movies,own-child,Single Vehicle Collision,Major Damage,Ambulance,5,1,2,1,79800,Volkswagen,2011,Y
+347,51,OH,500/1000,500,1480.79,FEMALE,MD,priv-house-serv,board-games,unmarried,Single Vehicle Collision,Total Loss,Other,15,1,0,2,103560,Jeep,1997,N
+163,38,IN,500/1000,2000,1453.92,FEMALE,PhD,other-service,yachting,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,13,1,2,3,79500,Accura,1995,N
+271,44,OH,250/500,500,1340.71,FEMALE,High School,tech-support,base-jumping,other-relative,Single Vehicle Collision,Minor Damage,Other,16,1,2,2,76230,Volkswagen,1997,Y
+410,54,IL,100/300,2000,714.03,MALE,MD,protective-serv,board-games,own-child,Single Vehicle Collision,Minor Damage,Ambulance,0,1,0,2,59520,Honda,2001,N
+448,57,IL,100/300,2000,1376.16,FEMALE,PhD,tech-support,hiking,own-child,Multi-vehicle Collision,Major Damage,Police,10,3,2,1,47760,Suburu,2013,Y
+218,41,IL,100/300,500,914.22,MALE,JD,prof-specialty,golf,wife,Multi-vehicle Collision,Total Loss,Police,14,3,2,0,84590,Saab,2013,N
+43,38,OH,500/1000,1000,1601.47,MALE,PhD,handlers-cleaners,skydiving,other-relative,Multi-vehicle Collision,Total Loss,Other,1,3,2,2,61650,Nissan,2006,N
+33,33,IL,500/1000,1000,1096.79,FEMALE,Associate,handlers-cleaners,dancing,unmarried,Single Vehicle Collision,Major Damage,Police,16,1,2,1,81400,BMW,1998,N
+126,34,IN,100/300,2000,1078.22,FEMALE,Masters,transport-moving,camping,wife,Multi-vehicle Collision,Major Damage,Fire,2,3,0,1,58410,Chevrolet,2007,N
+411,56,IL,250/500,1000,1595.28,FEMALE,College,protective-serv,exercise,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,23,3,0,0,38610,Volkswagen,2007,N
+225,37,OH,100/300,1000,1217.84,FEMALE,High School,farming-fishing,yachting,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,19,3,2,2,57600,Volkswagen,2015,N
+35,35,IL,100/300,2000,1117.42,FEMALE,PhD,protective-serv,kayaking,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,23,3,2,2,53190,Volkswagen,1996,N
+460,57,OH,100/300,2000,1567.37,FEMALE,JD,craft-repair,skydiving,husband,Single Vehicle Collision,Major Damage,Other,10,1,2,3,58300,Nissan,2014,Y
+195,38,IL,500/1000,2000,1294.93,MALE,MD,tech-support,video-games,unmarried,Multi-vehicle Collision,Minor Damage,Ambulance,12,3,1,2,64620,Dodge,2003,N
+360,51,IL,250/500,1000,1152.12,MALE,PhD,armed-forces,hiking,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,15,3,2,0,90480,BMW,2000,N
+300,49,IL,100/300,1000,1441.21,FEMALE,PhD,farming-fishing,kayaking,wife,Vehicle Theft,Trivial Damage,None,3,1,1,0,7080,Nissan,2001,N
+245,42,IL,500/1000,1000,1575.74,MALE,JD,exec-managerial,chess,other-relative,Parked Car,Minor Damage,Police,19,1,2,2,6490,Toyota,2011,Y
+146,36,OH,500/1000,2000,1233.96,FEMALE,Masters,other-service,golf,other-relative,Multi-vehicle Collision,Total Loss,Police,16,3,1,1,55900,Nissan,2015,N
+67,29,IL,250/500,1000,1861.43,MALE,High School,adm-clerical,polo,husband,Single Vehicle Collision,Major Damage,Other,16,1,0,3,63800,Saab,1998,Y
+380,56,OH,100/300,1000,1570.86,MALE,MD,farming-fishing,cross-fit,other-relative,Single Vehicle Collision,Total Loss,Police,10,1,0,1,58160,Saab,1996,Y
+389,53,IL,500/1000,2000,791.47,MALE,Masters,armed-forces,chess,unmarried,Vehicle Theft,Minor Damage,Police,6,1,1,2,6300,Mercedes,2001,Y
+317,46,IN,250/500,1000,1012.78,MALE,MD,sales,yachting,other-relative,Single Vehicle Collision,Major Damage,Fire,18,1,2,1,104610,Mercedes,1999,Y
+264,44,IL,100/300,500,1047.06,MALE,College,exec-managerial,sleeping,wife,Multi-vehicle Collision,Major Damage,Fire,20,3,0,2,69850,Ford,1999,N
+20,21,OH,250/500,1000,1390.29,FEMALE,Masters,priv-house-serv,polo,other-relative,Single Vehicle Collision,Minor Damage,Fire,14,1,0,0,62900,Accura,2006,N
+116,30,IN,500/1000,500,951.46,MALE,JD,handlers-cleaners,golf,not-in-family,Multi-vehicle Collision,Major Damage,Other,8,3,0,3,59670,Volkswagen,2004,Y
+222,40,IL,100/300,1000,1226.78,MALE,JD,armed-forces,camping,unmarried,Multi-vehicle Collision,Minor Damage,Other,17,2,2,0,81500,BMW,2013,N
+439,56,OH,100/300,500,1280.9,MALE,High School,armed-forces,video-games,own-child,Single Vehicle Collision,Minor Damage,Ambulance,9,1,2,0,50000,Jeep,2009,N
+66,28,IN,100/300,2000,1472.77,MALE,Associate,adm-clerical,exercise,husband,Single Vehicle Collision,Total Loss,Other,0,1,2,1,48290,Nissan,1995,N
+128,29,OH,500/1000,1000,1878.44,MALE,High School,other-service,golf,husband,Single Vehicle Collision,Total Loss,Fire,2,1,0,0,59070,Chevrolet,2003,N
+69,24,IN,500/1000,500,1418.5,FEMALE,High School,armed-forces,yachting,other-relative,Multi-vehicle Collision,Minor Damage,Police,23,3,0,0,63300,Dodge,2012,N
+294,46,IL,100/300,500,1532.8,MALE,College,prof-specialty,exercise,own-child,Single Vehicle Collision,Total Loss,Other,8,1,0,3,65780,Mercedes,2013,N
+19,29,OH,250/500,500,1304.35,MALE,JD,transport-moving,cross-fit,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,6,3,0,2,75400,Dodge,2005,Y
+191,33,OH,500/1000,2000,1551.61,MALE,High School,armed-forces,movies,unmarried,Vehicle Theft,Minor Damage,None,3,1,1,1,2250,Toyota,2005,N
+4,39,IL,100/300,1000,1326.98,FEMALE,High School,machine-op-inspct,reading,unmarried,Multi-vehicle Collision,Minor Damage,Ambulance,14,3,1,3,54120,Jeep,2007,N
+298,49,OH,250/500,500,862.92,MALE,MD,machine-op-inspct,camping,wife,Multi-vehicle Collision,Major Damage,Other,16,3,0,2,69480,Saab,2007,N
+231,43,IN,100/300,2000,1331.69,FEMALE,Masters,adm-clerical,reading,not-in-family,Single Vehicle Collision,Minor Damage,Police,12,1,1,2,66950,Chevrolet,2015,N
+338,47,OH,250/500,2000,1486.04,FEMALE,Associate,armed-forces,board-games,own-child,Multi-vehicle Collision,Major Damage,Other,1,3,2,3,64100,Dodge,2014,Y
+261,46,IN,100/300,1000,870.55,MALE,PhD,prof-specialty,camping,unmarried,Single Vehicle Collision,Minor Damage,Other,19,1,0,3,80280,Chevrolet,2013,N
+321,44,IL,500/1000,2000,1344.56,MALE,Associate,machine-op-inspct,hiking,husband,Vehicle Theft,Trivial Damage,Police,7,1,1,2,4680,Accura,1999,N
+0,32,OH,500/1000,1000,1377.04,MALE,College,tech-support,base-jumping,wife,Multi-vehicle Collision,Minor Damage,Ambulance,6,4,1,1,39720,Accura,2002,N
+405,58,IL,250/500,500,1237.88,MALE,MD,exec-managerial,exercise,not-in-family,Single Vehicle Collision,Major Damage,Police,11,1,0,0,63580,Mercedes,1997,Y
+304,49,IN,100/300,1000,1525.86,FEMALE,PhD,craft-repair,camping,own-child,Single Vehicle Collision,Minor Damage,Other,2,1,1,1,73370,Saab,2013,N
+1,29,OH,500/1000,500,854.58,FEMALE,JD,craft-repair,paintball,other-relative,Single Vehicle Collision,Minor Damage,Police,15,1,2,3,86790,Honda,2003,N
+26,39,IN,250/500,1000,770.76,MALE,Masters,tech-support,sleeping,husband,Single Vehicle Collision,Major Damage,Police,0,1,0,2,49800,Mercedes,2015,N
+202,38,IL,100/300,2000,1132.74,FEMALE,Associate,armed-forces,exercise,husband,Single Vehicle Collision,Major Damage,Other,12,1,1,1,77440,Nissan,2005,N
+289,48,IL,500/1000,500,1173.37,FEMALE,PhD,handlers-cleaners,board-games,own-child,Single Vehicle Collision,Total Loss,Other,1,1,1,0,42900,Accura,1999,N
+61,26,OH,100/300,2000,1188.28,FEMALE,JD,farming-fishing,skydiving,wife,Multi-vehicle Collision,Major Damage,Fire,16,2,1,0,53820,Ford,2015,Y
+334,46,IL,100/300,1000,876.88,MALE,MD,sales,reading,other-relative,Single Vehicle Collision,Minor Damage,Police,2,1,2,1,57330,Jeep,1998,N
+12,24,IL,500/1000,1000,1143.95,FEMALE,PhD,tech-support,paintball,other-relative,Multi-vehicle Collision,Minor Damage,Police,13,3,2,1,53370,Nissan,2011,N
+86,29,IL,100/300,2000,1409.06,MALE,High School,prof-specialty,yachting,husband,Single Vehicle Collision,Minor Damage,Police,0,1,2,2,62920,Accura,2005,N
+83,24,IN,500/1000,1000,1070.63,FEMALE,High School,machine-op-inspct,board-games,unmarried,Multi-vehicle Collision,Total Loss,Fire,0,3,0,1,61600,Honda,2003,N
+126,30,IL,500/1000,2000,916.13,MALE,College,sales,golf,unmarried,Multi-vehicle Collision,Total Loss,Police,16,3,2,0,74160,Mercedes,2002,N
+209,38,OH,250/500,500,1191.5,MALE,High School,priv-house-serv,reading,husband,Single Vehicle Collision,Total Loss,Police,8,1,2,0,80100,Audi,2015,N
+283,48,OH,500/1000,1000,1474.66,FEMALE,JD,sales,paintball,husband,Parked Car,Trivial Damage,Police,9,1,2,3,6560,Volkswagen,2003,N
+194,34,IL,250/500,1000,1193.45,MALE,JD,other-service,hiking,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,11,1,2,1,58800,Nissan,1997,N
+184,38,IL,250/500,1000,1437.53,FEMALE,College,transport-moving,chess,not-in-family,Multi-vehicle Collision,Minor Damage,Ambulance,6,3,0,2,53730,Dodge,2013,Y
+479,60,IL,100/300,2000,1304.83,FEMALE,College,other-service,cross-fit,husband,Single Vehicle Collision,Total Loss,Ambulance,18,1,0,0,60600,Honda,2001,N
+284,48,OH,250/500,1000,1168.8,FEMALE,JD,tech-support,movies,other-relative,Single Vehicle Collision,Total Loss,Other,11,1,0,3,35750,Mercedes,2001,N
+65,27,IN,100/300,1000,1164.97,FEMALE,College,adm-clerical,exercise,wife,Single Vehicle Collision,Total Loss,Ambulance,17,1,1,2,42840,Chevrolet,2004,N
+222,39,IL,250/500,1000,1232.72,MALE,High School,armed-forces,hiking,own-child,Multi-vehicle Collision,Major Damage,Fire,21,3,1,0,87960,Jeep,1999,Y
+196,41,IL,250/500,2000,1800.76,MALE,JD,protective-serv,camping,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,0,3,1,0,47800,Jeep,2009,N
+253,43,IL,500/1000,500,1187.01,FEMALE,Associate,tech-support,exercise,unmarried,Vehicle Theft,Trivial Damage,Police,9,1,0,1,3840,Chevrolet,2014,N
+280,43,IN,100/300,1000,1559.34,MALE,JD,transport-moving,hiking,own-child,Single Vehicle Collision,Total Loss,Fire,1,1,0,2,77000,Accura,2004,N
+5,26,IL,250/500,2000,1137.02,FEMALE,PhD,farming-fishing,skydiving,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,22,1,1,3,88110,Audi,2003,N
+220,42,IN,100/300,1000,1281.72,MALE,College,farming-fishing,hiking,other-relative,Multi-vehicle Collision,Minor Damage,Fire,20,4,0,2,47740,Honda,2005,N
+85,30,OH,100/300,1000,796.35,FEMALE,MD,craft-repair,video-games,own-child,Multi-vehicle Collision,Total Loss,Fire,9,3,2,1,58960,Ford,2004,N
+266,46,OH,250/500,500,1270.02,FEMALE,Associate,tech-support,skydiving,own-child,Parked Car,Minor Damage,Police,5,1,1,2,2160,Toyota,2004,N
+41,26,IL,100/300,1000,1383.13,FEMALE,JD,prof-specialty,exercise,own-child,Vehicle Theft,Trivial Damage,Police,12,1,1,1,6890,Jeep,1997,N
+316,45,IL,100/300,2000,1290.74,FEMALE,High School,prof-specialty,kayaking,husband,Multi-vehicle Collision,Major Damage,Ambulance,6,3,2,0,78870,Suburu,2013,N
+285,47,IN,100/300,1000,1216.68,FEMALE,Masters,sales,basketball,other-relative,Vehicle Theft,Trivial Damage,Police,8,1,1,1,2700,Ford,2013,N
+379,54,IL,100/300,500,1251.16,FEMALE,Associate,machine-op-inspct,kayaking,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,14,1,0,1,75960,Jeep,2010,N
+15,34,IN,250/500,2000,1586.41,FEMALE,High School,sales,video-games,other-relative,Single Vehicle Collision,Major Damage,Police,10,1,1,3,75570,BMW,2010,Y
+354,48,IL,500/1000,2000,1526.11,FEMALE,Masters,sales,exercise,unmarried,Single Vehicle Collision,Minor Damage,Police,12,1,2,3,90240,Chevrolet,1995,N
+342,53,IN,100/300,1000,1028.44,FEMALE,College,prof-specialty,dancing,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,12,1,0,0,80960,Accura,2000,N
+169,38,IL,100/300,1000,1555.94,MALE,PhD,craft-repair,skydiving,own-child,Multi-vehicle Collision,Total Loss,Other,12,3,1,3,79080,Mercedes,2012,N
+339,49,IN,500/1000,2000,1570.77,MALE,JD,adm-clerical,paintball,not-in-family,Vehicle Theft,Minor Damage,None,13,1,0,3,6820,Mercedes,2009,N
+259,42,OH,100/300,2000,1170.53,FEMALE,PhD,armed-forces,sleeping,wife,Multi-vehicle Collision,Total Loss,Fire,17,3,1,2,62590,Nissan,2006,N
+65,23,OH,250/500,1000,1099.95,FEMALE,College,sales,dancing,wife,Single Vehicle Collision,Major Damage,Other,14,1,1,0,52400,Accura,2005,Y
+254,46,IL,250/500,2000,1472.43,MALE,MD,tech-support,basketball,husband,Multi-vehicle Collision,Major Damage,Ambulance,3,3,1,3,63580,Volkswagen,2004,N
+440,55,IL,250/500,500,1275.62,FEMALE,Associate,priv-house-serv,reading,other-relative,Multi-vehicle Collision,Minor Damage,Police,18,3,2,1,61400,Nissan,1995,N
+478,63,IL,250/500,1000,1292.3,MALE,High School,adm-clerical,paintball,own-child,Parked Car,Minor Damage,None,5,1,1,3,4700,Dodge,2007,Y
+230,44,IN,250/500,2000,1009.37,FEMALE,College,prof-specialty,hiking,other-relative,Single Vehicle Collision,Total Loss,Fire,19,1,0,2,74140,BMW,2015,N
+138,30,OH,500/1000,500,1093.07,FEMALE,PhD,other-service,reading,wife,Single Vehicle Collision,Major Damage,Other,0,1,2,2,83160,Volkswagen,2011,N
+239,41,OH,250/500,1000,1325.44,FEMALE,JD,farming-fishing,paintball,other-relative,Parked Car,Trivial Damage,Police,22,1,0,2,10790,Mercedes,2013,N
+93,31,IL,100/300,2000,1017.18,FEMALE,MD,prof-specialty,paintball,husband,Multi-vehicle Collision,Major Damage,Police,21,3,1,3,48070,Saab,2014,N
+37,25,OH,100/300,1000,1221.17,FEMALE,Masters,protective-serv,golf,not-in-family,Multi-vehicle Collision,Minor Damage,Ambulance,4,3,0,0,51030,Suburu,1996,N
+254,40,IN,100/300,500,1927.87,MALE,MD,prof-specialty,yachting,husband,Single Vehicle Collision,Minor Damage,Fire,10,1,0,1,43280,Honda,1996,Y
+131,29,IN,250/500,1000,978.27,FEMALE,Associate,sales,paintball,own-child,Single Vehicle Collision,Major Damage,Fire,5,1,1,3,76400,Suburu,2003,N
+230,43,IN,100/300,2000,1221.14,MALE,MD,prof-specialty,board-games,wife,Single Vehicle Collision,Total Loss,Ambulance,13,1,0,2,75460,Audi,2002,N
+313,50,OH,100/300,2000,1255.62,MALE,MD,armed-forces,polo,unmarried,Multi-vehicle Collision,Major Damage,Other,18,3,2,1,69000,Ford,1995,Y
+210,38,IN,250/500,500,999.52,MALE,JD,tech-support,golf,other-relative,Vehicle Theft,Minor Damage,Police,6,1,1,2,8640,Accura,2008,N
+101,29,OH,250/500,500,1380.89,MALE,PhD,armed-forces,dancing,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,0,3,2,1,67210,BMW,1996,N
+153,37,IN,500/1000,500,1010.77,MALE,High School,transport-moving,basketball,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,5,3,0,3,42500,Volkswagen,1999,N
+337,53,OH,100/300,500,1205.86,MALE,Associate,armed-forces,basketball,wife,Single Vehicle Collision,Minor Damage,Fire,8,1,0,1,86400,Accura,2001,N
+360,51,IL,500/1000,1000,1526.61,MALE,Masters,handlers-cleaners,chess,not-in-family,Vehicle Theft,Minor Damage,Police,5,1,2,2,4620,Dodge,2009,Y
+428,53,IL,100/300,1000,1496.44,FEMALE,High School,tech-support,camping,unmarried,Parked Car,Trivial Damage,Police,9,1,2,2,6930,Honda,2013,N
+204,40,IL,100/300,500,1256.2,FEMALE,JD,sales,hiking,not-in-family,Multi-vehicle Collision,Minor Damage,Other,10,3,1,2,41700,Saab,2013,N
+364,51,IL,100/300,500,1268.35,MALE,Masters,transport-moving,board-games,wife,Single Vehicle Collision,Major Damage,Other,16,1,2,1,77330,Volkswagen,2014,Y
+185,35,IN,500/1000,2000,1421.59,MALE,College,other-service,sleeping,own-child,Vehicle Theft,Trivial Damage,Police,8,1,2,3,4950,Ford,2011,N
+63,26,IL,500/1000,500,1500.04,MALE,PhD,craft-repair,polo,own-child,Vehicle Theft,Minor Damage,Police,5,1,0,2,5160,Accura,2004,N
+210,35,IL,100/300,500,1433.24,FEMALE,College,exec-managerial,yachting,not-in-family,Multi-vehicle Collision,Total Loss,Fire,11,3,2,1,24570,Saab,2006,Y
+194,38,IN,100/300,2000,1231.25,FEMALE,PhD,craft-repair,movies,not-in-family,Multi-vehicle Collision,Minor Damage,Ambulance,15,3,1,0,53680,Toyota,2011,N
+294,49,IN,500/1000,500,1135.43,MALE,Masters,farming-fishing,bungie-jumping,own-child,Multi-vehicle Collision,Total Loss,Police,23,3,1,1,42900,Chevrolet,2010,N
+272,41,OH,250/500,2000,945.73,MALE,MD,protective-serv,chess,wife,Single Vehicle Collision,Minor Damage,Fire,23,1,0,0,84100,Ford,2009,Y
+27,27,IN,100/300,2000,1118.76,FEMALE,College,adm-clerical,dancing,own-child,Single Vehicle Collision,Total Loss,Fire,23,1,1,3,61560,Ford,2008,N
+251,39,IN,500/1000,2000,1231.98,FEMALE,Associate,other-service,hiking,not-in-family,Single Vehicle Collision,Minor Damage,Police,10,1,0,0,44240,Dodge,1997,N
+180,33,IN,500/1000,2000,1005.47,FEMALE,JD,protective-serv,hiking,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,12,4,2,3,57700,Jeep,2002,N
+392,50,OH,100/300,2000,1108.97,FEMALE,PhD,exec-managerial,exercise,not-in-family,Single Vehicle Collision,Minor Damage,Other,4,1,2,2,108030,Saab,2002,N
+143,30,IN,100/300,500,1392.39,FEMALE,High School,exec-managerial,dancing,unmarried,Single Vehicle Collision,Minor Damage,Fire,16,1,2,0,54300,Toyota,2010,N
+371,54,IN,100/300,2000,1317.97,MALE,High School,craft-repair,movies,wife,Multi-vehicle Collision,Major Damage,Ambulance,18,3,1,2,32280,Ford,2010,Y
+292,42,IN,250/500,1000,1588.22,MALE,JD,machine-op-inspct,camping,other-relative,Multi-vehicle Collision,Total Loss,Other,15,3,1,1,84600,Chevrolet,2007,N
+165,35,IL,250/500,500,900.02,MALE,College,craft-repair,camping,own-child,Single Vehicle Collision,Total Loss,Other,8,1,1,3,69700,BMW,2008,N
+158,33,OH,100/300,1000,1744.64,MALE,JD,prof-specialty,movies,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,4,3,0,1,36400,Volkswagen,1998,N
+241,39,OH,250/500,1000,1260.56,FEMALE,JD,adm-clerical,paintball,own-child,Multi-vehicle Collision,Minor Damage,Police,20,3,0,2,37520,Jeep,2010,N
+103,33,OH,500/1000,2000,1021.14,FEMALE,Masters,other-service,paintball,wife,Multi-vehicle Collision,Major Damage,Ambulance,1,3,2,3,79090,Dodge,2014,N
+402,54,OH,250/500,2000,1285.09,MALE,JD,farming-fishing,board-games,not-in-family,Single Vehicle Collision,Major Damage,Other,19,1,0,2,67770,Mercedes,2013,Y
+102,32,OH,100/300,500,1537.07,MALE,JD,tech-support,chess,wife,Single Vehicle Collision,Total Loss,Other,11,1,1,0,47400,Chevrolet,2004,Y
+182,40,IN,100/300,1000,1022.42,MALE,PhD,other-service,skydiving,husband,Single Vehicle Collision,Total Loss,Other,13,1,0,2,71100,Audi,2008,N
+282,46,OH,100/300,2000,1558.86,MALE,MD,other-service,dancing,wife,Single Vehicle Collision,Minor Damage,Police,2,1,2,2,69400,BMW,2012,N
+222,39,OH,500/1000,500,1757.87,MALE,High School,transport-moving,board-games,not-in-family,Multi-vehicle Collision,Major Damage,Other,9,3,2,1,55000,Saab,1996,Y
+415,52,IN,250/500,1000,973.5,MALE,PhD,machine-op-inspct,polo,not-in-family,Multi-vehicle Collision,Total Loss,Police,15,2,1,3,51090,Toyota,2003,N
+51,34,OH,500/1000,500,1430.8,MALE,PhD,machine-op-inspct,camping,unmarried,Single Vehicle Collision,Major Damage,Fire,23,1,2,3,64200,Honda,2007,Y
+255,45,IL,500/1000,500,1192.27,MALE,High School,sales,base-jumping,own-child,Single Vehicle Collision,Total Loss,Other,16,1,2,0,67320,Ford,2006,N
+143,31,IL,250/500,500,1163.83,MALE,Associate,protective-serv,movies,husband,Multi-vehicle Collision,Major Damage,Other,21,4,2,0,76120,Audi,1999,N
+130,28,OH,500/1000,1000,1003.15,FEMALE,JD,farming-fishing,movies,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,21,2,2,1,85020,Ford,2010,N
+242,41,OH,250/500,2000,1153.54,MALE,Masters,protective-serv,polo,unmarried,Multi-vehicle Collision,Minor Damage,Fire,3,3,0,1,68090,Toyota,2009,N
+96,27,IL,100/300,1000,1631.1,FEMALE,High School,priv-house-serv,exercise,wife,Parked Car,Trivial Damage,Police,4,1,1,2,6030,Nissan,2007,N
+180,35,IL,500/1000,1000,1252.48,MALE,MD,machine-op-inspct,yachting,wife,Vehicle Theft,Minor Damage,None,17,1,1,3,5100,Chevrolet,2000,N
+150,30,IN,100/300,1000,1677.26,MALE,College,sales,yachting,own-child,Vehicle Theft,Trivial Damage,Police,7,1,1,3,4590,Volkswagen,2013,N
+463,59,IL,250/500,1000,979.73,FEMALE,JD,exec-managerial,yachting,not-in-family,Multi-vehicle Collision,Major Damage,Other,14,2,1,2,72400,Chevrolet,1999,Y
+472,64,IN,250/500,500,989.24,MALE,Masters,other-service,skydiving,not-in-family,Single Vehicle Collision,Major Damage,Fire,13,1,2,3,70900,Mercedes,2002,N
+75,25,IL,500/1000,1000,1389.86,FEMALE,Associate,priv-house-serv,hiking,husband,Multi-vehicle Collision,Total Loss,Other,23,2,2,3,65100,Saab,2011,N
+193,40,OH,100/300,500,1233.85,FEMALE,College,handlers-cleaners,chess,husband,Multi-vehicle Collision,Total Loss,Ambulance,23,3,2,1,64260,Ford,1999,N
+43,43,IL,500/1000,500,1320.39,FEMALE,Associate,armed-forces,yachting,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,16,1,2,1,79970,Honda,1996,Y
+253,41,IN,100/300,1000,1435.09,FEMALE,College,machine-op-inspct,bungie-jumping,not-in-family,Single Vehicle Collision,Total Loss,Police,17,1,2,0,56610,Chevrolet,1995,N
+152,30,IN,500/1000,500,1448.54,FEMALE,JD,craft-repair,polo,wife,Single Vehicle Collision,Major Damage,Fire,9,1,1,1,84590,Toyota,2000,Y
+160,38,OH,250/500,500,1733.56,MALE,High School,sales,sleeping,wife,Multi-vehicle Collision,Major Damage,Fire,13,3,2,1,66780,Mercedes,1996,N
+56,36,IN,100/300,500,1533.07,MALE,JD,farming-fishing,exercise,own-child,Single Vehicle Collision,Major Damage,Police,13,1,1,2,58500,Ford,2001,N
+286,41,IL,100/300,500,1106.77,FEMALE,College,prof-specialty,golf,other-relative,Parked Car,Trivial Damage,Police,3,1,2,0,5000,Dodge,2003,N
+3,29,IL,100/300,500,995.7,FEMALE,JD,priv-house-serv,chess,unmarried,Parked Car,Trivial Damage,Police,3,1,2,1,5000,Mercedes,2008,Y
+286,41,IL,250/500,1000,1298.85,FEMALE,High School,sales,camping,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,16,3,1,3,54450,Saab,2007,N
+239,38,OH,250/500,1000,1276.73,FEMALE,Masters,handlers-cleaners,bungie-jumping,other-relative,Multi-vehicle Collision,Major Damage,Police,12,3,1,3,61920,Saab,2003,N
+64,29,OH,250/500,2000,1202.28,MALE,High School,exec-managerial,cross-fit,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,4,1,1,2,43700,Nissan,2007,Y
+98,31,IN,100/300,500,671.92,MALE,Masters,machine-op-inspct,bungie-jumping,wife,Single Vehicle Collision,Minor Damage,Other,3,1,2,0,64080,Ford,1997,N
+16,35,IL,250/500,1000,1358.03,MALE,JD,sales,chess,own-child,Single Vehicle Collision,Total Loss,Other,0,1,2,1,55000,Volkswagen,2008,Y
+70,27,IN,250/500,1000,1008.79,FEMALE,Masters,adm-clerical,video-games,own-child,Vehicle Theft,Trivial Damage,Police,19,1,2,3,4400,Toyota,2000,N
+75,27,OH,100/300,1000,1141.1,MALE,JD,armed-forces,movies,other-relative,Multi-vehicle Collision,Minor Damage,Police,15,2,0,1,71640,Toyota,2008,N
+246,44,OH,100/300,1000,1397.0,MALE,High School,machine-op-inspct,reading,not-in-family,Single Vehicle Collision,Minor Damage,Other,6,1,1,0,61740,Accura,1997,N
+110,27,OH,500/1000,1000,1664.66,FEMALE,Associate,priv-house-serv,golf,own-child,Single Vehicle Collision,Total Loss,Ambulance,3,1,0,3,57500,Audi,2010,N
+236,39,IN,250/500,1000,1151.39,FEMALE,Masters,exec-managerial,reading,wife,Parked Car,Minor Damage,Police,17,1,0,0,8700,Accura,2003,N
+267,46,OH,100/300,2000,1546.01,FEMALE,MD,adm-clerical,polo,wife,Multi-vehicle Collision,Total Loss,Police,4,4,2,1,77100,Volkswagen,1996,N
+463,57,IL,250/500,500,1063.67,MALE,Masters,priv-house-serv,dancing,wife,Single Vehicle Collision,Minor Damage,Police,14,1,2,0,59400,Dodge,1995,N
+303,46,IN,100/300,1000,709.14,MALE,Masters,machine-op-inspct,kayaking,husband,Multi-vehicle Collision,Minor Damage,Fire,3,3,1,0,54890,Toyota,2006,N
+137,30,IL,250/500,500,1039.55,MALE,MD,exec-managerial,kayaking,unmarried,Multi-vehicle Collision,Minor Damage,Other,4,3,2,1,74030,Chevrolet,2005,N
+56,42,IL,250/500,500,1339.39,FEMALE,Associate,adm-clerical,chess,not-in-family,Single Vehicle Collision,Total Loss,Other,13,1,1,2,61490,BMW,1998,N
+75,27,IN,250/500,1000,1202.75,MALE,High School,handlers-cleaners,board-games,not-in-family,Multi-vehicle Collision,Minor Damage,Police,23,3,0,2,79560,Volkswagen,2003,N
+131,33,IL,100/300,2000,1081.17,MALE,MD,sales,yachting,wife,Parked Car,Minor Damage,Police,3,1,0,1,4900,Toyota,2010,N
+153,34,IL,250/500,500,991.39,MALE,High School,tech-support,paintball,other-relative,Multi-vehicle Collision,Total Loss,Other,0,3,1,0,77770,Nissan,2000,N
+255,43,IN,500/1000,500,984.02,FEMALE,JD,transport-moving,board-games,unmarried,Multi-vehicle Collision,Major Damage,Fire,14,2,2,2,74700,Nissan,2007,Y
+103,26,IL,100/300,500,1354.83,MALE,MD,tech-support,sleeping,husband,Multi-vehicle Collision,Minor Damage,Police,14,2,2,2,40600,Volkswagen,2010,N
+97,28,OH,100/300,1000,830.31,MALE,JD,farming-fishing,video-games,husband,Single Vehicle Collision,Total Loss,Ambulance,22,1,1,0,45270,Jeep,2006,N
+214,36,IL,100/300,2000,987.42,FEMALE,Associate,machine-op-inspct,kayaking,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,17,3,0,3,47080,Saab,2006,N
+438,57,OH,500/1000,500,1119.29,FEMALE,MD,machine-op-inspct,chess,husband,Single Vehicle Collision,Minor Damage,Police,14,1,0,0,40700,Volkswagen,2000,Y
+87,27,OH,100/300,500,1048.39,FEMALE,Masters,transport-moving,polo,own-child,Single Vehicle Collision,Minor Damage,Police,2,1,2,1,34650,Ford,1996,N
+27,28,OH,500/1000,1000,1074.47,MALE,MD,protective-serv,camping,wife,Parked Car,Trivial Damage,Police,4,1,2,0,3200,Jeep,2012,N
+206,42,IL,500/1000,1000,1230.76,MALE,High School,machine-op-inspct,yachting,unmarried,Single Vehicle Collision,Major Damage,Fire,2,1,1,1,78980,Saab,1997,Y
+127,31,OH,500/1000,500,1255.02,MALE,Associate,sales,reading,not-in-family,Parked Car,Minor Damage,None,10,1,1,0,6160,Nissan,1996,N
+422,60,IN,100/300,1000,1555.52,FEMALE,MD,machine-op-inspct,hiking,own-child,Single Vehicle Collision,Major Damage,Ambulance,11,1,1,1,85250,Mercedes,1999,N
+303,50,IL,100/300,2000,836.11,MALE,Masters,sales,camping,not-in-family,Multi-vehicle Collision,Major Damage,Fire,1,4,1,2,72840,Dodge,2010,N
+228,40,IN,100/300,500,1450.98,MALE,Associate,exec-managerial,base-jumping,husband,Parked Car,Trivial Damage,Police,20,1,0,2,6050,Toyota,2010,N
+239,39,IN,250/500,2000,625.08,FEMALE,JD,protective-serv,hiking,wife,Single Vehicle Collision,Major Damage,Fire,10,1,2,3,87890,BMW,2014,Y
+330,47,IL,100/300,2000,1133.27,FEMALE,High School,craft-repair,chess,wife,Multi-vehicle Collision,Total Loss,Other,20,2,0,2,60500,Ford,1999,Y
+128,35,IN,500/1000,500,1366.6,FEMALE,MD,machine-op-inspct,kayaking,other-relative,Multi-vehicle Collision,Minor Damage,Fire,10,3,2,1,88220,Chevrolet,2008,N
+147,37,OH,500/1000,1000,1439.9,FEMALE,Associate,prof-specialty,video-games,husband,Multi-vehicle Collision,Total Loss,Other,2,2,1,2,53680,Accura,2004,N
+287,45,OH,500/1000,1000,1230.69,MALE,Masters,transport-moving,golf,not-in-family,Single Vehicle Collision,Minor Damage,Fire,19,1,0,2,53800,Accura,2006,N
+142,29,OH,100/300,2000,1307.68,FEMALE,MD,craft-repair,dancing,husband,Single Vehicle Collision,Major Damage,Police,10,1,1,2,54360,Mercedes,1995,Y
+162,35,IL,500/1000,2000,1124.69,FEMALE,Masters,handlers-cleaners,bungie-jumping,husband,Single Vehicle Collision,Major Damage,Police,14,1,0,3,54340,Toyota,2001,N
+140,35,OH,100/300,1000,1520.78,FEMALE,High School,craft-repair,chess,wife,Parked Car,Trivial Damage,None,5,1,0,2,2860,Chevrolet,1997,Y
+106,28,OH,100/300,2000,1609.11,MALE,High School,craft-repair,polo,own-child,Vehicle Theft,Minor Damage,Police,8,1,2,1,5490,Saab,1999,N
+292,45,IL,500/1000,1000,1358.91,MALE,Masters,craft-repair,dancing,unmarried,Vehicle Theft,Trivial Damage,Police,4,1,0,2,7370,Suburu,1997,N
+34,34,OH,500/1000,500,1295.87,FEMALE,PhD,priv-house-serv,chess,husband,Multi-vehicle Collision,Major Damage,Ambulance,4,3,1,0,50800,Audi,1997,Y
+290,48,IL,250/500,500,1161.03,MALE,Associate,adm-clerical,video-games,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,20,2,1,1,41520,Nissan,2014,N
+182,38,OH,500/1000,2000,1441.06,FEMALE,Masters,armed-forces,movies,husband,Single Vehicle Collision,Total Loss,Police,18,1,2,3,89650,Dodge,2005,N
+362,55,OH,100/300,1000,1097.99,FEMALE,JD,other-service,base-jumping,unmarried,Multi-vehicle Collision,Total Loss,Police,0,3,0,3,39690,Suburu,1998,N
+143,32,IL,500/1000,1000,1464.42,FEMALE,High School,exec-managerial,golf,husband,Single Vehicle Collision,Major Damage,Ambulance,1,1,2,0,62260,Saab,1995,N
+183,38,IL,250/500,500,1543.68,FEMALE,Masters,prof-specialty,paintball,not-in-family,Single Vehicle Collision,Major Damage,Police,17,1,0,1,51920,Audi,2001,Y
+254,40,IL,250/500,500,1390.89,MALE,College,armed-forces,bungie-jumping,wife,Single Vehicle Collision,Minor Damage,Other,23,1,2,2,53460,Volkswagen,2009,N
+249,43,OH,100/300,2000,1148.58,FEMALE,MD,adm-clerical,golf,not-in-family,Multi-vehicle Collision,Total Loss,Fire,4,3,2,1,57100,Honda,2014,N
+169,36,IN,250/500,500,1616.26,MALE,High School,exec-managerial,yachting,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,0,3,2,3,77440,Dodge,2004,N
+235,40,IL,500/1000,500,1398.94,MALE,College,craft-repair,bungie-jumping,husband,Single Vehicle Collision,Minor Damage,Ambulance,11,1,1,2,68300,Suburu,2003,N
+112,32,OH,500/1000,1000,1238.92,MALE,Associate,other-service,base-jumping,other-relative,Parked Car,Trivial Damage,None,4,1,0,2,5060,Honda,2012,N
+16,32,IL,100/300,1000,968.46,MALE,MD,tech-support,chess,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,0,3,0,2,59400,Dodge,1995,Y
+128,31,IL,100/300,500,1045.12,FEMALE,High School,transport-moving,cross-fit,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,2,3,0,2,69930,Ford,2013,Y
+103,27,IN,100/300,1000,1537.33,FEMALE,College,handlers-cleaners,board-games,husband,Multi-vehicle Collision,Minor Damage,Police,11,3,1,1,77700,Jeep,2008,N
+356,54,OH,500/1000,500,912.3,MALE,College,prof-specialty,yachting,wife,Multi-vehicle Collision,Major Damage,Other,23,3,2,1,68750,Audi,2007,Y
+109,29,OH,100/300,2000,1007.28,FEMALE,High School,adm-clerical,movies,husband,Multi-vehicle Collision,Minor Damage,Police,17,3,1,3,91080,Jeep,1995,N
+2,20,IN,500/1000,1000,1189.98,FEMALE,High School,craft-repair,golf,other-relative,Single Vehicle Collision,Minor Damage,Other,22,1,1,3,48360,Audi,2000,N
+198,34,OH,250/500,1000,1576.41,MALE,Associate,handlers-cleaners,kayaking,other-relative,Single Vehicle Collision,Major Damage,Other,18,1,1,1,95000,Ford,2001,N
+107,32,OH,100/300,500,1172.82,MALE,Associate,machine-op-inspct,yachting,other-relative,Vehicle Theft,Trivial Damage,Police,8,1,1,3,3900,Ford,2010,N
+252,39,IL,500/1000,500,1312.22,MALE,High School,transport-moving,cross-fit,other-relative,Multi-vehicle Collision,Minor Damage,Other,15,3,0,3,59400,Jeep,2010,Y
+303,43,OH,500/1000,1000,671.01,FEMALE,Associate,machine-op-inspct,camping,other-relative,Single Vehicle Collision,Minor Damage,Fire,20,1,2,0,60210,Nissan,2013,N
+101,32,IL,250/500,500,895.14,MALE,JD,sales,video-games,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,4,1,0,3,43600,Suburu,2010,N
+446,57,IN,100/300,2000,1373.21,MALE,College,adm-clerical,sleeping,unmarried,Multi-vehicle Collision,Total Loss,Police,10,3,0,0,62800,Jeep,2012,N
+330,48,OH,250/500,1000,1625.65,MALE,College,farming-fishing,skydiving,husband,Single Vehicle Collision,Major Damage,Ambulance,10,1,1,3,59500,Dodge,2006,N
+211,37,OH,250/500,2000,1295.63,FEMALE,PhD,armed-forces,skydiving,not-in-family,Multi-vehicle Collision,Total Loss,Police,22,3,1,0,53460,Honda,2009,N
+172,33,IL,100/300,1000,1459.96,FEMALE,High School,adm-clerical,reading,wife,Multi-vehicle Collision,Total Loss,Ambulance,15,3,0,1,41690,Saab,1999,N
+316,46,OH,100/300,500,1219.94,FEMALE,Masters,prof-specialty,paintball,wife,Single Vehicle Collision,Minor Damage,Ambulance,13,1,0,1,63100,Accura,2000,N
+435,60,OH,500/1000,500,1064.49,MALE,Associate,priv-house-serv,chess,other-relative,Single Vehicle Collision,Total Loss,Ambulance,23,1,2,1,62880,Mercedes,2007,Y
+344,51,IL,100/300,1000,959.83,FEMALE,Masters,sales,paintball,not-in-family,Multi-vehicle Collision,Major Damage,Fire,18,3,2,2,75400,BMW,2006,Y
+204,40,OH,250/500,2000,1767.02,MALE,JD,machine-op-inspct,hiking,husband,Single Vehicle Collision,Total Loss,Ambulance,7,1,1,1,46200,Audi,1997,N
+278,47,IN,500/1000,500,1285.01,MALE,Masters,machine-op-inspct,sleeping,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,21,1,2,2,58500,Toyota,2010,N
+434,57,OH,500/1000,2000,1422.95,MALE,JD,transport-moving,bungie-jumping,husband,Multi-vehicle Collision,Major Damage,Other,15,3,1,3,66240,Nissan,2003,N
+209,36,IN,100/300,2000,1223.39,FEMALE,MD,craft-repair,camping,wife,Multi-vehicle Collision,Total Loss,Ambulance,17,3,1,3,65440,Jeep,2014,N
+250,43,IL,500/1000,2000,1539.06,MALE,Masters,sales,exercise,other-relative,Single Vehicle Collision,Minor Damage,Fire,2,1,0,3,64200,Ford,2002,N
+61,25,IN,100/300,2000,988.06,FEMALE,Masters,other-service,dancing,not-in-family,Multi-vehicle Collision,Minor Damage,Ambulance,1,3,1,0,32320,Dodge,2000,N
+80,28,IL,500/1000,1000,1740.57,FEMALE,College,farming-fishing,golf,wife,Single Vehicle Collision,Major Damage,Police,3,1,0,1,33480,Dodge,2011,N
+25,38,OH,250/500,1000,1540.91,MALE,College,adm-clerical,polo,wife,Vehicle Theft,Trivial Damage,None,0,1,1,1,4320,Toyota,1995,N
+4,29,IL,250/500,500,1381.88,MALE,High School,tech-support,exercise,other-relative,Vehicle Theft,Trivial Damage,Police,4,1,0,2,4200,Jeep,2008,N
+32,29,OH,100/300,500,1446.98,MALE,MD,adm-clerical,sleeping,own-child,Multi-vehicle Collision,Minor Damage,Ambulance,11,3,2,0,57970,Saab,2006,N
+125,31,IN,500/1000,500,1220.86,MALE,JD,other-service,paintball,husband,Parked Car,Trivial Damage,None,4,1,1,2,4320,Saab,2003,N
+276,45,IL,500/1000,500,948.1,FEMALE,High School,machine-op-inspct,reading,wife,Multi-vehicle Collision,Minor Damage,Fire,11,3,0,2,69300,Ford,2010,N
+148,30,OH,100/300,500,1471.24,FEMALE,Masters,farming-fishing,camping,own-child,Multi-vehicle Collision,Minor Damage,Police,4,3,2,2,32480,Dodge,1997,N
+222,38,IN,100/300,2000,1157.97,MALE,MD,machine-op-inspct,hiking,not-in-family,Single Vehicle Collision,Total Loss,Police,20,1,2,2,60480,Accura,2001,N
+32,38,IL,250/500,2000,566.11,MALE,Associate,armed-forces,polo,unmarried,Parked Car,Trivial Damage,Police,22,1,0,0,2640,Honda,2015,N
+78,27,OH,500/1000,500,1060.88,MALE,JD,other-service,skydiving,other-relative,Parked Car,Trivial Damage,Police,4,1,0,3,6050,Volkswagen,2009,N
+238,43,OH,250/500,1000,1524.45,MALE,High School,handlers-cleaners,chess,wife,Multi-vehicle Collision,Total Loss,Ambulance,21,4,0,0,42700,Saab,1995,Y
+313,47,IN,250/500,1000,1556.17,MALE,College,prof-specialty,reading,wife,Single Vehicle Collision,Major Damage,Ambulance,20,1,1,3,40260,Accura,1996,Y
+334,50,OH,500/1000,500,1216.24,MALE,Masters,priv-house-serv,polo,wife,Single Vehicle Collision,Major Damage,Fire,7,1,2,0,50000,Chevrolet,2008,N
+190,35,IN,250/500,500,1484.72,FEMALE,High School,tech-support,golf,husband,Parked Car,Trivial Damage,None,4,1,0,1,3840,Saab,1998,N
+194,41,IL,250/500,500,1203.81,MALE,JD,transport-moving,video-games,not-in-family,Multi-vehicle Collision,Minor Damage,Police,17,3,0,2,95900,Saab,1999,N
+290,47,IN,250/500,1000,1393.34,MALE,High School,exec-managerial,bungie-jumping,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,20,3,1,3,56160,Audi,2002,N
+26,42,OH,100/300,1000,1484.48,MALE,PhD,armed-forces,sleeping,not-in-family,Single Vehicle Collision,Major Damage,Police,10,1,2,3,63030,Saab,1996,N
+254,41,IL,250/500,500,1581.27,FEMALE,PhD,handlers-cleaners,skydiving,own-child,Single Vehicle Collision,Minor Damage,Police,8,1,2,2,63470,BMW,1999,N
+199,38,IL,250/500,1000,1281.25,FEMALE,High School,tech-support,movies,other-relative,Single Vehicle Collision,Major Damage,Police,6,1,0,2,44440,BMW,2007,Y
+137,35,IN,250/500,500,1667.83,MALE,JD,prof-specialty,paintball,husband,Parked Car,Minor Damage,Police,4,1,1,1,6600,Jeep,2005,N
+134,36,OH,250/500,1000,1497.41,MALE,PhD,machine-op-inspct,kayaking,husband,Multi-vehicle Collision,Minor Damage,Ambulance,17,3,2,0,77200,Ford,1996,N
+73,30,OH,100/300,500,803.36,FEMALE,High School,protective-serv,reading,husband,Multi-vehicle Collision,Total Loss,Other,15,3,0,0,57000,Audi,2013,N
+289,45,OH,250/500,2000,1221.41,FEMALE,Masters,farming-fishing,movies,wife,Vehicle Theft,Trivial Damage,Police,9,1,2,1,2700,Honda,2006,N
+176,36,OH,250/500,500,1865.83,MALE,College,transport-moving,kayaking,unmarried,Single Vehicle Collision,Total Loss,Police,17,1,2,1,47300,Volkswagen,2006,N
+145,37,OH,250/500,2000,1434.27,FEMALE,Associate,tech-support,sleeping,unmarried,Single Vehicle Collision,Major Damage,Other,13,1,2,3,55110,Nissan,2002,N
+164,31,IN,500/1000,500,1114.68,FEMALE,Associate,other-service,reading,husband,Vehicle Theft,Trivial Damage,Police,5,1,1,0,4320,Mercedes,2002,N
+186,38,OH,250/500,2000,1218.56,FEMALE,Masters,transport-moving,video-games,husband,Multi-vehicle Collision,Total Loss,Police,23,3,2,2,68760,Saab,1998,Y
+85,31,IL,250/500,2000,1234.69,FEMALE,MD,tech-support,paintball,husband,Multi-vehicle Collision,Major Damage,Other,1,2,2,1,74400,BMW,2003,Y
+162,33,OH,250/500,500,964.92,FEMALE,Associate,exec-managerial,base-jumping,other-relative,Multi-vehicle Collision,Major Damage,Fire,17,4,2,1,35300,Mercedes,1996,Y
+396,57,IL,500/1000,500,1351.72,MALE,High School,tech-support,camping,wife,Parked Car,Minor Damage,None,3,1,1,3,2640,Volkswagen,2000,N
+270,41,IL,250/500,1000,817.28,MALE,High School,sales,cross-fit,unmarried,Multi-vehicle Collision,Total Loss,Ambulance,17,3,1,1,60190,Mercedes,2014,Y
+168,39,IL,500/1000,1000,1389.59,FEMALE,Masters,machine-op-inspct,exercise,own-child,Multi-vehicle Collision,Major Damage,Fire,23,3,1,3,41580,Chevrolet,2015,Y
+274,45,IN,250/500,1000,1353.53,FEMALE,JD,tech-support,cross-fit,unmarried,Single Vehicle Collision,Minor Damage,Ambulance,13,1,0,0,58500,Accura,1995,Y
+263,43,IN,500/1000,1000,1294.04,FEMALE,Masters,handlers-cleaners,movies,not-in-family,Single Vehicle Collision,Minor Damage,Fire,17,1,2,3,79320,Nissan,1997,N
+152,33,OH,100/300,1000,840.81,FEMALE,High School,farming-fishing,chess,husband,Single Vehicle Collision,Minor Damage,Ambulance,2,1,0,2,82610,Ford,2002,Y
+46,41,OH,100/300,2000,998.19,FEMALE,MD,priv-house-serv,video-games,husband,Multi-vehicle Collision,Total Loss,Ambulance,23,3,1,3,78600,Dodge,2004,Y
+276,46,OH,100/300,2000,1090.32,MALE,College,handlers-cleaners,chess,husband,Single Vehicle Collision,Minor Damage,Ambulance,17,1,1,2,51390,Volkswagen,2007,Y
+234,44,IN,500/1000,500,1780.67,MALE,Associate,other-service,exercise,other-relative,Single Vehicle Collision,Major Damage,Ambulance,3,1,1,0,70200,Ford,2012,Y
+64,30,IL,250/500,2000,1681.01,MALE,JD,protective-serv,base-jumping,own-child,Parked Car,Minor Damage,None,16,1,2,1,4900,Jeep,2015,N
+456,62,OH,250/500,1000,1395.77,FEMALE,MD,protective-serv,chess,own-child,Multi-vehicle Collision,Major Damage,Other,13,3,1,3,66480,Saab,2012,Y
+58,23,OH,500/1000,2000,1471.44,MALE,High School,transport-moving,reading,own-child,Single Vehicle Collision,Major Damage,Fire,8,1,2,1,50380,Chevrolet,2007,Y
+475,61,IL,500/1000,500,1265.72,FEMALE,Masters,handlers-cleaners,paintball,wife,Single Vehicle Collision,Major Damage,Fire,23,1,0,2,64350,Mercedes,1998,N
+96,29,IN,250/500,1000,1274.7,MALE,College,prof-specialty,hiking,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,15,3,2,3,55400,Chevrolet,2004,Y
+99,28,OH,100/300,500,1330.39,MALE,MD,prof-specialty,basketball,wife,Single Vehicle Collision,Total Loss,Other,3,1,2,2,49900,Dodge,1998,N
+38,28,OH,500/1000,500,1122.95,MALE,Masters,priv-house-serv,golf,other-relative,Multi-vehicle Collision,Minor Damage,Ambulance,4,3,0,3,74880,Accura,2000,N
+259,44,OH,250/500,2000,1655.79,FEMALE,Masters,exec-managerial,exercise,husband,Single Vehicle Collision,Minor Damage,Other,8,1,0,0,105820,Audi,2002,N
+241,43,IN,250/500,1000,935.77,MALE,Associate,prof-specialty,golf,own-child,Vehicle Theft,Trivial Damage,Police,21,1,1,0,7150,Volkswagen,2003,N
+437,58,IN,500/1000,2000,1192.04,MALE,Associate,craft-repair,dancing,own-child,Single Vehicle Collision,Total Loss,Ambulance,23,1,0,0,55800,Dodge,2004,N
+130,34,OH,100/300,500,990.11,MALE,Masters,sales,kayaking,other-relative,Parked Car,Trivial Damage,None,8,1,1,3,5830,Dodge,2015,N
+269,41,OH,100/300,2000,1422.21,FEMALE,Associate,handlers-cleaners,polo,unmarried,Single Vehicle Collision,Major Damage,Ambulance,21,1,2,1,85900,Suburu,2005,Y
+103,29,OH,500/1000,500,914.85,MALE,Associate,prof-specialty,base-jumping,other-relative,Parked Car,Minor Damage,Police,5,1,2,3,7110,Accura,2005,N
+284,43,IL,250/500,500,1123.84,MALE,PhD,prof-specialty,kayaking,other-relative,Multi-vehicle Collision,Total Loss,Fire,12,3,0,0,36960,Chevrolet,2007,N
+189,39,OH,250/500,2000,838.02,FEMALE,College,tech-support,movies,own-child,Multi-vehicle Collision,Minor Damage,Police,7,3,2,0,64400,Dodge,1997,N
+267,43,OH,250/500,500,1300.68,MALE,PhD,adm-clerical,sleeping,unmarried,Parked Car,Minor Damage,None,0,1,1,3,1920,Chevrolet,2011,N
+39,22,IN,500/1000,500,1173.21,MALE,JD,farming-fishing,polo,not-in-family,Single Vehicle Collision,Major Damage,Police,14,1,0,1,86130,Suburu,2009,Y
+140,32,IL,250/500,1000,985.97,FEMALE,College,protective-serv,cross-fit,other-relative,Single Vehicle Collision,Major Damage,Fire,13,1,2,3,82170,Chevrolet,1995,Y
+243,41,IN,100/300,1000,1129.23,FEMALE,College,farming-fishing,camping,own-child,Single Vehicle Collision,Major Damage,Fire,1,1,1,0,50300,Suburu,1999,Y
+116,31,IN,250/500,500,1194.83,FEMALE,MD,prof-specialty,camping,husband,Single Vehicle Collision,Major Damage,Police,23,1,0,0,44200,Suburu,1997,N
+219,43,IN,100/300,1000,1114.29,FEMALE,High School,transport-moving,polo,other-relative,Single Vehicle Collision,Major Damage,Ambulance,1,1,2,2,66660,Toyota,2006,N
+96,26,OH,250/500,2000,1509.04,FEMALE,Associate,prof-specialty,bungie-jumping,husband,Single Vehicle Collision,Total Loss,Ambulance,9,1,2,3,78320,Saab,2007,N
+149,34,IN,250/500,500,664.86,FEMALE,PhD,craft-repair,skydiving,wife,Single Vehicle Collision,Total Loss,Fire,3,1,0,1,105040,Dodge,1999,N
+246,43,IN,250/500,1000,1267.4,MALE,JD,adm-clerical,basketball,husband,Single Vehicle Collision,Minor Damage,Fire,0,1,2,1,50700,Accura,2006,N
+293,45,IL,100/300,1000,1119.23,FEMALE,MD,exec-managerial,exercise,unmarried,Multi-vehicle Collision,Total Loss,Fire,13,3,1,1,51210,Jeep,2015,N
+339,48,OH,100/300,500,1698.51,MALE,JD,other-service,dancing,unmarried,Multi-vehicle Collision,Total Loss,Fire,18,3,2,1,51840,Volkswagen,2001,N
+160,33,IL,500/1000,1000,1422.78,FEMALE,High School,exec-managerial,exercise,husband,Multi-vehicle Collision,Total Loss,Ambulance,17,3,2,3,52800,Nissan,2006,N
+224,42,OH,500/1000,500,1212.75,FEMALE,College,prof-specialty,kayaking,own-child,Single Vehicle Collision,Minor Damage,Fire,11,1,0,0,55200,Honda,1998,N
+194,34,IN,100/300,1000,1423.34,MALE,Associate,sales,camping,not-in-family,Vehicle Theft,Minor Damage,None,0,1,0,3,9100,Chevrolet,2003,N
+385,51,IN,250/500,1000,976.37,FEMALE,MD,craft-repair,reading,husband,Multi-vehicle Collision,Minor Damage,Other,14,3,1,3,67600,Suburu,2007,N
+100,33,OH,250/500,500,1124.59,MALE,College,adm-clerical,golf,not-in-family,Single Vehicle Collision,Minor Damage,Other,4,1,1,2,40800,BMW,2004,N
+371,50,IN,250/500,1000,1569.33,MALE,PhD,machine-op-inspct,board-games,not-in-family,Multi-vehicle Collision,Major Damage,Other,2,3,2,1,84500,Volkswagen,2011,Y
+175,39,IN,500/1000,500,1359.36,MALE,PhD,exec-managerial,hiking,husband,Multi-vehicle Collision,Major Damage,Other,9,3,2,2,71610,Toyota,2012,Y
+373,55,IN,250/500,500,1607.36,MALE,MD,sales,yachting,own-child,Multi-vehicle Collision,Major Damage,Other,21,4,0,2,60600,Dodge,2007,Y
+258,41,IL,100/300,500,1042.25,MALE,Masters,exec-managerial,reading,unmarried,Multi-vehicle Collision,Major Damage,Fire,0,3,2,3,81240,Mercedes,2008,Y
+255,39,OH,250/500,500,1453.95,FEMALE,PhD,armed-forces,bungie-jumping,not-in-family,Multi-vehicle Collision,Total Loss,Fire,17,3,0,3,29300,Audi,2010,N
+37,31,IL,500/1000,500,1969.63,FEMALE,MD,sales,skydiving,own-child,Multi-vehicle Collision,Total Loss,Fire,21,3,1,1,76450,Dodge,1995,N
+322,44,IL,100/300,1000,1156.19,FEMALE,College,machine-op-inspct,cross-fit,husband,Multi-vehicle Collision,Major Damage,Fire,20,3,0,3,49400,Jeep,2010,N
+204,38,IL,100/300,2000,1124.47,FEMALE,MD,tech-support,kayaking,wife,Single Vehicle Collision,Total Loss,Ambulance,5,1,0,1,90530,Ford,2003,N
+76,31,OH,500/1000,500,1493.5,FEMALE,Associate,priv-house-serv,movies,not-in-family,Vehicle Theft,Minor Damage,Police,7,1,2,1,8030,Mercedes,1995,N
+193,40,IL,100/300,500,1155.38,FEMALE,PhD,handlers-cleaners,movies,not-in-family,Single Vehicle Collision,Minor Damage,Fire,6,1,0,0,63900,Accura,2001,N
+405,55,IL,250/500,500,878.19,MALE,PhD,machine-op-inspct,golf,unmarried,Multi-vehicle Collision,Minor Damage,Fire,2,4,0,2,38640,Chevrolet,1997,N
+435,58,IN,100/300,2000,1145.85,MALE,JD,sales,movies,not-in-family,Multi-vehicle Collision,Total Loss,Other,19,3,1,1,41490,Mercedes,2004,N
+54,35,IN,100/300,500,1261.28,FEMALE,MD,protective-serv,hiking,unmarried,Multi-vehicle Collision,Minor Damage,Fire,21,3,2,0,79090,Nissan,2012,N
+144,35,IL,100/300,500,1427.46,MALE,High School,machine-op-inspct,cross-fit,wife,Multi-vehicle Collision,Major Damage,Police,3,3,0,0,87900,Dodge,1995,N
+92,32,IL,500/1000,500,1592.41,MALE,Masters,prof-specialty,yachting,husband,Single Vehicle Collision,Total Loss,Ambulance,22,1,2,3,53400,Jeep,1996,N
+173,36,OH,250/500,1000,1274.63,MALE,College,machine-op-inspct,basketball,unmarried,Single Vehicle Collision,Total Loss,Fire,22,1,2,3,52030,Accura,1995,N
+436,60,IN,250/500,500,1362.31,MALE,High School,prof-specialty,bungie-jumping,wife,Single Vehicle Collision,Minor Damage,Ambulance,16,1,0,2,82060,Saab,2005,N
+155,35,OH,250/500,1000,919.37,FEMALE,Associate,protective-serv,hiking,not-in-family,Single Vehicle Collision,Minor Damage,Ambulance,0,1,0,3,48360,Nissan,1997,N
+78,31,OH,250/500,1000,1377.23,FEMALE,Masters,armed-forces,kayaking,unmarried,Multi-vehicle Collision,Minor Damage,Other,1,3,2,1,52290,Nissan,1997,N
+440,57,IL,100/300,1000,995.55,MALE,College,protective-serv,paintball,wife,Multi-vehicle Collision,Major Damage,Police,19,3,0,3,68200,Jeep,2007,Y
+264,43,IL,100/300,500,1508.12,MALE,PhD,craft-repair,basketball,wife,Multi-vehicle Collision,Major Damage,Other,0,3,2,1,60750,Jeep,2015,Y
+66,30,IN,500/1000,500,484.67,FEMALE,College,adm-clerical,paintball,wife,Multi-vehicle Collision,Major Damage,Fire,2,3,0,2,65560,Volkswagen,2015,Y
+366,50,IN,500/1000,1000,1561.41,FEMALE,High School,handlers-cleaners,basketball,husband,Multi-vehicle Collision,Minor Damage,Police,5,3,1,3,70290,Mercedes,2012,N
+188,37,OH,100/300,500,1457.21,FEMALE,JD,adm-clerical,hiking,own-child,Single Vehicle Collision,Total Loss,Ambulance,6,1,2,0,45000,Suburu,2003,N
+224,39,IL,500/1000,1000,1128.71,FEMALE,JD,prof-specialty,sleeping,other-relative,Multi-vehicle Collision,Total Loss,Fire,21,3,2,1,61800,Suburu,2007,N
+253,46,IL,100/300,500,1358.2,FEMALE,MD,transport-moving,movies,husband,Multi-vehicle Collision,Major Damage,Ambulance,11,3,0,0,64570,Jeep,2001,N
+446,61,IL,100/300,1000,1232.79,FEMALE,High School,adm-clerical,reading,unmarried,Single Vehicle Collision,Minor Damage,Other,3,1,2,0,70500,Suburu,2007,N
+169,37,IL,100/300,1000,936.19,MALE,JD,armed-forces,movies,other-relative,Multi-vehicle Collision,Total Loss,Police,4,3,2,1,57900,Audi,2005,N
+255,46,IL,250/500,500,1302.34,FEMALE,JD,prof-specialty,video-games,own-child,Multi-vehicle Collision,Minor Damage,Fire,2,3,1,0,57860,Volkswagen,2011,N
+209,39,IN,100/300,500,1264.99,MALE,PhD,transport-moving,polo,husband,Single Vehicle Collision,Minor Damage,Fire,22,1,1,1,37800,Chevrolet,1995,N
+210,37,OH,500/1000,500,1467.76,FEMALE,MD,tech-support,hiking,own-child,Single Vehicle Collision,Total Loss,Ambulance,8,1,1,3,63300,Toyota,2000,N
+174,33,IN,250/500,2000,1124.43,FEMALE,College,farming-fishing,paintball,own-child,Multi-vehicle Collision,Total Loss,Ambulance,14,3,0,1,44200,Saab,1995,N
+70,28,IL,250/500,1000,1319.81,MALE,High School,machine-op-inspct,yachting,husband,Multi-vehicle Collision,Minor Damage,Police,14,4,1,0,31680,Toyota,2006,N
+89,32,IN,100/300,2000,1482.53,FEMALE,MD,tech-support,kayaking,not-in-family,Parked Car,Trivial Damage,Police,5,1,1,2,100,Audi,2002,N
+458,61,IN,100/300,1000,1328.18,FEMALE,High School,protective-serv,bungie-jumping,other-relative,Single Vehicle Collision,Minor Damage,Fire,18,1,2,1,56340,Volkswagen,2003,N
+239,40,IN,100/300,500,1463.95,FEMALE,JD,sales,skydiving,own-child,Multi-vehicle Collision,Total Loss,Police,20,3,0,0,69740,Dodge,2003,N
+161,38,IL,100/300,2000,1133.85,MALE,PhD,priv-house-serv,exercise,not-in-family,Multi-vehicle Collision,Total Loss,Police,0,3,2,2,60480,Volkswagen,2003,N
+446,61,IN,500/1000,1000,1037.32,FEMALE,High School,tech-support,skydiving,wife,Multi-vehicle Collision,Minor Damage,Police,1,3,2,1,80880,Nissan,2005,N
+476,61,IN,250/500,1000,1562.8,FEMALE,Masters,handlers-cleaners,dancing,not-in-family,Single Vehicle Collision,Total Loss,Fire,10,1,1,2,49390,Suburu,2009,N
+70,29,IN,100/300,1000,1425.79,FEMALE,MD,armed-forces,video-games,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,12,1,0,3,69360,Dodge,2009,N
+233,41,OH,500/1000,2000,1615.14,FEMALE,Associate,tech-support,board-games,other-relative,Vehicle Theft,Minor Damage,None,6,1,0,1,3740,Chevrolet,2011,N
+122,33,IL,250/500,500,1236.5,MALE,PhD,other-service,bungie-jumping,husband,Parked Car,Trivial Damage,None,1,1,0,1,5060,Nissan,2003,N
+335,48,IL,500/1000,2000,1017.97,FEMALE,MD,machine-op-inspct,chess,wife,Multi-vehicle Collision,Total Loss,Police,21,3,0,0,35860,BMW,2005,Y
+257,40,IN,100/300,2000,1306.0,MALE,Associate,machine-op-inspct,cross-fit,husband,Multi-vehicle Collision,Major Damage,Ambulance,3,3,2,1,50050,Ford,2008,Y
+85,27,IL,500/1000,2000,1174.14,MALE,College,priv-house-serv,dancing,unmarried,Multi-vehicle Collision,Minor Damage,Fire,14,4,0,0,59070,Toyota,2012,N
+133,30,IN,500/1000,1000,1231.01,MALE,College,adm-clerical,board-games,husband,Multi-vehicle Collision,Minor Damage,Fire,19,3,1,2,28440,Dodge,2007,N
+119,34,IL,250/500,500,1299.18,FEMALE,College,tech-support,hiking,wife,Single Vehicle Collision,Major Damage,Fire,7,1,2,1,45540,Honda,1998,Y
+169,34,IN,100/300,500,1469.75,FEMALE,JD,sales,reading,not-in-family,Single Vehicle Collision,Minor Damage,Fire,0,1,0,0,38700,Volkswagen,2012,N
+225,39,OH,250/500,500,1390.72,MALE,Masters,tech-support,paintball,other-relative,Parked Car,Trivial Damage,None,6,1,2,1,5830,Nissan,2011,N
+84,32,IL,500/1000,500,1694.09,FEMALE,Associate,prof-specialty,cross-fit,husband,Single Vehicle Collision,Total Loss,Other,0,1,0,2,57240,BMW,1995,Y
+169,39,OH,100/300,2000,1140.15,MALE,High School,armed-forces,exercise,husband,Multi-vehicle Collision,Total Loss,Police,9,3,0,3,46200,Suburu,2015,N
+124,32,IN,100/300,1000,1310.71,FEMALE,Masters,farming-fishing,kayaking,wife,Single Vehicle Collision,Total Loss,Ambulance,23,1,0,1,57700,Toyota,2003,N
+320,48,IL,250/500,2000,1730.49,MALE,College,transport-moving,hiking,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,13,3,2,0,56160,Saab,1995,N
+297,47,IN,250/500,500,1616.65,MALE,MD,adm-clerical,movies,unmarried,Multi-vehicle Collision,Total Loss,Fire,0,3,0,3,44400,Jeep,1999,N
+421,56,IN,100/300,500,1935.85,MALE,Masters,machine-op-inspct,reading,own-child,Single Vehicle Collision,Major Damage,Ambulance,7,1,2,3,92730,Mercedes,2004,Y
+136,33,OH,250/500,1000,855.14,FEMALE,PhD,craft-repair,paintball,not-in-family,Single Vehicle Collision,Minor Damage,Fire,23,1,0,1,30700,Toyota,2015,N
+46,24,OH,250/500,2000,1568.47,FEMALE,High School,armed-forces,yachting,unmarried,Single Vehicle Collision,Major Damage,Fire,7,1,2,0,56600,Toyota,1999,N
+34,24,IN,500/1000,2000,1550.53,FEMALE,MD,armed-forces,dancing,own-child,Parked Car,Trivial Damage,None,20,1,0,1,3960,Audi,1998,N
+95,30,IL,250/500,2000,1370.92,MALE,College,transport-moving,video-games,unmarried,Single Vehicle Collision,Minor Damage,Police,22,1,0,3,34800,Accura,1999,N
+140,36,IN,250/500,500,1363.59,FEMALE,JD,armed-forces,kayaking,not-in-family,Multi-vehicle Collision,Minor Damage,Other,10,3,2,0,79500,Chevrolet,2000,N
+200,34,IN,250/500,1000,828.42,FEMALE,College,prof-specialty,basketball,other-relative,Single Vehicle Collision,Total Loss,Police,10,1,2,2,56000,Chevrolet,2009,N
+123,29,IN,250/500,500,1209.63,FEMALE,Masters,machine-op-inspct,chess,not-in-family,Single Vehicle Collision,Minor Damage,Ambulance,17,1,1,0,73260,Volkswagen,2014,Y
+267,46,OH,250/500,2000,1111.17,MALE,MD,craft-repair,base-jumping,unmarried,Parked Car,Trivial Damage,None,3,1,2,3,4950,Toyota,1995,N
+290,42,IN,500/1000,500,989.97,MALE,Masters,machine-op-inspct,kayaking,own-child,Single Vehicle Collision,Minor Damage,Ambulance,10,1,0,1,48000,Saab,2013,N
+45,37,IN,250/500,1000,1114.23,MALE,College,prof-specialty,dancing,wife,Single Vehicle Collision,Major Damage,Fire,1,1,0,1,52200,Nissan,2005,N
+186,38,IN,250/500,2000,1347.31,FEMALE,JD,protective-serv,dancing,unmarried,Multi-vehicle Collision,Minor Damage,Ambulance,1,3,2,3,73800,Audi,1995,N
+135,34,IL,250/500,2000,1687.53,FEMALE,JD,protective-serv,base-jumping,other-relative,Single Vehicle Collision,Total Loss,Fire,7,1,1,2,78200,Audi,2009,N
+110,33,IN,250/500,1000,1183.48,MALE,Associate,other-service,bungie-jumping,husband,Single Vehicle Collision,Major Damage,Ambulance,19,1,2,3,55200,Saab,2015,Y
+259,43,IL,500/1000,2000,1537.13,FEMALE,PhD,handlers-cleaners,kayaking,own-child,Multi-vehicle Collision,Total Loss,Other,3,3,0,2,57060,Ford,2012,N
+114,30,OH,250/500,1000,1173.25,FEMALE,Masters,protective-serv,dancing,husband,Vehicle Theft,Minor Damage,None,3,1,0,3,4680,Chevrolet,2013,N
+404,56,IN,250/500,1000,1361.16,FEMALE,Masters,transport-moving,cross-fit,not-in-family,Single Vehicle Collision,Minor Damage,Ambulance,23,1,2,0,53100,Accura,2005,Y
+282,48,OH,500/1000,2000,1422.56,FEMALE,MD,prof-specialty,video-games,husband,Vehicle Theft,Minor Damage,None,7,1,1,2,3520,Accura,2013,N
+57,25,IL,500/1000,2000,1143.06,FEMALE,Masters,tech-support,dancing,own-child,Multi-vehicle Collision,Total Loss,Ambulance,0,3,0,1,72900,Nissan,2010,N
+215,38,IN,250/500,500,1405.71,FEMALE,PhD,craft-repair,camping,unmarried,Single Vehicle Collision,Total Loss,Police,10,1,0,1,70700,Volkswagen,2008,N
+140,30,IL,100/300,500,1354.2,FEMALE,College,adm-clerical,bungie-jumping,wife,Multi-vehicle Collision,Minor Damage,Other,4,4,0,0,60170,Nissan,2006,N
+250,42,IN,100/300,500,1055.6,MALE,High School,exec-managerial,paintball,husband,Single Vehicle Collision,Major Damage,Other,16,1,1,1,74800,Ford,2009,Y
+286,41,IL,250/500,1000,999.43,MALE,College,prof-specialty,paintball,wife,Vehicle Theft,Trivial Damage,Police,3,1,2,0,4100,Chevrolet,2009,N
+356,47,IN,250/500,2000,1155.97,MALE,High School,prof-specialty,camping,husband,Single Vehicle Collision,Minor Damage,Other,5,1,0,3,61490,Dodge,2009,N
+65,29,IL,250/500,1000,1726.91,MALE,High School,other-service,basketball,own-child,Vehicle Theft,Trivial Damage,None,14,1,0,0,7200,Audi,1999,N
+187,34,IN,500/1000,500,1232.57,FEMALE,PhD,machine-op-inspct,polo,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,7,3,0,0,45100,Nissan,2011,N
+386,53,OH,250/500,500,1078.65,MALE,JD,craft-repair,camping,not-in-family,Single Vehicle Collision,Minor Damage,Police,16,1,2,3,66660,Honda,2006,N
+197,41,OH,500/1000,1000,1324.78,FEMALE,PhD,prof-specialty,basketball,not-in-family,Single Vehicle Collision,Major Damage,Police,6,1,2,2,76400,Volkswagen,1997,Y
+166,37,IN,250/500,500,1518.54,FEMALE,MD,craft-repair,kayaking,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,10,1,1,1,58300,Ford,2001,N
+293,49,IL,100/300,2000,1239.06,FEMALE,JD,transport-moving,skydiving,husband,Single Vehicle Collision,Total Loss,Police,19,1,1,1,57310,Volkswagen,2002,N
+179,32,OH,500/1000,2000,1246.68,FEMALE,PhD,priv-house-serv,movies,own-child,Single Vehicle Collision,Minor Damage,Fire,10,1,0,1,53100,Suburu,2006,N
+76,24,OH,250/500,1000,1622.67,FEMALE,MD,priv-house-serv,paintball,husband,Multi-vehicle Collision,Total Loss,Ambulance,6,3,1,1,74700,Suburu,1997,N
+105,28,OH,250/500,500,1082.36,FEMALE,Associate,prof-specialty,golf,own-child,Multi-vehicle Collision,Major Damage,Fire,12,3,2,2,60500,Audi,1995,N
+97,26,OH,250/500,1000,1270.55,MALE,Masters,protective-serv,chess,unmarried,Multi-vehicle Collision,Total Loss,Other,10,3,2,3,84920,Jeep,2006,Y
+148,36,IL,500/1000,1000,1236.32,FEMALE,MD,adm-clerical,hiking,own-child,Single Vehicle Collision,Total Loss,Police,0,1,2,0,61050,Dodge,2009,N
+77,26,IL,250/500,2000,785.82,MALE,JD,exec-managerial,movies,other-relative,Multi-vehicle Collision,Major Damage,Police,12,3,2,0,69080,Audi,2009,Y
+295,46,IN,250/500,500,1265.84,FEMALE,JD,prof-specialty,paintball,own-child,Vehicle Theft,Minor Damage,None,10,1,1,3,4560,Nissan,2007,N
+126,28,IN,250/500,500,1508.9,FEMALE,JD,machine-op-inspct,skydiving,other-relative,Multi-vehicle Collision,Total Loss,Police,3,4,0,1,67800,Ford,2011,N
+132,32,OH,250/500,2000,1106.84,MALE,PhD,other-service,reading,wife,Vehicle Theft,Minor Damage,Police,21,1,1,1,5600,Suburu,2005,N
+370,55,IN,500/1000,2000,1389.13,MALE,JD,other-service,basketball,wife,Vehicle Theft,Minor Damage,None,6,1,0,2,9000,Mercedes,2015,N
+257,43,IN,100/300,1000,974.84,FEMALE,JD,transport-moving,kayaking,other-relative,Single Vehicle Collision,Total Loss,Police,0,1,0,1,85320,Nissan,2006,N
+9,24,IL,100/300,2000,1304.46,FEMALE,PhD,machine-op-inspct,golf,other-relative,Vehicle Theft,Trivial Damage,None,6,1,0,3,5940,Audi,2001,Y
+185,34,OH,250/500,500,1257.36,FEMALE,PhD,armed-forces,movies,husband,Multi-vehicle Collision,Major Damage,Fire,20,3,1,1,51370,BMW,2000,Y
+234,43,OH,250/500,500,1257.04,MALE,Associate,protective-serv,reading,own-child,Single Vehicle Collision,Major Damage,Police,4,1,2,2,51600,Dodge,2011,N
+253,44,OH,100/300,2000,719.52,FEMALE,High School,farming-fishing,golf,own-child,Parked Car,Trivial Damage,None,9,1,0,3,5400,Chevrolet,1998,N
+233,39,OH,500/1000,2000,1524.18,MALE,JD,craft-repair,reading,unmarried,Multi-vehicle Collision,Minor Damage,Fire,20,3,1,0,48870,Saab,1999,N
+274,44,IN,500/1000,500,1395.58,FEMALE,JD,tech-support,reading,husband,Vehicle Theft,Minor Damage,Police,7,1,2,1,5590,BMW,2000,N
+297,48,IL,500/1000,1000,1243.68,MALE,Masters,protective-serv,camping,wife,Multi-vehicle Collision,Major Damage,Other,18,3,0,2,54960,Toyota,2002,Y
+273,47,OH,500/1000,1000,1189.04,FEMALE,Associate,prof-specialty,video-games,own-child,Multi-vehicle Collision,Minor Damage,Police,0,3,1,3,39800,Jeep,2014,N
+147,37,IN,500/1000,2000,1375.29,FEMALE,Masters,armed-forces,chess,own-child,Multi-vehicle Collision,Major Damage,Ambulance,11,3,0,1,56160,Ford,2015,Y
+285,42,IN,100/300,500,1389.13,MALE,Associate,priv-house-serv,golf,not-in-family,Single Vehicle Collision,Total Loss,Fire,13,1,0,3,52700,Toyota,2005,N
+289,43,OH,500/1000,1000,1387.51,FEMALE,Associate,sales,base-jumping,not-in-family,Multi-vehicle Collision,Minor Damage,Fire,19,3,1,3,68580,Jeep,2010,N
+427,60,IN,100/300,1000,1178.61,MALE,MD,craft-repair,board-games,own-child,Single Vehicle Collision,Major Damage,Ambulance,23,1,1,2,90860,Volkswagen,2004,Y
+380,53,IL,250/500,2000,1166.62,MALE,Associate,priv-house-serv,bungie-jumping,wife,Parked Car,Trivial Damage,Police,23,1,0,3,5700,Saab,2001,N
+13,21,IN,100/300,1000,1556.31,MALE,Associate,prof-specialty,golf,not-in-family,Multi-vehicle Collision,Total Loss,Police,19,3,2,0,94930,Accura,2014,N
+282,43,OH,250/500,500,1452.27,MALE,MD,farming-fishing,video-games,not-in-family,Single Vehicle Collision,Major Damage,Ambulance,19,1,1,2,46800,Audi,2007,Y
+312,47,OH,500/1000,1000,1212.07,FEMALE,MD,exec-managerial,polo,wife,Multi-vehicle Collision,Total Loss,Fire,17,3,2,3,56320,Mercedes,2000,N
+266,46,OH,100/300,2000,1578.54,MALE,Associate,handlers-cleaners,chess,husband,Single Vehicle Collision,Minor Damage,Fire,18,1,1,3,83490,Nissan,1996,N
+30,36,IN,500/1000,500,1488.26,FEMALE,College,machine-op-inspct,golf,wife,Multi-vehicle Collision,Total Loss,Police,17,3,2,2,57900,Saab,2008,N
+198,36,IN,250/500,1000,1096.39,MALE,High School,armed-forces,kayaking,own-child,Multi-vehicle Collision,Total Loss,Fire,11,3,1,3,49410,Audi,2015,N
+290,45,OH,500/1000,2000,1215.36,MALE,Associate,tech-support,reading,own-child,Multi-vehicle Collision,Minor Damage,Fire,22,3,0,1,66200,Suburu,2012,N
+260,46,OH,100/300,2000,1482.57,MALE,MD,priv-house-serv,reading,husband,Single Vehicle Collision,Minor Damage,Fire,7,1,0,1,64080,Toyota,2005,N
+233,43,OH,250/500,1000,954.18,FEMALE,College,tech-support,dancing,other-relative,Multi-vehicle Collision,Minor Damage,Other,17,3,2,3,42500,Nissan,2000,N
+130,30,IL,500/1000,2000,1193.4,MALE,PhD,exec-managerial,bungie-jumping,own-child,Multi-vehicle Collision,Total Loss,Other,16,3,2,3,48950,Suburu,2005,N
+230,42,IN,100/300,1000,1023.11,FEMALE,MD,adm-clerical,golf,own-child,Multi-vehicle Collision,Minor Damage,Other,13,3,1,2,58850,Accura,1999,N
+212,40,IL,500/1000,1000,1524.45,FEMALE,Masters,other-service,golf,husband,Multi-vehicle Collision,Minor Damage,Other,17,3,0,2,82400,Nissan,2006,N
+299,44,OH,500/1000,1000,1653.32,FEMALE,College,other-service,bungie-jumping,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,3,1,2,0,54240,Suburu,2009,N
+91,26,IL,250/500,1000,1022.46,FEMALE,Associate,armed-forces,video-games,other-relative,Multi-vehicle Collision,Minor Damage,Other,15,3,0,2,74200,Jeep,1996,N
+398,53,IL,100/300,2000,1396.43,FEMALE,Associate,priv-house-serv,base-jumping,unmarried,Single Vehicle Collision,Total Loss,Fire,16,1,2,1,47430,Toyota,2000,N
+218,43,IL,250/500,500,1521.55,FEMALE,Associate,priv-house-serv,polo,other-relative,Single Vehicle Collision,Major Damage,Fire,18,1,1,3,68200,Dodge,2003,Y
+152,33,IN,100/300,1000,1034.27,FEMALE,JD,armed-forces,exercise,husband,Single Vehicle Collision,Minor Damage,Fire,18,1,1,0,63900,Accura,2014,N
+212,39,OH,100/300,1000,1255.35,FEMALE,JD,protective-serv,skydiving,not-in-family,Multi-vehicle Collision,Total Loss,Ambulance,22,2,0,3,59300,Dodge,2008,N
+242,44,IL,500/1000,2000,1396.89,FEMALE,College,priv-house-serv,chess,other-relative,Multi-vehicle Collision,Minor Damage,Other,15,3,1,2,66900,Suburu,1999,Y
+80,27,OH,500/1000,500,795.31,MALE,JD,farming-fishing,skydiving,husband,Multi-vehicle Collision,Major Damage,Police,16,3,1,3,40810,Ford,2000,Y
+260,43,IN,100/300,500,982.22,FEMALE,JD,exec-managerial,skydiving,not-in-family,Single Vehicle Collision,Total Loss,Fire,18,1,1,0,75400,Honda,2011,N
+133,34,IN,500/1000,500,1074.07,FEMALE,JD,prof-specialty,bungie-jumping,husband,Parked Car,Minor Damage,None,8,1,2,0,4200,Jeep,2013,N
+290,45,OH,100/300,1000,1311.3,FEMALE,Associate,machine-op-inspct,chess,wife,Multi-vehicle Collision,Major Damage,Ambulance,23,3,0,0,52650,Ford,2001,Y
+322,49,IL,250/500,2000,1277.12,FEMALE,PhD,armed-forces,kayaking,own-child,Single Vehicle Collision,Major Damage,Ambulance,18,1,0,2,42240,Chevrolet,2007,N
+228,39,IN,500/1000,500,1388.62,FEMALE,JD,sales,reading,husband,Single Vehicle Collision,Minor Damage,Other,10,1,1,0,59490,Mercedes,1995,N
+195,37,IL,100/300,1000,1406.52,MALE,MD,tech-support,base-jumping,unmarried,Single Vehicle Collision,Major Damage,Ambulance,12,1,0,2,44200,Jeep,2002,Y
+247,39,IN,100/300,500,1558.29,FEMALE,Masters,protective-serv,reading,unmarried,Vehicle Theft,Trivial Damage,Police,5,1,1,2,7700,Saab,2000,N
+405,57,IN,500/1000,1000,1132.47,MALE,MD,priv-house-serv,exercise,other-relative,Multi-vehicle Collision,Total Loss,Other,21,3,2,3,61440,Saab,2008,N
+144,37,OH,250/500,2000,1896.91,FEMALE,PhD,handlers-cleaners,sleeping,not-in-family,Multi-vehicle Collision,Major Damage,Fire,17,3,1,3,54400,Chevrolet,2015,Y
+338,47,IL,500/1000,500,1143.46,MALE,MD,priv-house-serv,polo,other-relative,Single Vehicle Collision,Total Loss,Other,4,1,2,1,58560,Mercedes,2002,N
+121,34,IN,500/1000,500,1285.42,MALE,MD,priv-house-serv,video-games,wife,Single Vehicle Collision,Major Damage,Fire,11,1,1,1,67300,Dodge,2000,Y
+398,55,OH,250/500,2000,1305.26,MALE,MD,farming-fishing,skydiving,wife,Single Vehicle Collision,Major Damage,Fire,18,1,1,3,36740,BMW,1998,Y
+9,30,IL,100/300,1000,1073.83,FEMALE,High School,machine-op-inspct,dancing,not-in-family,Single Vehicle Collision,Total Loss,Police,12,1,0,0,85690,BMW,2011,N
+115,31,OH,500/1000,1000,1051.67,FEMALE,Associate,exec-managerial,bungie-jumping,not-in-family,Multi-vehicle Collision,Major Damage,Ambulance,18,3,0,3,34160,Audi,2005,Y
+280,48,IL,250/500,1000,1387.35,MALE,JD,transport-moving,paintball,not-in-family,Single Vehicle Collision,Minor Damage,Fire,16,1,2,2,61320,BMW,1998,N
+254,45,IL,250/500,500,1083.64,MALE,JD,other-service,paintball,husband,Multi-vehicle Collision,Total Loss,Police,19,3,0,0,79680,BMW,2004,N
+141,30,IL,250/500,1000,1851.78,FEMALE,High School,craft-repair,exercise,other-relative,Single Vehicle Collision,Total Loss,Fire,13,1,1,0,61740,Audi,2002,N
+441,55,IN,250/500,500,1270.29,MALE,College,armed-forces,exercise,husband,Parked Car,Minor Damage,None,4,1,0,0,6400,Honda,2002,N
+381,55,OH,500/1000,500,1459.99,FEMALE,MD,other-service,chess,wife,Single Vehicle Collision,Major Damage,Fire,8,1,1,2,60600,Accura,2011,N
+191,38,IL,100/300,2000,1253.44,FEMALE,Masters,craft-repair,sleeping,not-in-family,Multi-vehicle Collision,Major Damage,Ambulance,19,3,2,0,56320,Volkswagen,2007,N
+145,34,IN,100/300,1000,1142.48,FEMALE,JD,priv-house-serv,sleeping,other-relative,Single Vehicle Collision,Total Loss,Ambulance,18,1,2,0,52250,Suburu,2012,N
+479,60,IL,500/1000,1000,1188.45,FEMALE,MD,exec-managerial,camping,other-relative,Multi-vehicle Collision,Total Loss,Other,9,2,0,3,53900,Saab,2006,N
+215,35,IL,500/1000,1000,1125.4,MALE,Masters,adm-clerical,yachting,husband,Vehicle Theft,Trivial Damage,None,6,1,2,1,2640,Jeep,2001,N
+41,33,OH,250/500,500,1294.41,MALE,High School,transport-moving,sleeping,husband,Vehicle Theft,Minor Damage,None,8,1,0,0,8970,Dodge,2011,N
+45,31,IN,100/300,500,1459.5,MALE,MD,priv-house-serv,movies,not-in-family,Parked Car,Minor Damage,None,6,1,1,3,6000,Suburu,2000,N
+156,38,IL,100/300,500,1367.99,MALE,High School,armed-forces,board-games,own-child,Multi-vehicle Collision,Major Damage,Fire,23,3,0,3,55200,Saab,1998,Y
+246,45,IN,250/500,500,1594.37,MALE,Associate,exec-managerial,board-games,own-child,Parked Car,Trivial Damage,None,13,1,0,3,7260,Saab,2008,N
+178,39,IL,100/300,500,1035.99,FEMALE,JD,exec-managerial,sleeping,own-child,Multi-vehicle Collision,Minor Damage,Police,3,3,2,0,64680,Jeep,2010,N
+237,43,OH,250/500,500,911.53,FEMALE,PhD,sales,basketball,husband,Single Vehicle Collision,Major Damage,Police,23,1,0,1,59200,Chevrolet,1998,N
+127,34,OH,500/1000,500,1319.97,FEMALE,Associate,craft-repair,paintball,own-child,Vehicle Theft,Minor Damage,None,8,1,1,3,4700,Saab,1998,N
+1,33,OH,250/500,2000,1391.63,MALE,Associate,sales,video-games,husband,Single Vehicle Collision,Total Loss,Other,23,1,0,3,69400,Mercedes,2000,N
+5,21,IN,250/500,500,915.41,FEMALE,High School,exec-managerial,sleeping,own-child,Single Vehicle Collision,Total Loss,Police,23,1,0,0,40500,Nissan,1998,N
+64,28,IL,500/1000,1000,1468.82,MALE,JD,handlers-cleaners,skydiving,other-relative,Multi-vehicle Collision,Minor Damage,Fire,9,3,2,1,60000,Honda,1997,N
+142,30,IN,500/1000,500,1412.76,MALE,PhD,armed-forces,basketball,wife,Single Vehicle Collision,Minor Damage,Other,22,1,2,3,67320,Volkswagen,1996,N
+97,27,OH,500/1000,500,1588.26,FEMALE,High School,tech-support,movies,husband,Multi-vehicle Collision,Total Loss,Other,22,3,2,1,75690,Saab,2014,N
+121,31,IN,100/300,1000,1140.91,MALE,Associate,adm-clerical,paintball,other-relative,Multi-vehicle Collision,Major Damage,Fire,15,3,1,2,64300,Chevrolet,2002,Y
+225,43,OH,100/300,1000,1517.54,MALE,JD,priv-house-serv,camping,own-child,Multi-vehicle Collision,Major Damage,Police,16,3,2,0,64400,BMW,2011,N
+425,53,OH,250/500,2000,912.29,FEMALE,High School,priv-house-serv,paintball,husband,Multi-vehicle Collision,Minor Damage,Fire,17,3,1,2,97080,Saab,2005,N
+285,44,OH,250/500,2000,1144.3,MALE,MD,priv-house-serv,base-jumping,not-in-family,Vehicle Theft,Minor Damage,Police,3,1,1,0,5500,Honda,2010,N
+192,38,IN,500/1000,1000,1281.43,FEMALE,Masters,transport-moving,skydiving,not-in-family,Multi-vehicle Collision,Total Loss,Other,10,3,0,2,30700,Jeep,2010,N
+285,48,IL,100/300,2000,1101.85,FEMALE,College,sales,dancing,wife,Single Vehicle Collision,Minor Damage,Police,9,1,1,2,33480,Nissan,2012,N
+98,26,IN,500/1000,2000,1082.1,MALE,JD,exec-managerial,kayaking,other-relative,Multi-vehicle Collision,Total Loss,Police,13,2,0,1,65430,Jeep,2001,N
+175,36,OH,500/1000,500,1185.44,MALE,Masters,exec-managerial,kayaking,not-in-family,Multi-vehicle Collision,Major Damage,Police,15,3,2,1,42680,Accura,2006,Y
+259,45,IL,500/1000,2000,1175.07,MALE,MD,craft-repair,movies,not-in-family,Single Vehicle Collision,Minor Damage,Fire,23,1,1,1,87780,Honda,2011,N
+140,36,OH,500/1000,2000,979.26,FEMALE,JD,transport-moving,cross-fit,own-child,Multi-vehicle Collision,Major Damage,Fire,2,4,0,2,72800,Honda,1998,N
+231,37,OH,250/500,500,920.81,FEMALE,High School,sales,chess,wife,Single Vehicle Collision,Major Damage,Fire,14,1,2,0,71190,Mercedes,1997,Y
+186,38,OH,100/300,500,922.85,MALE,High School,adm-clerical,golf,husband,Vehicle Theft,Trivial Damage,None,7,1,1,1,3600,Honda,1999,N
+229,41,OH,250/500,2000,1107.59,MALE,PhD,tech-support,chess,not-in-family,Single Vehicle Collision,Major Damage,Other,23,1,1,3,62640,Mercedes,2009,N
+180,36,IL,100/300,500,1272.46,MALE,College,prof-specialty,exercise,wife,Multi-vehicle Collision,Minor Damage,Ambulance,7,3,2,1,69630,Toyota,1998,N
+188,33,IL,250/500,1000,1340.24,MALE,High School,protective-serv,chess,own-child,Multi-vehicle Collision,Minor Damage,Police,8,3,1,0,76010,Dodge,1995,Y
+214,40,OH,100/300,1000,1648.0,MALE,JD,transport-moving,base-jumping,not-in-family,Single Vehicle Collision,Total Loss,Other,17,1,1,0,44220,Accura,2000,N
+178,38,IL,250/500,500,1381.14,FEMALE,College,other-service,camping,wife,Multi-vehicle Collision,Minor Damage,Other,10,3,0,3,57200,BMW,2011,N
+55,35,IL,500/1000,500,1198.44,MALE,MD,priv-house-serv,polo,wife,Vehicle Theft,Minor Damage,Police,9,1,0,3,3080,Nissan,1998,N
+90,31,OH,250/500,2000,951.27,FEMALE,PhD,other-service,hiking,not-in-family,Single Vehicle Collision,Total Loss,Other,2,1,1,0,75790,Accura,2007,N
+135,30,IN,500/1000,2000,1341.24,FEMALE,MD,farming-fishing,skydiving,wife,Multi-vehicle Collision,Minor Damage,Ambulance,18,3,0,1,32670,Honda,2003,N
+277,46,IL,250/500,2000,1177.57,FEMALE,Associate,adm-clerical,video-games,husband,Vehicle Theft,Minor Damage,Police,4,1,2,3,3870,Jeep,2010,N
+211,38,IN,250/500,1000,1055.09,FEMALE,Masters,transport-moving,video-games,own-child,Single Vehicle Collision,Total Loss,Fire,12,1,0,3,91520,BMW,2005,Y
+156,32,IL,250/500,500,1479.48,MALE,Masters,prof-specialty,bungie-jumping,unmarried,Single Vehicle Collision,Major Damage,Other,15,1,1,3,74690,Dodge,2008,Y
+84,30,IN,500/1000,2000,1827.38,MALE,Associate,priv-house-serv,polo,other-relative,Vehicle Theft,Trivial Damage,Police,9,1,1,3,4620,Audi,1998,N
+136,32,IN,100/300,500,1169.62,FEMALE,JD,sales,yachting,not-in-family,Single Vehicle Collision,Major Damage,Police,6,1,0,0,55000,Toyota,2008,Y
+310,48,IN,100/300,500,1516.34,FEMALE,JD,adm-clerical,sleeping,unmarried,Multi-vehicle Collision,Major Damage,Police,11,4,0,2,59400,Saab,1996,Y
+123,34,OH,500/1000,2000,1270.21,FEMALE,College,sales,sleeping,husband,Multi-vehicle Collision,Total Loss,Fire,13,3,1,1,55260,Nissan,2000,N
+243,44,IL,250/500,500,809.11,MALE,JD,craft-repair,polo,other-relative,Multi-vehicle Collision,Minor Damage,Other,4,3,2,1,51400,Honda,1996,N
+36,37,IL,500/1000,1000,1115.81,FEMALE,Masters,machine-op-inspct,reading,husband,Multi-vehicle Collision,Minor Damage,Ambulance,20,3,1,3,48780,Dodge,2008,N
+146,31,OH,100/300,1000,1457.65,FEMALE,College,armed-forces,camping,own-child,Multi-vehicle Collision,Major Damage,Ambulance,0,3,1,3,52380,Toyota,2010,N
+154,34,OH,100/300,1000,1041.36,FEMALE,JD,priv-house-serv,cross-fit,husband,Multi-vehicle Collision,Total Loss,Other,18,4,2,3,74360,Toyota,2005,Y
+204,40,OH,250/500,1000,1693.83,MALE,High School,protective-serv,polo,other-relative,Single Vehicle Collision,Minor Damage,Police,6,1,1,0,53400,Honda,2003,N
+458,59,IN,100/300,1000,1685.69,FEMALE,High School,protective-serv,hiking,wife,Single Vehicle Collision,Total Loss,Police,23,1,2,2,71800,Jeep,1995,N
+147,31,IN,250/500,500,1054.92,FEMALE,PhD,prof-specialty,exercise,own-child,Single Vehicle Collision,Major Damage,Other,4,1,0,0,68240,Toyota,2013,Y
+279,45,IN,250/500,2000,1333.97,FEMALE,MD,other-service,bungie-jumping,unmarried,Multi-vehicle Collision,Major Damage,Other,21,3,1,0,61050,Dodge,2011,Y
+308,47,OH,100/300,1000,1013.61,FEMALE,Associate,craft-repair,movies,own-child,Parked Car,Minor Damage,None,7,1,1,1,5590,Suburu,2002,N
+284,48,IL,500/1000,500,958.3,FEMALE,PhD,machine-op-inspct,exercise,husband,Multi-vehicle Collision,Major Damage,Fire,19,3,0,0,46860,Volkswagen,1998,N
+108,31,IN,250/500,2000,1112.04,FEMALE,PhD,other-service,base-jumping,own-child,Parked Car,Minor Damage,None,5,1,1,3,4290,Volkswagen,1998,N
+421,57,IN,250/500,2000,1206.26,FEMALE,Associate,armed-forces,bungie-jumping,own-child,Multi-vehicle Collision,Minor Damage,Police,22,3,0,0,78500,Audi,2015,N
+266,42,IL,500/1000,1000,763.67,MALE,Associate,prof-specialty,movies,own-child,Single Vehicle Collision,Total Loss,Police,12,1,1,3,70830,Jeep,2005,N
+412,56,IL,250/500,500,1042.56,MALE,High School,handlers-cleaners,yachting,own-child,Multi-vehicle Collision,Total Loss,Police,19,3,0,2,68040,Suburu,1997,N
+31,32,IL,100/300,2000,1263.48,FEMALE,JD,other-service,hiking,wife,Single Vehicle Collision,Major Damage,Fire,10,1,2,0,63600,Audi,1997,Y
+465,63,IL,250/500,500,1006.99,FEMALE,Masters,sales,board-games,own-child,Single Vehicle Collision,Minor Damage,Other,7,1,0,3,43560,Suburu,2015,N
+126,31,OH,250/500,1000,1328.26,MALE,Masters,sales,exercise,not-in-family,Single Vehicle Collision,Total Loss,Police,17,1,1,1,60840,Suburu,2011,N
+407,55,OH,100/300,1000,1250.08,FEMALE,PhD,tech-support,bungie-jumping,wife,Multi-vehicle Collision,Total Loss,Police,0,3,2,3,68160,Ford,2010,N
+101,27,IL,500/1000,500,982.7,FEMALE,College,transport-moving,video-games,unmarried,Parked Car,Minor Damage,None,9,1,1,0,5170,Toyota,2001,N
+187,37,IN,500/1000,1000,1412.06,FEMALE,Masters,protective-serv,reading,not-in-family,Single Vehicle Collision,Total Loss,Ambulance,21,1,0,3,57700,Nissan,2000,N
+252,46,IN,500/1000,2000,1066.7,FEMALE,JD,handlers-cleaners,sleeping,own-child,Multi-vehicle Collision,Total Loss,Other,22,3,0,2,89520,Audi,2014,N
+229,43,IN,250/500,2000,1585.54,MALE,High School,protective-serv,reading,not-in-family,Vehicle Theft,Minor Damage,None,3,1,1,0,4620,Volkswagen,2012,N
+246,39,IN,250/500,1000,1416.08,FEMALE,JD,craft-repair,yachting,other-relative,Single Vehicle Collision,Minor Damage,Ambulance,16,1,0,3,45180,Honda,2004,N
+190,38,OH,250/500,500,1246.03,MALE,JD,craft-repair,movies,unmarried,Single Vehicle Collision,Total Loss,Other,14,1,0,0,45100,Nissan,2013,N
+95,32,IN,500/1000,2000,1356.64,MALE,Masters,machine-op-inspct,golf,not-in-family,Multi-vehicle Collision,Total Loss,Police,21,3,0,3,83160,Toyota,2003,N
+205,42,IL,100/300,2000,1387.7,FEMALE,High School,priv-house-serv,skydiving,other-relative,Single Vehicle Collision,Minor Damage,Police,19,1,2,1,86130,Chevrolet,1995,N
+41,25,OH,100/300,1000,1004.14,MALE,Masters,priv-house-serv,sleeping,wife,Multi-vehicle Collision,Major Damage,Fire,13,3,1,3,48000,Dodge,1995,N
+137,35,OH,500/1000,500,1107.07,FEMALE,High School,protective-serv,movies,husband,Vehicle Theft,Minor Damage,Police,21,1,0,0,3300,Saab,2008,N
+194,34,IL,100/300,500,1429.96,FEMALE,JD,protective-serv,board-games,husband,Multi-vehicle Collision,Minor Damage,Ambulance,11,3,1,2,57200,Toyota,2005,N
+128,35,IN,250/500,1000,1074.99,FEMALE,Associate,adm-clerical,bungie-jumping,husband,Vehicle Theft,Trivial Damage,Police,16,1,2,0,7590,Accura,2012,N
+150,37,OH,500/1000,1000,1007.0,FEMALE,PhD,transport-moving,board-games,unmarried,Single Vehicle Collision,Total Loss,Police,9,1,0,2,80080,Chevrolet,2013,N
+104,30,OH,100/300,500,1052.85,FEMALE,MD,protective-serv,skydiving,other-relative,Vehicle Theft,Minor Damage,Police,8,1,0,0,4800,BMW,2006,N
+163,37,IN,500/1000,1000,1200.33,FEMALE,High School,craft-repair,cross-fit,own-child,Vehicle Theft,Minor Damage,Police,7,1,2,1,3900,Volkswagen,2008,Y
+80,26,IL,100/300,1000,1343.0,MALE,Masters,handlers-cleaners,camping,other-relative,Single Vehicle Collision,Minor Damage,Other,12,1,0,0,90400,BMW,1995,N
+65,29,OH,250/500,2000,1441.6,FEMALE,MD,sales,kayaking,own-child,Multi-vehicle Collision,Minor Damage,Other,21,3,0,0,62900,Jeep,1998,N
+179,32,OH,100/300,1000,1433.42,FEMALE,Associate,protective-serv,base-jumping,own-child,Single Vehicle Collision,Major Damage,Police,4,1,1,2,54200,Nissan,2014,Y
+372,50,OH,500/1000,2000,1368.57,FEMALE,MD,tech-support,paintball,other-relative,Multi-vehicle Collision,Major Damage,Police,18,3,2,2,51800,Accura,2003,N
+398,55,OH,250/500,500,862.19,MALE,High School,adm-clerical,movies,unmarried,Vehicle Theft,Trivial Damage,Police,7,1,2,3,6600,Accura,2012,N
+213,35,OH,250/500,500,871.46,MALE,MD,tech-support,movies,husband,Single Vehicle Collision,Total Loss,Fire,13,1,2,0,74140,Ford,2007,N
+79,25,OH,500/1000,500,1863.04,FEMALE,Associate,priv-house-serv,paintball,not-in-family,Single Vehicle Collision,Total Loss,Fire,0,1,2,1,67800,Mercedes,1995,N
+232,44,OH,250/500,2000,1181.64,MALE,College,other-service,exercise,wife,Single Vehicle Collision,Major Damage,Fire,22,1,1,1,55400,Jeep,2002,Y
+230,37,IL,500/1000,1000,1060.74,MALE,PhD,tech-support,reading,own-child,Single Vehicle Collision,Major Damage,Ambulance,15,1,2,3,49100,Suburu,1996,Y
+234,41,IN,100/300,500,951.56,FEMALE,JD,transport-moving,video-games,wife,Multi-vehicle Collision,Major Damage,Police,3,3,2,1,98280,Chevrolet,2007,Y
+240,40,IN,100/300,500,1533.71,FEMALE,JD,protective-serv,polo,own-child,Multi-vehicle Collision,Total Loss,Fire,18,2,0,2,66550,Ford,2008,N
+143,33,OH,500/1000,1000,1200.09,FEMALE,Associate,craft-repair,board-games,unmarried,Multi-vehicle Collision,Major Damage,Fire,17,3,2,2,70400,Accura,2002,N
+266,42,IN,100/300,500,1093.83,MALE,Associate,adm-clerical,board-games,other-relative,Multi-vehicle Collision,Major Damage,Ambulance,18,3,1,1,53280,Suburu,2015,Y
+89,32,IN,250/500,1000,988.93,FEMALE,High School,craft-repair,golf,unmarried,Single Vehicle Collision,Total Loss,Other,11,1,2,3,84590,Dodge,1999,N
+229,37,IN,500/1000,1000,1331.94,FEMALE,Masters,farming-fishing,base-jumping,not-in-family,Single Vehicle Collision,Total Loss,Other,17,1,0,2,54560,Saab,2004,N
+245,40,IL,500/1000,1000,1361.45,MALE,PhD,handlers-cleaners,camping,unmarried,Single Vehicle Collision,Minor Damage,Ambulance,12,1,0,2,82170,Suburu,1999,N
+50,44,OH,250/500,2000,1188.51,MALE,College,handlers-cleaners,bungie-jumping,unmarried,Multi-vehicle Collision,Total Loss,Police,15,3,1,2,61100,Dodge,2008,N
+230,43,IN,500/1000,2000,1101.83,MALE,High School,exec-managerial,cross-fit,other-relative,Multi-vehicle Collision,Minor Damage,Police,0,3,0,3,51900,BMW,2011,Y
+17,39,IL,250/500,1000,840.95,FEMALE,JD,adm-clerical,hiking,unmarried,Parked Car,Trivial Damage,Police,9,1,2,1,3440,Suburu,2002,N
+163,36,IN,250/500,1000,1503.21,MALE,MD,other-service,cross-fit,husband,Single Vehicle Collision,Total Loss,Ambulance,1,1,2,1,51390,Toyota,2013,N
+29,32,OH,100/300,1000,1722.5,MALE,High School,other-service,base-jumping,wife,Single Vehicle Collision,Major Damage,Other,22,1,0,2,76900,Jeep,1995,N
+232,42,IN,100/300,500,944.03,MALE,College,handlers-cleaners,kayaking,not-in-family,Single Vehicle Collision,Minor Damage,Other,11,1,2,3,77000,Toyota,2015,Y
+235,39,IL,500/1000,2000,1453.61,MALE,JD,craft-repair,yachting,other-relative,Single Vehicle Collision,Major Damage,Other,10,1,0,3,60320,Chevrolet,2012,Y
+295,46,IN,100/300,500,1672.88,FEMALE,High School,armed-forces,dancing,wife,Single Vehicle Collision,Minor Damage,Fire,5,1,1,1,60700,Honda,1997,N
+22,21,IN,250/500,1000,1248.05,FEMALE,High School,exec-managerial,movies,husband,Multi-vehicle Collision,Total Loss,Police,3,3,1,2,53280,Chevrolet,2015,N
+286,43,IL,100/300,500,1564.43,FEMALE,MD,prof-specialty,movies,unmarried,Single Vehicle Collision,Minor Damage,Fire,18,1,2,2,34290,Jeep,2013,N
+257,44,OH,100/300,1000,1280.88,MALE,MD,other-service,basketball,other-relative,Single Vehicle Collision,Total Loss,Other,21,1,0,1,46980,Accura,2002,N
+94,26,IN,100/300,500,722.66,MALE,MD,exec-managerial,camping,husband,Multi-vehicle Collision,Major Damage,Fire,6,3,1,2,36700,Nissan,2010,N
+124,28,OH,250/500,1000,1235.14,MALE,MD,exec-managerial,camping,husband,Multi-vehicle Collision,Total Loss,Other,20,3,0,1,60200,Volkswagen,2012,N
+141,30,IN,500/1000,1000,1347.04,MALE,High School,sales,bungie-jumping,own-child,Parked Car,Minor Damage,None,6,1,1,2,6480,Honda,1996,N
+3,38,OH,500/1000,1000,1310.8,FEMALE,Masters,craft-repair,paintball,unmarried,Single Vehicle Collision,Minor Damage,Fire,20,1,0,1,87200,Honda,2006,N
+285,41,IL,100/300,1000,1436.79,FEMALE,PhD,prof-specialty,sleeping,wife,Single Vehicle Collision,Major Damage,Fire,23,1,2,3,108480,Volkswagen,2015,N
+130,34,OH,250/500,500,1383.49,FEMALE,Masters,armed-forces,bungie-jumping,other-relative,Multi-vehicle Collision,Minor Damage,Police,4,3,2,3,67500,Suburu,1996,N
+458,62,IL,500/1000,2000,1356.92,MALE,Associate,handlers-cleaners,base-jumping,wife,Single Vehicle Collision,Major Damage,Other,2,1,0,1,46980,Audi,1998,N
+456,60,OH,250/500,1000,766.19,FEMALE,Associate,sales,kayaking,husband,Parked Car,Minor Damage,Police,6,1,0,3,5060,Mercedes,2007,N
